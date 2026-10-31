@@ -1,52 +1,99 @@
 {
   "date": "2026-10-31",
-  "date_label": "Sat 31 Oct · Weekend",
+  "date_label": "Sat 31 Oct",
   "headline1": "Weekend brief:",
   "headline2": "Gold below $4K.",
-  "lede": "Gold fell about 3.6% on Friday to near $3,876, its lowest level in a year, as bets on a December Fed hike and a tech-led stock selloff forced investors to sell. Forex and gold are closed until Monday; next week brings the US midterms, the BoE decision and Friday's payrolls.",
-  "snapshot_time": "Fri close · BTC Sat 08:34 TRT",
+  "lede": "Gold fell about 3.6% on Friday to near $3,876, its lowest level in a year, as bets on a December Fed hike and a tech-led stock selloff forced investors to sell. Forex and gold are closed until Monday; crypto stays under pressure after the Binance hack.",
+  "snapshot_time": "Fri close",
   "snapshot": [
     {"symbol": "XAUUSD", "price": "3,875.8", "change_pct": -3.62},
     {"symbol": "EURUSD", "price": "1.1158", "change_pct": -0.20},
     {"symbol": "GBPUSD", "price": "1.3388", "change_pct": 0.11},
     {"symbol": "S&P 500", "price": "7,580", "change_pct": -1.82},
-    {"symbol": "BRENT", "price": "113.43", "change_pct": 2.37},
-    {"symbol": "BTCUSDT", "price": "77,175", "change_pct": -1.71}
+    {"symbol": "BRENT", "price": "113.43", "change_pct": 2.37}
   ],
   "focus": [
     {"symbol": "XAUUSD", "text": "Broke below $4,000 and closed the week down about 3.7%. It sits under Monday's pivot of 3,924.5; Friday's low near 3,870 is the nearest reference."},
     {"symbol": "EURUSD", "text": "Ended October more than 1% lower, near its weakest in over a year, on French fiscal worries and weak growth. Eurozone CPI on Wednesday and US payrolls on Friday are the key tests."}
   ],
+  "technicals": [
+    {"symbol": "XAUUSD", "trend": "Bearish", "timeframe": "Daily",
+     "resistance": ["4,000", "4,100", "4,200–4,490 (MA cluster)"],
+     "support": ["3,850–3,880", "3,800"],
+     "indicators": "RSI(14) ≈ 30, oversold · below 50/100/200-day MAs · MACD bearish",
+     "note": "Lower highs and lower lows since the August peak near $4,700. Price is now testing the 3,850–3,880 support zone."},
+    {"symbol": "EURUSD", "trend": "Bearish bias", "timeframe": "Daily / weekly",
+     "resistance": ["1.1269", "1.1337 (55-day EMA)"],
+     "support": ["1.1100–1.1103", "1.0904 (61.8% Fib)"],
+     "indicators": "Short-term neutral after the rebound from 1.1103",
+     "note": "The larger decline from 1.2081 stays in place while 1.1269 holds; a break below 1.1100 would extend it toward the 61.8% retracement."},
+    {"symbol": "BTCUSDT", "trend": "Bearish", "timeframe": "Daily",
+     "resistance": ["78,000", "80,000–82,000"],
+     "support": ["76,000–76,500 (200-day MA)", "74,000", "72,000"],
+     "indicators": "Daily RSI in the mid-30s, near oversold",
+     "note": "Testing the 200-day moving average zone after the Binance hack; momentum favours sellers and there is no confirmed reversal signal yet."},
+    {"symbol": "ETHUSDT", "trend": "Bearish", "timeframe": "Daily",
+     "resistance": ["2,300", "2,350", "2,450"],
+     "support": ["2,170–2,200", "2,100", "2,000"],
+     "indicators": "RSI near the bottom of its neutral range",
+     "note": "Fell on heavy volume; holding the 2,170–2,200 area is the first test."}
+  ],
   "levels": [
     {"symbol": "XAUUSD", "s1": "3821.6", "pivot": "3924.5", "r1": "3978.7", "bias": "below"}
   ],
   "strength": [],
-  "tz": "TRT · WEEK AHEAD",
-  "calendar": [
-    {"time": "Mon 18:00", "ccy": "USD", "event": "ISM Manufacturing PMI (Oct)", "impact": "high"},
-    {"time": "Tue 06:30", "ccy": "AUD", "event": "RBA rate decision", "impact": "medium"},
-    {"time": "Tue", "ccy": "USD", "event": "US midterm elections (results overnight)", "impact": "high"},
-    {"time": "Wed 13:00", "ccy": "EUR", "event": "Eurozone flash CPI (Oct)", "impact": "high"},
-    {"time": "Wed 18:00", "ccy": "USD", "event": "ISM Services PMI (Oct)", "impact": "medium"},
-    {"time": "Thu 15:00", "ccy": "GBP", "event": "Bank of England rate decision", "impact": "high"},
-    {"time": "Fri 16:30", "ccy": "USD", "event": "Non-farm payrolls (Oct)", "impact": "high"}
-  ],
+  "tz": "TRT",
+  "calendar": [],
   "news": [
-    {"tag": "FED", "text": "The Fed held at 3.75–4.00% this week but two members voted for a hike; futures now price roughly a 76% chance of a December increase."},
-    {"tag": "GOLD", "text": "Most Wall Street analysts in Kitco's weekly survey expect further losses next week, while retail voters remain mostly bullish."},
+    {"tag": "FED", "text": "The Fed held at 3.75–4.00% this week but two members voted for a hike; futures now price roughly a 76–80% chance of a December increase."},
+    {"tag": "GOLD", "text": "Gold is now about 27% below its January record. Most Wall Street analysts in Kitco's weekly survey expect further losses; retail voters stay mostly bullish."},
+    {"tag": "STOCKS", "text": "The Nasdaq lost 2.9% on Friday as Intel plunged about 29% on weak guidance, deepening doubts about returns on AI spending."},
     {"tag": "OIL", "text": "Brent climbed above $113 after a tanker was struck by limpet mines in the Strait of Hormuz, adding to inflation concerns."},
-    {"tag": "BTC", "text": "Bitcoin hit a six-week low after a $6.3B Binance hack; the exchange plans phased withdrawals and proof-of-reserves data by Monday."},
     {"tag": "GBP", "text": "Sterling is near its strongest since mid-September as markets almost fully price a Bank of England hike on 5 November."}
+  ],
+  "crypto": {
+    "snapshot_time": "Sat 03:47 TRT · 7-day change",
+    "snapshot": [
+      {"symbol": "BTC", "price": "77,290", "change_pct": -4.0},
+      {"symbol": "ETH", "price": "2,246", "change_pct": -5.2},
+      {"symbol": "BNB", "price": "708.61", "change_pct": -3.6},
+      {"symbol": "SOL", "price": "96.34", "change_pct": -5.6},
+      {"symbol": "ADA", "price": "0.1960", "change_pct": -6.4}
+    ],
+    "news": [
+      {"tag": "HACK", "text": "Binance lost about $6.3B on 29 Oct in an attack linked to North Korea's TraderTraitor group; roughly $3B has been frozen."},
+      {"tag": "BINANCE", "text": "The exchange set aside $6.34B to cover users, aims to reopen withdrawals in phases from Sunday and publish proof of reserves on Monday."},
+      {"tag": "ETF", "text": "US spot bitcoin ETFs saw $643M of net outflows on Friday, the largest since June, led by BlackRock IBIT and Fidelity FBTC."},
+      {"tag": "ALTS", "text": "Ether, Solana and XRP fell 17–26% in October as the total crypto market value dropped about $360B to $2.58T."},
+      {"tag": "ALTS", "text": "Hyperliquid (+17.7%), Zcash and Monero were the week's top gainers while most large coins declined; BNB held up better than BTC and ETH."}
+    ]
+  },
+  "upcoming": [
+    {"when": "Sun 1 Nov", "tag": "BINANCE", "event": "Phased reopening of withdrawals targeted", "impact": "medium"},
+    {"when": "Sun 1 Nov", "tag": "USD", "event": "US clocks go back one hour", "note": "US data now comes one hour later in Turkey time (e.g. payrolls at 16:30).", "impact": "low"},
+    {"when": "Mon 2 Nov", "tag": "BINANCE", "event": "Proof-of-reserves report", "impact": "high"},
+    {"when": "Mon 2 Nov 18:00", "tag": "USD", "event": "ISM Manufacturing PMI (Oct)", "note": "Expected 54.7, previous 54.5.", "impact": "high"},
+    {"when": "Tue 3 Nov 06:30", "tag": "AUD", "event": "RBA rate decision", "note": "About 79% priced for a 25bp hike to 4.85%.", "impact": "medium"},
+    {"when": "Tue 3 Nov", "tag": "USD", "event": "US midterm elections", "note": "All 435 House seats and 35 Senate seats; results overnight into Wednesday.", "impact": "high"},
+    {"when": "Wed 4 Nov 13:00", "tag": "EUR", "event": "Eurozone flash CPI (Oct)", "note": "September was 3.8% y/y.", "impact": "high"},
+    {"when": "Wed 4 Nov 18:00", "tag": "USD", "event": "ISM Services PMI (Oct)", "note": "Expected 54.7, previous 54.9.", "impact": "medium"},
+    {"when": "Thu 5 Nov 15:00", "tag": "GBP", "event": "Bank of England rate decision", "note": "A 25bp hike is widely expected.", "impact": "high"},
+    {"when": "Fri 6 Nov 16:30", "tag": "USD", "event": "Non-farm payrolls (Oct)", "note": "Consensus +55k, unemployment 4.2%.", "impact": "high"}
   ],
   "sources": [
     {"title": "Kitco — gold sinks below $3,900", "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"},
     {"title": "Trading Economics — Gold", "url": "https://tradingeconomics.com/commodity/gold"},
     {"title": "FinanceFeeds — gold intraday range", "url": "https://financefeeds.com/gold-price-today-3987-friday-below-4000-second-monthly-decline-bull-4080-bear-3940/"},
+    {"title": "XTB — gold technical view", "url": "https://xtb.com/cy/market-analysis/news-and-research/gold-prices-drop-sharply-at-the-end-of-october-the-collapse-of-the-safe-haven-myth-or-a-search-for-liquidity"},
+    {"title": "ActionForex — EUR/USD weekly outlook", "url": "https://www.actionforex.com/technical-outlook/eurusd-outlook/659441-eur-usd-weekly-outlook-480/"},
     {"title": "Trading Economics — EUR/USD", "url": "https://tradingeconomics.com/euro-area/currency"},
     {"title": "Trading Economics — GBP/USD", "url": "https://tradingeconomics.com/united-kingdom/currency"},
     {"title": "Closing Look — Friday, October 30", "url": "https://cappnotes.substack.com/p/closing-look-friday-october-30-2026"},
     {"title": "Newsquawk — Week in Focus 2–6 Nov", "url": "https://www.newsquawk.com/headlines/week-in-focus-2nd-6th-november-2026-highlights-include-us-midterm-election-nfp-ism-pmis-rba-boe-and-ez-cpi-"},
-    {"title": "Yahoo Finance — Bitcoin holds above $77,000", "url": "https://uk.finance.yahoo.com/news/bitcoin-holds-above-77-000-061610983.html"}
+    {"title": "CryptoTicker — weekly recap, week 44", "url": "https://cryptoticker.io/en/crypto-weekly-recap-week-44-2026-binance-hack-stock-crash/"},
+    {"title": "U.Today — BTC, ETH, XRP, BNB analysis", "url": "https://u.today/price-analysis/binance-coin-bnb-xrp-bitcoin-btc-and-ethereum-eth-price-analysis-for-october-31-biggest-volatility"},
+    {"title": "Coinpedia — crypto market in October", "url": "https://coinpedia.org/news/crypto-market-loses-360-billion-in-october-as-solana-ethereum-lead-losses/"},
+    {"title": "AltcoinBuzz — bitcoin ETF outflows", "url": "https://altcoinbuzz.io/bitcoin-etf-outflows-643-million-blackrock-ibit"}
   ],
-  "generated_at": "2026-10-31 21:10 TRT"
+  "generated_at": "2026-10-31 21:30 TRT"
 }
