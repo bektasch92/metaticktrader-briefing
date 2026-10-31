@@ -1,45 +1,52 @@
 {
-  "date": "2026-10-26",
-  "date_label": "Mon 26 Oct",
-  "headline1": "Market mood:",
-  "headline2": "Dollar bid.",
-  "lede": "SAMPLE DATA — the agent replaces this file every morning. Asian stocks traded mixed overnight while the dollar firmed and gold eased from Friday's high.",
-  "snapshot_time": "06:45 TRT",
+  "date": "2026-10-31",
+  "date_label": "Sat 31 Oct · Weekend",
+  "headline1": "Weekend brief:",
+  "headline2": "Gold below $4K.",
+  "lede": "Gold fell about 3.6% on Friday to near $3,876, its lowest level in a year, as bets on a December Fed hike and a tech-led stock selloff forced investors to sell. Forex and gold are closed until Monday; next week brings the US midterms, the BoE decision and Friday's payrolls.",
+  "snapshot_time": "Fri close · BTC Sat 08:34 TRT",
   "snapshot": [
-    {"symbol": "XAUUSD", "price": "2,651.9", "change_pct": -0.42},
-    {"symbol": "EURUSD", "price": "1.0831", "change_pct": -0.18},
-    {"symbol": "BTCUSDT", "price": "108,115", "change_pct": 0.65},
-    {"symbol": "US500 fut", "price": "5,912", "change_pct": 0.12}
+    {"symbol": "XAUUSD", "price": "3,875.8", "change_pct": -3.62},
+    {"symbol": "EURUSD", "price": "1.1158", "change_pct": -0.20},
+    {"symbol": "GBPUSD", "price": "1.3388", "change_pct": 0.11},
+    {"symbol": "S&P 500", "price": "7,580", "change_pct": -1.82},
+    {"symbol": "BRENT", "price": "113.43", "change_pct": 2.37},
+    {"symbol": "BTCUSDT", "price": "77,175", "change_pct": -1.71}
   ],
   "focus": [
-    {"symbol": "XAUUSD", "text": "Trading below the daily pivot after Friday's rejection near the weekly high; US data this afternoon is the main risk event."},
-    {"symbol": "EURUSD", "text": "Holding just above S1 as the dollar firms; German Ifo at 11:00 is the first test for the euro today."}
+    {"symbol": "XAUUSD", "text": "Broke below $4,000 and closed the week down about 3.7%. It sits under Monday's pivot of 3,924.5; Friday's low near 3,870 is the nearest reference."},
+    {"symbol": "EURUSD", "text": "Ended October more than 1% lower, near its weakest in over a year, on French fiscal worries and weak growth. Eurozone CPI on Wednesday and US payrolls on Friday are the key tests."}
   ],
   "levels": [
-    {"symbol": "XAUUSD", "s1": "2638.4", "pivot": "2651.9", "r1": "2669.3", "bias": "below"},
-    {"symbol": "EURUSD", "s1": "1.0812", "pivot": "1.0846", "r1": "1.0881", "bias": "below"},
-    {"symbol": "GBPUSD", "s1": "1.2688", "pivot": "1.2721", "r1": "1.2760", "bias": "below"},
-    {"symbol": "BTCUSDT", "s1": "106,240", "pivot": "108,115", "r1": "110,480", "bias": "above"}
+    {"symbol": "XAUUSD", "s1": "3821.6", "pivot": "3924.5", "r1": "3978.7", "bias": "below"}
   ],
-  "strength": [
-    {"ccy": "USD", "value": 0.31},
-    {"ccy": "JPY", "value": 0.18},
-    {"ccy": "CHF", "value": 0.06},
-    {"ccy": "EUR", "value": -0.12},
-    {"ccy": "GBP", "value": -0.21},
-    {"ccy": "AUD", "value": -0.38}
-  ],
-  "tz": "TRT",
+  "strength": [],
+  "tz": "TRT · WEEK AHEAD",
   "calendar": [
-    {"time": "11:00", "ccy": "EUR", "event": "German Ifo Business Climate", "impact": "medium"},
-    {"time": "17:00", "ccy": "USD", "event": "New Home Sales", "impact": "medium"}
+    {"time": "Mon 18:00", "ccy": "USD", "event": "ISM Manufacturing PMI (Oct)", "impact": "high"},
+    {"time": "Tue 06:30", "ccy": "AUD", "event": "RBA rate decision", "impact": "medium"},
+    {"time": "Tue", "ccy": "USD", "event": "US midterm elections (results overnight)", "impact": "high"},
+    {"time": "Wed 13:00", "ccy": "EUR", "event": "Eurozone flash CPI (Oct)", "impact": "high"},
+    {"time": "Wed 18:00", "ccy": "USD", "event": "ISM Services PMI (Oct)", "impact": "medium"},
+    {"time": "Thu 15:00", "ccy": "GBP", "event": "Bank of England rate decision", "impact": "high"},
+    {"time": "Fri 16:30", "ccy": "USD", "event": "Non-farm payrolls (Oct)", "impact": "high"}
   ],
   "news": [
-    {"tag": "FED", "text": "Sample item: officials signal patience on further rate cuts ahead of next week's meeting."},
-    {"tag": "BTC", "text": "Sample item: spot bitcoin ETFs report a third straight week of inflows."}
+    {"tag": "FED", "text": "The Fed held at 3.75–4.00% this week but two members voted for a hike; futures now price roughly a 76% chance of a December increase."},
+    {"tag": "GOLD", "text": "Most Wall Street analysts in Kitco's weekly survey expect further losses next week, while retail voters remain mostly bullish."},
+    {"tag": "OIL", "text": "Brent climbed above $113 after a tanker was struck by limpet mines in the Strait of Hormuz, adding to inflation concerns."},
+    {"tag": "BTC", "text": "Bitcoin hit a six-week low after a $6.3B Binance hack; the exchange plans phased withdrawals and proof-of-reserves data by Monday."},
+    {"tag": "GBP", "text": "Sterling is near its strongest since mid-September as markets almost fully price a Bank of England hike on 5 November."}
   ],
   "sources": [
-    {"title": "Example source", "url": "https://www.reuters.com/markets/"}
+    {"title": "Kitco — gold sinks below $3,900", "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"},
+    {"title": "Trading Economics — Gold", "url": "https://tradingeconomics.com/commodity/gold"},
+    {"title": "FinanceFeeds — gold intraday range", "url": "https://financefeeds.com/gold-price-today-3987-friday-below-4000-second-monthly-decline-bull-4080-bear-3940/"},
+    {"title": "Trading Economics — EUR/USD", "url": "https://tradingeconomics.com/euro-area/currency"},
+    {"title": "Trading Economics — GBP/USD", "url": "https://tradingeconomics.com/united-kingdom/currency"},
+    {"title": "Closing Look — Friday, October 30", "url": "https://cappnotes.substack.com/p/closing-look-friday-october-30-2026"},
+    {"title": "Newsquawk — Week in Focus 2–6 Nov", "url": "https://www.newsquawk.com/headlines/week-in-focus-2nd-6th-november-2026-highlights-include-us-midterm-election-nfp-ism-pmis-rba-boe-and-ez-cpi-"},
+    {"title": "Yahoo Finance — Bitcoin holds above $77,000", "url": "https://uk.finance.yahoo.com/news/bitcoin-holds-above-77-000-061610983.html"}
   ],
-  "generated_at": "2026-10-26 07:00 TRT"
+  "generated_at": "2026-10-31 21:10 TRT"
 }
