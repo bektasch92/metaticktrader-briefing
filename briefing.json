@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-26",
+  "date_label": "Mon 26 Oct",
+  "headline1": "Market mood:",
+  "headline2": "Dollar bid.",
+  "lede": "SAMPLE DATA — the agent replaces this file every morning. Asian stocks traded mixed overnight while the dollar firmed and gold eased from Friday's high.",
+  "snapshot_time": "06:45 TRT",
+  "snapshot": [
+    {"symbol": "XAUUSD", "price": "2,651.9", "change_pct": -0.42},
+    {"symbol": "EURUSD", "price": "1.0831", "change_pct": -0.18},
+    {"symbol": "BTCUSDT", "price": "108,115", "change_pct": 0.65},
+    {"symbol": "US500 fut", "price": "5,912", "change_pct": 0.12}
+  ],
+  "focus": [
+    {"symbol": "XAUUSD", "text": "Trading below the daily pivot after Friday's rejection near the weekly high; US data this afternoon is the main risk event."},
+    {"symbol": "EURUSD", "text": "Holding just above S1 as the dollar firms; German Ifo at 11:00 is the first test for the euro today."}
+  ],
+  "levels": [
+    {"symbol": "XAUUSD", "s1": "2638.4", "pivot": "2651.9", "r1": "2669.3", "bias": "below"},
+    {"symbol": "EURUSD", "s1": "1.0812", "pivot": "1.0846", "r1": "1.0881", "bias": "below"},
+    {"symbol": "GBPUSD", "s1": "1.2688", "pivot": "1.2721", "r1": "1.2760", "bias": "below"},
+    {"symbol": "BTCUSDT", "s1": "106,240", "pivot": "108,115", "r1": "110,480", "bias": "above"}
+  ],
+  "strength": [
+    {"ccy": "USD", "value": 0.31},
+    {"ccy": "JPY", "value": 0.18},
+    {"ccy": "CHF", "value": 0.06},
+    {"ccy": "EUR", "value": -0.12},
+    {"ccy": "GBP", "value": -0.21},
+    {"ccy": "AUD", "value": -0.38}
+  ],
+  "tz": "TRT",
+  "calendar": [
+    {"time": "11:00", "ccy": "EUR", "event": "German Ifo Business Climate", "impact": "medium"},
+    {"time": "17:00", "ccy": "USD", "event": "New Home Sales", "impact": "medium"}
+  ],
+  "news": [
+    {"tag": "FED", "text": "Sample item: officials signal patience on further rate cuts ahead of next week's meeting."},
+    {"tag": "BTC", "text": "Sample item: spot bitcoin ETFs report a third straight week of inflows."}
+  ],
+  "sources": [
+    {"title": "Example source", "url": "https://www.reuters.com/markets/"}
+  ],
+  "generated_at": "2026-10-26 07:00 TRT"
+}
