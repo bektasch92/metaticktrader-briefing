@@ -1,0 +1,564 @@
+{
+ "date": "2026-11-02",
+ "date_label": "Mon 2 Nov",
+ "headline1": "Market mood:",
+ "headline2": "Oil retreats.",
+ "lede": "Brent fell nearly 3% toward $110 as OPEC+ kept December quotas unchanged and Qatar-mediated diplomacy eased immediate supply worries, while gold won back part of Friday's slide. A crowded week of US midterms, RBA and BoE decisions and US payrolls begins with ISM manufacturing at 18:00 TRT.",
+ "snapshot_time": "≈07:20 TRT (S&P 500: Fri close)",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "3,905.1",
+   "change_pct": 0.76
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.1171",
+   "change_pct": 0.11
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3393",
+   "change_pct": 0.01
+  },
+  {
+   "symbol": "S&P 500",
+   "price": "7,580",
+   "change_pct": -1.82
+  },
+  {
+   "symbol": "BRENT",
+   "price": "110.13",
+   "change_pct": -2.91
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Up about 0.8% near $3,905 in Asia after Friday's drop to the year's lowest close. Still just below the 3,924.5 pivot; US ISM manufacturing at 18:00 TRT is today's test."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Steady near 1.1170, right on its pivot and above the 1.1100 support zone. Final eurozone PMIs (12:00 TRT) and US ISM come today; Wednesday's flash CPI is the week's euro test."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bearish",
+   "timeframe": "Daily",
+   "resistance": [
+    "3,924.5 (pivot)",
+    "3,990–4,000",
+    "4,227"
+   ],
+   "support": [
+    "3,850–3,880",
+    "3,821.6 (S1)",
+    "3,800"
+   ],
+   "indicators": "MACD below zero and under its signal line · price near the lower Bollinger Band · below key daily MAs",
+   "note": "Lower highs since the August peak near 4,695; price is bouncing off the 3,850–3,880 area, while the former 4,000 support now sits overhead."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Bearish bias",
+   "timeframe": "Daily / weekly",
+   "resistance": [
+    "1.1205 (R1)",
+    "1.1269",
+    "1.1337 (55-day EMA)"
+   ],
+   "support": [
+    "1.1126 (S1)",
+    "1.1100–1.1103",
+    "1.0904 (61.8% Fib)"
+   ],
+   "indicators": "Weekly RSI(14) ≈ 34 · below its main moving averages",
+   "note": "Near a 17-month low; the decline from 1.2081 remains in place while 1.1269 caps rebounds, and 1.1100 is the floor being tested."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "78,500–79,000",
+    "80,500–82,000"
+   ],
+   "support": [
+    "76,000–77,000",
+    "74,000",
+    "72,000"
+   ],
+   "indicators": "Daily RSI ≈ 40 · MACD negative",
+   "note": "A modest bounce from last week's six-week low near 76,100, but the series of lower highs below the October peak around 87,000 is unbroken."
+  },
+  {
+   "symbol": "US500",
+   "trend": "Bearish",
+   "timeframe": "Daily",
+   "resistance": [
+    "7,600",
+    "7,626 (H&S neckline)"
+   ],
+   "support": [
+    "7,500",
+    "≈7,330 (200-day SMA)"
+   ],
+   "indicators": "Three straight weekly losses · closed below the 7,626 neckline",
+   "note": "Friday's break of the head-and-shoulders neckline turned the short-term structure lower; the rising 200-day SMA is the next major reference below 7,500."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "XAUUSD",
+   "s1": "3821.6",
+   "pivot": "3924.5",
+   "r1": "3978.7",
+   "bias": "below"
+  },
+  {
+   "symbol": "EURUSD",
+   "s1": "1.1126",
+   "pivot": "1.1170",
+   "r1": "1.1205",
+   "bias": "above"
+  }
+ ],
+ "strength": [
+  {
+   "ccy": "EUR",
+   "value": 0.11
+  },
+  {
+   "ccy": "CHF",
+   "value": 0.03
+  },
+  {
+   "ccy": "GBP",
+   "value": 0.01
+  },
+  {
+   "ccy": "USD",
+   "value": 0.0
+  },
+  {
+   "ccy": "AUD",
+   "value": -0.04
+  },
+  {
+   "ccy": "JPY",
+   "value": -0.12
+  }
+ ],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "10:00",
+   "ccy": "TRY",
+   "event": "İSO Manufacturing PMI (Oct)",
+   "impact": "medium"
+  },
+  {
+   "time": "12:00",
+   "ccy": "EUR",
+   "event": "Eurozone Manufacturing PMI, final (Oct)",
+   "impact": "low"
+  },
+  {
+   "time": "12:30",
+   "ccy": "GBP",
+   "event": "UK Manufacturing PMI, final (Oct)",
+   "impact": "low"
+  },
+  {
+   "time": "18:00",
+   "ccy": "USD",
+   "event": "ISM Manufacturing PMI (Oct) — exp 54.7, prev 54.5",
+   "impact": "high"
+  },
+  {
+   "time": "~00:00",
+   "ccy": "USD",
+   "event": "Apple and Palantir earnings (after US close)",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "OIL",
+   "text": "OPEC+ core members left December output targets unchanged; Brent slid toward $110 as Qatar-brokered talks with Iran eased near-term supply fears."
+  },
+  {
+   "tag": "GOLD",
+   "text": "Gold clawed back part of Friday's 3.6% loss in early Asian trade, while silver hovered close to $50 an ounce."
+  },
+  {
+   "tag": "FED",
+   "text": "Fed's Logan argued for at least two more quarter-point hikes and Musalem wants one soon; markets see roughly 76% odds of a December move."
+  },
+  {
+   "tag": "CHINA",
+   "text": "China's official October factory PMI slipped to 49.3, below the 50.0 forecast, and the non-manufacturing gauge fell to 49.7."
+  },
+  {
+   "tag": "STOCKS",
+   "text": "US index futures edged up after Friday's tech-led 1.8% S&P 500 drop; Apple and Palantir report after Monday's close."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "≈05:40 TRT · 24h (CoinGecko)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "78,363",
+    "change_pct": 0.88
+   },
+   {
+    "symbol": "ETH",
+    "price": "2,291",
+    "change_pct": 1.06
+   },
+   {
+    "symbol": "BNB",
+    "price": "712.50",
+    "change_pct": 1.39
+   },
+   {
+    "symbol": "SOL",
+    "price": "94.86",
+    "change_pct": -0.7
+   },
+   {
+    "symbol": "XRP",
+    "price": "1.26",
+    "change_pct": 0.0
+   }
+  ],
+  "news": [
+   {
+    "tag": "BINANCE",
+    "text": "Binance reopened withdrawals on 15 networks from Sunday morning and says about 95% of the assets taken in the $6.3B hack have been replaced."
+   },
+   {
+    "tag": "OUTFLOWS",
+    "text": "Users pulled about $4.65B from Binance in the first hours after reopening against roughly $1B of deposits; a full cryptographic reserve proof is due by 3 Nov."
+   },
+   {
+    "tag": "ETF",
+    "text": "US spot bitcoin ETFs lost $643M on Friday, their heaviest daily outflow since late June; ether funds shed $156M the same day."
+   },
+   {
+    "tag": "BNB",
+    "text": "BNB led the large caps with a gain of about 1.4%, as the reopening eased fears of forced selling by the exchange."
+   },
+   {
+    "tag": "SENTIMENT",
+    "text": "The Crypto Fear & Greed Index sits in 'Fear' in the mid-30s; prediction markets give Democrats about 70% odds of winning both chambers on Tuesday."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Mon 2 Nov 18:00",
+   "tag": "USD",
+   "event": "ISM Manufacturing PMI (Oct)",
+   "note": "Expected 54.7, previous 54.5.",
+   "impact": "high"
+  },
+  {
+   "when": "Mon 2 Nov ~00:00",
+   "tag": "EARNINGS",
+   "event": "Apple and Palantir results",
+   "note": "After the US close; first big tests after last week's tech sell-off.",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 3 Nov 06:30",
+   "tag": "AUD",
+   "event": "RBA rate decision",
+   "note": "About 79% priced for a 25bp hike to 4.85%.",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 3 Nov 10:00",
+   "tag": "TRY",
+   "event": "Turkey CPI (Oct)",
+   "note": "Survey: 2.20% m/m; annual seen easing from 29.73%.",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 3 Nov",
+   "tag": "USD",
+   "event": "US midterm elections",
+   "note": "All 435 House seats and 35 Senate seats; results overnight into Wednesday.",
+   "impact": "high"
+  },
+  {
+   "when": "Tue 3 Nov",
+   "tag": "BINANCE",
+   "event": "Full proof-of-reserves publication",
+   "note": "Cryptographic verification promised by 3 Nov.",
+   "impact": "medium"
+  },
+  {
+   "when": "Wed 4 Nov 13:00",
+   "tag": "EUR",
+   "event": "Eurozone flash CPI (Oct)",
+   "note": "September 3.8% y/y; some forecasts see 3.9–4.0%.",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 4 Nov 18:00",
+   "tag": "USD",
+   "event": "ISM Services PMI (Oct)",
+   "note": "Expected 54.7, previous 54.9.",
+   "impact": "medium"
+  },
+  {
+   "when": "Thu 5 Nov 15:00",
+   "tag": "GBP",
+   "event": "Bank of England rate decision",
+   "note": "A 25bp hike to 4.0% is widely expected; vote split in focus.",
+   "impact": "high"
+  },
+  {
+   "when": "Fri 6 Nov 16:30",
+   "tag": "USD",
+   "event": "Non-farm payrolls (Oct)",
+   "note": "Consensus +55k (prev +29k), unemployment 4.2%.",
+   "impact": "high"
+  }
+ ],
+ "week_ahead": {
+  "period": "2–6 Nov",
+  "intro": "The week packs the US midterm elections, three major rate decisions and the October jobs report into five days. Markets already price a December Fed hike at around 76%, so US data and the election outcome will be read for what they mean for that move.",
+  "themes": [
+   {
+    "tag": "ELECTION",
+    "text": "Tuesday's midterms: prediction markets lean toward a Democratic sweep, which some analysts see as mildly negative for the dollar."
+   },
+   {
+    "tag": "CENTRAL BANKS",
+    "text": "The RBA (Tue) and BoE (Thu) are both expected to hike; the Riksbank is also seen tightening, Norges Bank holding."
+   },
+   {
+    "tag": "JOBS",
+    "text": "Friday's payrolls (consensus +55k) are the main input for December Fed pricing, after hawkish comments from Logan and Musalem."
+   },
+   {
+    "tag": "OIL & IRAN",
+    "text": "Qatar-mediated talks and Hormuz shipping incidents keep oil volatile; Washington says no decision on renewed strikes has been made."
+   },
+   {
+    "tag": "CRYPTO",
+    "text": "Binance's reserve proof and withdrawal flows, plus spot ETF flows, set the tone after last week's record hack."
+   }
+  ],
+  "events": [
+   {
+    "day": "Mon",
+    "time": "10:00",
+    "ccy": "TRY",
+    "event": "İSO Manufacturing PMI (Oct)",
+    "note": "Previous 47.9",
+    "impact": "medium"
+   },
+   {
+    "day": "Mon",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "ISM Manufacturing PMI (Oct)",
+    "note": "Exp 54.7, prev 54.5",
+    "impact": "high"
+   },
+   {
+    "day": "Mon",
+    "time": "~00:00",
+    "ccy": "USD",
+    "event": "Apple, Palantir earnings",
+    "note": "After the US close",
+    "impact": "medium"
+   },
+   {
+    "day": "Tue",
+    "time": "06:30",
+    "ccy": "AUD",
+    "event": "RBA rate decision",
+    "note": "~79% priced for a hike to 4.85%",
+    "impact": "medium"
+   },
+   {
+    "day": "Tue",
+    "time": "10:00",
+    "ccy": "TRY",
+    "event": "Turkey CPI (Oct)",
+    "note": "Survey 2.20% m/m; prev annual 29.73%",
+    "impact": "medium"
+   },
+   {
+    "day": "Tue",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "JOLTS job openings (Sep)",
+    "note": "Also factory orders",
+    "impact": "medium"
+   },
+   {
+    "day": "Tue",
+    "time": "All day",
+    "ccy": "USD",
+    "event": "US midterm elections",
+    "note": "Results overnight into Wednesday",
+    "impact": "high"
+   },
+   {
+    "day": "Tue",
+    "time": "—",
+    "ccy": "CRYPTO",
+    "event": "Binance full proof of reserves",
+    "note": "Promised by 3 Nov",
+    "impact": "medium"
+   },
+   {
+    "day": "Wed",
+    "time": "13:00",
+    "ccy": "EUR",
+    "event": "Eurozone flash CPI (Oct)",
+    "note": "Prev 3.8% y/y, core 2.5%",
+    "impact": "high"
+   },
+   {
+    "day": "Wed",
+    "time": "16:15",
+    "ccy": "USD",
+    "event": "ADP employment (Oct)",
+    "note": "",
+    "impact": "medium"
+   },
+   {
+    "day": "Wed",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "ISM Services PMI (Oct)",
+    "note": "Exp 54.7, prev 54.9",
+    "impact": "medium"
+   },
+   {
+    "day": "Thu",
+    "time": "12:00",
+    "ccy": "NOK",
+    "event": "Norges Bank decision",
+    "note": "Hold at 4.50% expected",
+    "impact": "low"
+   },
+   {
+    "day": "Thu",
+    "time": "15:00",
+    "ccy": "GBP",
+    "event": "Bank of England decision + MPR",
+    "note": "25bp hike to 4.0% expected",
+    "impact": "high"
+   },
+   {
+    "day": "Thu",
+    "time": "16:30",
+    "ccy": "USD",
+    "event": "Initial jobless claims",
+    "note": "",
+    "impact": "low"
+   },
+   {
+    "day": "Fri",
+    "time": "16:30",
+    "ccy": "USD",
+    "event": "Non-farm payrolls (Oct)",
+    "note": "Exp +55k, prev +29k; UR 4.2%",
+    "impact": "high"
+   },
+   {
+    "day": "Fri",
+    "time": "16:30",
+    "ccy": "CAD",
+    "event": "Canada jobs (Oct)",
+    "note": "Prev -68k, UR 6.5%",
+    "impact": "medium"
+   },
+   {
+    "day": "Fri",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "UoM consumer sentiment, prelim (Nov)",
+    "note": "",
+    "impact": "medium"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "Bloomberg — OPEC+ leaves oil output targets unchanged for December",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-01/opec-leaves-oil-output-targets-unchanged-for-december"
+  },
+  {
+   "title": "Trading Economics — Currencies (2 Nov)",
+   "url": "https://tradingeconomics.com/currencies"
+  },
+  {
+   "title": "Trading Economics — Commodities (2 Nov)",
+   "url": "https://tradingeconomics.com/commodities"
+  },
+  {
+   "title": "Trading Economics — Brent crude",
+   "url": "https://tradingeconomics.com/commodity/brent-crude-oil?facet=app&mode=light"
+  },
+  {
+   "title": "Newsquawk — Asia-Pac opening news, 2 Nov 2026",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---2nd-november-2026"
+  },
+  {
+   "title": "Newsquawk week ahead 2–6 Nov (via Global-View)",
+   "url": "https://global-view.com/newsquawk-week-ahead-in-focus-2nd-6th-november-2026/"
+  },
+  {
+   "title": "MarketScreener — Week ahead for FX and bonds",
+   "url": "https://www.marketscreener.com/news/week-ahead-for-fx-bonds-u-s-midterms-jobs-data-in-focus-boe-expected-to-raise-rates-ce785fd8dd8cf221"
+  },
+  {
+   "title": "ActionForex — EUR/USD weekly outlook",
+   "url": "https://www.actionforex.com/category/technical-outlook/eurusd-outlook/"
+  },
+  {
+   "title": "RoboForex — Gold forecast 2–6 Nov",
+   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-weekly-forecast-2026-10-30/"
+  },
+  {
+   "title": "DailyForex — Pairs in focus 2–6 Nov",
+   "url": "https://www.dailyforex.com/forex-technical-analysis/2026/11/weekly-pairs-in-focus-2nd-to-6th-november-2026/251275"
+  },
+  {
+   "title": "U.Today — BNB and BTC price analysis, 2 Nov",
+   "url": "https://u.today/price-analysis/chainlink-link-near-protocol-near-binance-coin-bnb-and-bitcoin-btc-price-analysis-for-november-2"
+  },
+  {
+   "title": "BlockchainReporter — BNB leads majors as Binance reopens withdrawals",
+   "url": "https://blockchainreporter.net/why-bnb-leading-majors-binance-withdrawals/"
+  },
+  {
+   "title": "The Block — Spot bitcoin ETFs see largest outflows in four months",
+   "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
+  },
+  {
+   "title": "crypto.news — Binance reopens Bitcoin withdrawals",
+   "url": "https://crypto.news/binance-reopens-bitcoin-withdrawals-after-hack/"
+  },
+  {
+   "title": "TradingKey — Week ahead: midterms, payrolls, earnings",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262871-us-midterm-elections-october-jobs-report-apple-palantir-amd-earnings-tradingkey"
+  },
+  {
+   "title": "Biznesradar — EUR/USD historical quotes",
+   "url": "https://www.biznesradar.pl/notowania-historyczne/EURUSD"
+  }
+ ],
+ "generated_at": "2026-11-02 07:35 TRT"
+}

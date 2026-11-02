@@ -1,0 +1,667 @@
+{
+ "lang": "tr",
+ "date": "2026-11-02",
+ "date_label": "Pzt 2 Kas",
+ "headline1": "Piyasa havası:",
+ "headline2": "Petrol geriliyor.",
+ "lede": "OPEC+ aralık kotalarını sabit bırakırken Katar arabuluculuğundaki diplomasi arz endişelerini hafifletti; Brent %3'e yakın düşüşle 110 dolara yaklaştı. Altın cuma günkü sert kaybın bir kısmını geri alırken ABD ara seçimleri, RBA ve BoE kararları ile tarım dışı istihdamın yer aldığı yoğun hafta, 18:00'deki ISM imalat verisiyle başlıyor.",
+ "snapshot_time": "≈07:20 TSİ (S&P 500: cuma kapanışı)",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "3.905,1",
+   "change_pct": 0.76
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1,1171",
+   "change_pct": 0.11
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1,3393",
+   "change_pct": 0.01
+  },
+  {
+   "symbol": "S&P 500",
+   "price": "7.580",
+   "change_pct": -1.82
+  },
+  {
+   "symbol": "BRENT",
+   "price": "110,13",
+   "change_pct": -2.91
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Cuma günü yılın en düşük kapanışını gören ons altın Asya'da %0,8 civarı toparlanarak 3.905 dolara yaklaştı. Fiyat 3.924,5'teki pivotun hemen altında; günün ana verisi 18:00'deki ABD ISM imalat."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Parite 1,1170 civarında, tam pivot seviyesinde ve 1,1100 desteğinin üzerinde yatay seyrediyor. Bugün Euro Bölgesi nihai PMI (12:00) ve ISM var; haftanın asıl sınavı çarşamba günkü öncü enflasyon."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Düşüş",
+   "timeframe": "Günlük",
+   "resistance": [
+    "3.924,5 (pivot)",
+    "3.990–4.000",
+    "4.227"
+   ],
+   "support": [
+    "3.850–3.880",
+    "3.821,6 (S1)",
+    "3.800"
+   ],
+   "indicators": "MACD sıfırın ve sinyal çizgisinin altında · fiyat alt Bollinger bandına yakın · ana günlük ortalamaların altında",
+   "note": "Ağustos'taki 4.695 civarı zirveden bu yana alçalan tepeler sürüyor; fiyat 3.850–3.880 bölgesinden tepki verirken eski 4.000 desteği artık direnç konumunda."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Düşüş eğilimli",
+   "timeframe": "Günlük / haftalık",
+   "resistance": [
+    "1,1205 (R1)",
+    "1,1269",
+    "1,1337 (55 günlük ÜHO)"
+   ],
+   "support": [
+    "1,1126 (S1)",
+    "1,1100–1,1103",
+    "1,0904 (%61,8 Fibonacci)"
+   ],
+   "indicators": "Haftalık RSI(14) ≈ 34 · ana hareketli ortalamaların altında",
+   "note": "Parite 17 ayın en düşük bölgesinde; 1,1269 direnci aşılmadıkça 1,2081'den başlayan düşüş yapısı korunuyor, 1,1100 test edilen taban."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Düşüş eğilimli",
+   "timeframe": "Günlük",
+   "resistance": [
+    "78.500–79.000",
+    "80.500–82.000"
+   ],
+   "support": [
+    "76.000–77.000",
+    "74.000",
+    "72.000"
+   ],
+   "indicators": "Günlük RSI ≈ 40 · MACD negatif",
+   "note": "Geçen haftaki 76.100 civarındaki altı haftanın dibinden sınırlı bir tepki var; ancak Ekim'deki 87.000 civarı zirvenin altında alçalan tepeler dizisi bozulmadı."
+  },
+  {
+   "symbol": "US500",
+   "trend": "Düşüş",
+   "timeframe": "Günlük",
+   "resistance": [
+    "7.600",
+    "7.626 (OBO boyun çizgisi)"
+   ],
+   "support": [
+    "7.500",
+    "≈7.330 (200 günlük BHO)"
+   ],
+   "indicators": "Üst üste üç haftalık kayıp · 7.626 boyun çizgisinin altında kapanış",
+   "note": "Cuma günü omuz-baş-omuz boyun çizgisinin kırılması kısa vadeli yapıyı aşağı çevirdi; 7.500'ün altında izlenecek ana referans yükselen 200 günlük ortalama."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "XAUUSD",
+   "s1": "3821.6",
+   "pivot": "3924.5",
+   "r1": "3978.7",
+   "bias": "below"
+  },
+  {
+   "symbol": "EURUSD",
+   "s1": "1.1126",
+   "pivot": "1.1170",
+   "r1": "1.1205",
+   "bias": "above"
+  }
+ ],
+ "strength": [
+  {
+   "ccy": "EUR",
+   "value": 0.11
+  },
+  {
+   "ccy": "CHF",
+   "value": 0.03
+  },
+  {
+   "ccy": "GBP",
+   "value": 0.01
+  },
+  {
+   "ccy": "USD",
+   "value": 0.0
+  },
+  {
+   "ccy": "AUD",
+   "value": -0.04
+  },
+  {
+   "ccy": "JPY",
+   "value": -0.12
+  }
+ ],
+ "tz": "TSİ",
+ "calendar": [
+  {
+   "time": "10:00",
+   "ccy": "TRY",
+   "event": "İSO Türkiye İmalat PMI (Ekim)",
+   "impact": "medium"
+  },
+  {
+   "time": "12:00",
+   "ccy": "EUR",
+   "event": "Euro Bölgesi imalat PMI, nihai (Ekim)",
+   "impact": "low"
+  },
+  {
+   "time": "12:30",
+   "ccy": "GBP",
+   "event": "İngiltere imalat PMI, nihai (Ekim)",
+   "impact": "low"
+  },
+  {
+   "time": "18:00",
+   "ccy": "USD",
+   "event": "ISM imalat PMI (Ekim) — beklenti 54,7, önceki 54,5",
+   "impact": "high"
+  },
+  {
+   "time": "~00:00",
+   "ccy": "USD",
+   "event": "Apple ve Palantir bilançoları (ABD kapanışı sonrası)",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "PETROL",
+   "text": "OPEC+'nın çekirdek üyeleri aralık üretim hedeflerini değiştirmedi; Katar arabuluculuğundaki İran görüşmeleri kısa vadeli arz kaygısını azaltınca Brent 110 dolara doğru geriledi."
+  },
+  {
+   "tag": "ALTIN",
+   "text": "Ons altın, cuma günkü %3,6'lık kaybının bir bölümünü Asya seansında geri aldı; gümüş ons başına 50 dolar civarında dengelendi."
+  },
+  {
+   "tag": "FED",
+   "text": "Fed'den Logan en az iki 25 baz puanlık artış daha gerektiğini, Musalem ise yakında bir artış yapılması gerektiğini söyledi; piyasalar aralık artışına %76 civarı olasılık veriyor."
+  },
+  {
+   "tag": "ÇİN",
+   "text": "Çin'de resmi imalat PMI Ekim'de 49,3'e indi ve 50,0 beklentisinin altında kaldı; imalat dışı endeks 49,7'ye geriledi."
+  },
+  {
+   "tag": "HİSSE",
+   "text": "S&P 500'ün teknoloji kaynaklı %1,8'lik cuma düşüşünün ardından ABD vadelileri hafif artıda; Apple ve Palantir bugün kapanış sonrası sonuç açıklayacak."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "≈05:40 TSİ · 24 saat (CoinGecko)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "78.363",
+    "change_pct": 0.88
+   },
+   {
+    "symbol": "ETH",
+    "price": "2.291",
+    "change_pct": 1.06
+   },
+   {
+    "symbol": "BNB",
+    "price": "712,50",
+    "change_pct": 1.39
+   },
+   {
+    "symbol": "SOL",
+    "price": "94,86",
+    "change_pct": -0.7
+   },
+   {
+    "symbol": "XRP",
+    "price": "1,26",
+    "change_pct": 0.0
+   }
+  ],
+  "news": [
+   {
+    "tag": "BINANCE",
+    "text": "Binance pazar sabahından itibaren 15 ağda çekimleri yeniden açtı; 6,3 milyar dolarlık saldırıda çalınan varlıkların yaklaşık %95'ini yerine koyduğunu açıkladı."
+   },
+   {
+    "tag": "ÇIKIŞ",
+    "text": "Çekimlerin açılmasından sonraki ilk saatlerde Binance'ten yaklaşık 4,65 milyar dolar çekildi, girişler 1 milyar dolar civarında kaldı; tam kriptografik rezerv kanıtı 3 Kasım'a kadar bekleniyor."
+   },
+   {
+    "tag": "ETF",
+    "text": "ABD spot Bitcoin ETF'lerinden cuma günü 643 milyon dolar çıktı; bu, Haziran sonundan beri en büyük günlük çıkış. Ether fonlarından da 156 milyon dolar çıktı."
+   },
+   {
+    "tag": "BNB",
+    "text": "Büyük kripto paralar içinde en çok BNB yükseldi (%1,4 civarı); çekimlerin açılması borsanın zorunlu satış yapacağı endişesini azalttı."
+   },
+   {
+    "tag": "DUYARLILIK",
+    "text": "Kripto Korku ve Açgözlülük Endeksi 30'ların ortasında, 'korku' bölgesinde; tahmin piyasaları salı günkü seçimde Demokratların iki meclisi de kazanmasına %70 civarı olasılık veriyor."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Pzt 2 Kas 10:00",
+   "tag": "İSO",
+   "event": "Türkiye İmalat PMI (Ekim)",
+   "note": "Önceki 47,9; eşik değer 50.",
+   "impact": "medium"
+  },
+  {
+   "when": "Pzt 2 Kas 18:00",
+   "tag": "USD",
+   "event": "ISM imalat PMI (Ekim)",
+   "note": "Beklenti 54,7, önceki 54,5.",
+   "impact": "high"
+  },
+  {
+   "when": "Sal 3 Kas 06:30",
+   "tag": "AUD",
+   "event": "RBA faiz kararı",
+   "note": "%4,85'e 25 baz puanlık artış olasılığı yaklaşık %79.",
+   "impact": "medium"
+  },
+  {
+   "when": "Sal 3 Kas 10:00",
+   "tag": "TÜİK",
+   "event": "Ekim enflasyonu (TÜFE)",
+   "note": "Beklenti aylık %2,20; yıllıkta %29,73'ten %29,28'e gerileme bekleniyor.",
+   "impact": "high"
+  },
+  {
+   "when": "Sal 3 Kas",
+   "tag": "ABD",
+   "event": "ABD ara seçimleri",
+   "note": "Temsilciler Meclisi'nin tamamı ve 35 Senato koltuğu; sonuçlar çarşamba sabahına doğru.",
+   "impact": "high"
+  },
+  {
+   "when": "Sal 3 Kas",
+   "tag": "BINANCE",
+   "event": "Tam rezerv kanıtının yayımlanması",
+   "note": "Kriptografik doğrulama 3 Kasım'a kadar sözü verildi.",
+   "impact": "medium"
+  },
+  {
+   "when": "Çar 4 Kas 13:00",
+   "tag": "EUR",
+   "event": "Euro Bölgesi öncü TÜFE (Ekim)",
+   "note": "Eylül'de yıllık %3,8; bazı tahminler %3,9–4,0.",
+   "impact": "high"
+  },
+  {
+   "when": "Per 5 Kas 15:00",
+   "tag": "GBP",
+   "event": "İngiltere Merkez Bankası faiz kararı",
+   "note": "%4,0'a 25 baz puanlık artış bekleniyor; oy dağılımı önemli.",
+   "impact": "high"
+  },
+  {
+   "when": "Cum 6 Kas 16:30",
+   "tag": "USD",
+   "event": "Tarım dışı istihdam (Ekim)",
+   "note": "Beklenti +55 bin (önceki +29 bin), işsizlik %4,2.",
+   "impact": "high"
+  }
+ ],
+ "week_ahead": {
+  "period": "2–6 Kas",
+  "intro": "ABD ara seçimleri, üç önemli faiz kararı ve Ekim istihdam raporu bu hafta beş güne sığıyor. Türkiye'de ise gözler salı günü açıklanacak Ekim enflasyonunda. Piyasalar Fed'in aralıkta faiz artırma olasılığını %76 civarında fiyatladığı için ABD verileri bu beklenti üzerinden okunacak.",
+  "themes": [
+   {
+    "tag": "SEÇİM",
+    "text": "Salı günkü ara seçimlerde tahmin piyasaları Demokratların iki meclisi de almasını öne çıkarıyor; bazı analistler bunu dolar için hafif olumsuz görüyor."
+   },
+   {
+    "tag": "MERKEZ BANKALARI",
+    "text": "RBA (salı) ve BoE (perşembe) faiz artırımı bekleniyor; Riksbank'ın da sıkılaştırması, Norges Bank'ın sabit tutması öngörülüyor."
+   },
+   {
+    "tag": "ENFLASYON",
+    "text": "TÜİK'in Ekim TÜFE'si için beklenti aylık %2,20; İTO'nun İstanbul verisi aylık %2,47 ile hızlanma gösterdi."
+   },
+   {
+    "tag": "İSTİHDAM",
+    "text": "Cuma günkü tarım dışı istihdam (beklenti +55 bin), Logan ve Musalem'in şahin mesajlarının ardından Fed fiyatlaması için ana veri."
+   },
+   {
+    "tag": "KRİPTO",
+    "text": "Binance'in rezerv kanıtı, çekim akışları ve spot ETF akımları geçen haftaki rekor saldırı sonrası yönü belirleyecek."
+   }
+  ],
+  "events": [
+   {
+    "day": "Pzt",
+    "time": "10:00",
+    "ccy": "TRY",
+    "event": "İSO Türkiye İmalat PMI (Ekim)",
+    "note": "Önceki 47,9",
+    "impact": "medium"
+   },
+   {
+    "day": "Pzt",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "ISM imalat PMI (Ekim)",
+    "note": "Beklenti 54,7, önceki 54,5",
+    "impact": "high"
+   },
+   {
+    "day": "Pzt",
+    "time": "~00:00",
+    "ccy": "USD",
+    "event": "Apple, Palantir bilançoları",
+    "note": "ABD kapanışı sonrası",
+    "impact": "medium"
+   },
+   {
+    "day": "Sal",
+    "time": "06:30",
+    "ccy": "AUD",
+    "event": "RBA faiz kararı",
+    "note": "%4,85'e artış olasılığı ~%79",
+    "impact": "medium"
+   },
+   {
+    "day": "Sal",
+    "time": "10:00",
+    "ccy": "TRY",
+    "event": "TÜİK Ekim TÜFE ve Yİ-ÜFE",
+    "note": "Beklenti aylık %2,20; önceki yıllık %29,73",
+    "impact": "high"
+   },
+   {
+    "day": "Sal",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "JOLTS iş ilanları (Eylül)",
+    "note": "Fabrika siparişleri ile birlikte",
+    "impact": "medium"
+   },
+   {
+    "day": "Sal",
+    "time": "Gün boyu",
+    "ccy": "USD",
+    "event": "ABD ara seçimleri",
+    "note": "Sonuçlar çarşamba sabahına doğru",
+    "impact": "high"
+   },
+   {
+    "day": "Sal",
+    "time": "—",
+    "ccy": "KRİPTO",
+    "event": "Binance tam rezerv kanıtı",
+    "note": "3 Kasım'a kadar bekleniyor",
+    "impact": "medium"
+   },
+   {
+    "day": "Çar",
+    "time": "13:00",
+    "ccy": "EUR",
+    "event": "Euro Bölgesi öncü TÜFE (Ekim)",
+    "note": "Önceki yıllık %3,8, çekirdek %2,5",
+    "impact": "high"
+   },
+   {
+    "day": "Çar",
+    "time": "16:15",
+    "ccy": "USD",
+    "event": "ADP özel sektör istihdamı (Ekim)",
+    "note": "",
+    "impact": "medium"
+   },
+   {
+    "day": "Çar",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "ISM hizmet PMI (Ekim)",
+    "note": "Beklenti 54,7, önceki 54,9",
+    "impact": "medium"
+   },
+   {
+    "day": "Per",
+    "time": "12:00",
+    "ccy": "NOK",
+    "event": "Norveç Merkez Bankası kararı",
+    "note": "%4,50'de sabit bekleniyor",
+    "impact": "low"
+   },
+   {
+    "day": "Per",
+    "time": "14:30",
+    "ccy": "TRY",
+    "event": "TCMB haftalık rezerv verisi",
+    "note": "Önceki brüt rezerv 162,2 milyar $",
+    "impact": "medium"
+   },
+   {
+    "day": "Per",
+    "time": "15:00",
+    "ccy": "GBP",
+    "event": "BoE faiz kararı ve Para Politikası Raporu",
+    "note": "%4,0'a 25 bp artış bekleniyor",
+    "impact": "high"
+   },
+   {
+    "day": "Per",
+    "time": "16:30",
+    "ccy": "USD",
+    "event": "Haftalık işsizlik başvuruları",
+    "note": "",
+    "impact": "low"
+   },
+   {
+    "day": "Cum",
+    "time": "16:30",
+    "ccy": "USD",
+    "event": "Tarım dışı istihdam (Ekim)",
+    "note": "Beklenti +55 bin, önceki +29 bin; işsizlik %4,2",
+    "impact": "high"
+   },
+   {
+    "day": "Cum",
+    "time": "16:30",
+    "ccy": "CAD",
+    "event": "Kanada istihdam (Ekim)",
+    "note": "Önceki -68 bin, işsizlik %6,5",
+    "impact": "medium"
+   },
+   {
+    "day": "Cum",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "Michigan tüketici güveni, öncü (Kasım)",
+    "note": "",
+    "impact": "medium"
+   }
+  ]
+ },
+ "turkey": {
+  "snapshot_time": "30 Eki kapanış (Borsa 10:00'da açılıyor)",
+  "summary": "Borsa İstanbul bugün 10:00'da açılıyor; tablo cuma kapanışını gösteriyor. BIST 100 cuma günü %3,64 düşüşle 10.759,56 puana inerek yedinci haftalık kaybını yazdı; dolar/TL bu sabah 49,97 civarında yatay. Haftanın ana gündemi salı açıklanacak Ekim enflasyonu; İTO'nun İstanbul verisi aylık fiyat artışının hızlandığını gösterdi.",
+  "snapshot": [
+   {
+    "symbol": "USD/TRY",
+    "price": "49,95",
+    "change_pct": 0.11
+   },
+   {
+    "symbol": "EUR/TRY",
+    "price": "55,76",
+    "change_pct": -0.28
+   },
+   {
+    "symbol": "BIST 100",
+    "price": "10.759,56",
+    "change_pct": -3.64
+   },
+   {
+    "symbol": "BIST BANKA",
+    "price": "14.607,53",
+    "change_pct": -3.06
+   },
+   {
+    "symbol": "GRAM ALTIN",
+    "price": "6.279,72 ₺",
+    "change_pct": -2.68
+   }
+  ],
+  "news": [
+   {
+    "tag": "İTO",
+    "text": "İstanbul'da perakende fiyatlar Ekim'de aylık %2,47 arttı (Eylül: %2,11); yıllık oran %33,55'ten %32,47'ye indi. Giyimdeki %10,60'lık sezonluk artış öne çıktı."
+   },
+   {
+    "tag": "TOPTAN",
+    "text": "İTO'nun toptan eşya fiyatları Ekim'de aylık %1,20 ile yavaşladı; yıllık artış %25,51 oldu."
+   },
+   {
+    "tag": "ENFLASYON",
+    "text": "AA Finans anketine katılan 21 ekonomist Ekim'de aylık %2,20 TÜFE bekliyor (tahmin aralığı %1,25–2,70); yıl sonu beklentisi %29,64."
+   },
+   {
+    "tag": "HAZİNE",
+    "text": "Hazine Kasım'da 122,7 milyar TL iç borç ödemesine karşılık 123,4 milyar TL borçlanmayı planlıyor."
+   },
+   {
+    "tag": "BÜTÇE",
+    "text": "TBMM Plan ve Bütçe Komisyonu bugün Sanayi ve Teknoloji Bakanlığı'nın 2027 bütçesini görüşüyor."
+   },
+   {
+    "tag": "TCMB",
+    "text": "Politika faizi Ekim'deki 100 baz puanlık indirimle %36'da; brüt rezervler 23 Ekim haftasında 162,2 milyar dolara gerilemişti."
+   }
+  ],
+  "upcoming": [
+   {
+    "when": "Pzt 2 Kas 10:00",
+    "tag": "İSO",
+    "event": "Türkiye İmalat PMI (Ekim)",
+    "note": "Önceki 47,9; 50 eşiğinin altında.",
+    "impact": "medium"
+   },
+   {
+    "when": "Sal 3 Kas 10:00",
+    "tag": "TÜİK",
+    "event": "Ekim enflasyonu (TÜFE)",
+    "note": "Beklenti: aylık %2,20, yıllık %29,28. Önceki: %1,84 / %29,73.",
+    "impact": "high"
+   },
+   {
+    "when": "Sal 3 Kas 10:00",
+    "tag": "TÜİK",
+    "event": "Yurt içi ÜFE (Ekim)",
+    "note": "Eylül'de yıllık %27,38.",
+    "impact": "medium"
+   },
+   {
+    "when": "Sal 3 Kas",
+    "tag": "KREDİ",
+    "event": "TOBB Nefes Kredisi yeni dilim başvuruları",
+    "note": "Başvurular açılıyor.",
+    "impact": "low"
+   },
+   {
+    "when": "Sal 3–Cum 6 Kas",
+    "tag": "KAP",
+    "event": "Bilanço haftası",
+    "note": "YKBNK, SAHOL, TTKOM, ISCTR, FROTO, TOASO, TUPRS gibi şirketler sonuç açıklayacak.",
+    "impact": "medium"
+   },
+   {
+    "when": "Per 5 Kas 14:30",
+    "tag": "TCMB",
+    "event": "Haftalık rezerv ve menkul kıymet istatistikleri",
+    "note": "Önceki brüt rezerv 162,2 milyar $.",
+    "impact": "medium"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "Bloomberg — OPEC+ leaves oil output targets unchanged for December",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-01/opec-leaves-oil-output-targets-unchanged-for-december"
+  },
+  {
+   "title": "Trading Economics — Currencies (2 Nov)",
+   "url": "https://tradingeconomics.com/currencies"
+  },
+  {
+   "title": "Trading Economics — Commodities (2 Nov)",
+   "url": "https://tradingeconomics.com/commodities"
+  },
+  {
+   "title": "Trading Economics — Brent crude",
+   "url": "https://tradingeconomics.com/commodity/brent-crude-oil?facet=app&mode=light"
+  },
+  {
+   "title": "Newsquawk — Asia-Pac opening news, 2 Nov 2026",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---2nd-november-2026"
+  },
+  {
+   "title": "Newsquawk week ahead 2–6 Nov (via Global-View)",
+   "url": "https://global-view.com/newsquawk-week-ahead-in-focus-2nd-6th-november-2026/"
+  },
+  {
+   "title": "MarketScreener — Week ahead for FX and bonds",
+   "url": "https://www.marketscreener.com/news/week-ahead-for-fx-bonds-u-s-midterms-jobs-data-in-focus-boe-expected-to-raise-rates-ce785fd8dd8cf221"
+  },
+  {
+   "title": "ActionForex — EUR/USD weekly outlook",
+   "url": "https://www.actionforex.com/category/technical-outlook/eurusd-outlook/"
+  },
+  {
+   "title": "RoboForex — Gold forecast 2–6 Nov",
+   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-weekly-forecast-2026-10-30/"
+  },
+  {
+   "title": "DailyForex — Pairs in focus 2–6 Nov",
+   "url": "https://www.dailyforex.com/forex-technical-analysis/2026/11/weekly-pairs-in-focus-2nd-to-6th-november-2026/251275"
+  },
+  {
+   "title": "U.Today — BNB and BTC price analysis, 2 Nov",
+   "url": "https://u.today/price-analysis/chainlink-link-near-protocol-near-binance-coin-bnb-and-bitcoin-btc-price-analysis-for-november-2"
+  },
+  {
+   "title": "BlockchainReporter — BNB leads majors as Binance reopens withdrawals",
+   "url": "https://blockchainreporter.net/why-bnb-leading-majors-binance-withdrawals/"
+  },
+  {
+   "title": "Bloomberg HT — Ekonomi ve siyaset gündemi, 2 Kasım 2026",
+   "url": "https://bloomberght.com/ekonomi-ve-siyaset-gundemi-2-kasim-2026-3793005"
+  },
+  {
+   "title": "Banka Dünyası — İTO İstanbul Ekim enflasyonu",
+   "url": "https://bankadunyasi.com/istanbul-ekim-enflasyonu-2026-ito-aciklandi/"
+  },
+  {
+   "title": "Sözcü — AA Finans Ekim enflasyon anketi",
+   "url": "https://www.sozcu.com.tr/enflasyon-anketi-aciklandi-ekim-icin-beklenti-yuzde-220-p374391"
+  },
+  {
+   "title": "Finans Gündem — Haftanın ajandası",
+   "url": "https://finansgundem.com.tr/haftanin-ajandasi-ekim-enflasyonu-istihdam-ve-boe-karari"
+  }
+ ],
+ "generated_at": "2026-11-02 07:35 TSİ"
+}
