@@ -1,0 +1,378 @@
+{
+ "date": "2026-11-03",
+ "date_label": "Tue 3 Nov",
+ "headline1": "Market mood:",
+ "headline2": "Oil slides, gold rebounds.",
+ "lede": "Brent fell more than 7% on Monday on signs of US–Iran diplomacy, giving gold its best day in two months and nudging the dollar lower. The RBA lifted rates to an 18-year high this morning as Americans vote in the midterm elections.",
+ "snapshot_time": "Gold ≈03:30 TRT · FX, S&P 500, Brent: Mon close",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "3,956.3",
+   "change_pct": 0.3
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.1200",
+   "change_pct": 0.38
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3420",
+   "change_pct": 0.21
+  },
+  {
+   "symbol": "S&P 500",
+   "price": "7,541.40",
+   "change_pct": -0.51
+  },
+  {
+   "symbol": "BRENT",
+   "price": "104.77",
+   "change_pct": -7.63
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Holding near $3,950 after Monday's 1.9% jump, its strongest day in two months, as the oil slump eased inflation fears. Midterm results overnight are the main risk; $3,978 is first resistance."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Back near 1.1200 from 17-month lows as the dollar softened with oil, but still under 1.1269 resistance. US JOLTS (18:00 TRT) and the midterms today; eurozone flash CPI on Wednesday."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bearish",
+   "timeframe": "Daily",
+   "resistance": [
+    "3,971–3,982",
+    "4,000",
+    "4,074–4,083"
+   ],
+   "support": [
+    "3,885–3,904",
+    "3,817–3,849",
+    "3,780–3,800"
+   ],
+   "indicators": "RSI(14) ≈ 37 · below 100-day SMA (≈4,210) · 4h RSI back to mid-40s",
+   "note": "A sharp rebound from the one-year low near $3,870, but price is still below all key moving averages and the former $4,000 floor sits overhead."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.1198–1.1218",
+    "1.1269",
+    "1.1333 (55-day EMA)"
+   ],
+   "support": [
+    "1.1103–1.1111",
+    "1.1011",
+    "1.0904 (61.8% Fib)"
+   ],
+   "indicators": "Below 55-day EMA · daily bias neutral inside 1.1114–1.1267 range",
+   "note": "Ranging after the fall from 1.2081; the broader decline stays intact while 1.1269 caps rebounds, with 1.1100 the floor being tested."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "79,000–80,000",
+    "80,300–80,900"
+   ],
+   "support": [
+    "76,000–77,000",
+    "74,500–75,000"
+   ],
+   "indicators": "Fear & Greed 37 (Fear) · below the October high near 87,000",
+   "note": "Consolidating in a narrow band above the 76,000 floor after the Binance hack sell-off; the lower-high sequence since October is unbroken."
+  },
+  {
+   "symbol": "ETHUSDT",
+   "trend": "Range",
+   "timeframe": "Daily",
+   "resistance": [
+    "2,300–2,330",
+    "2,390–2,400",
+    "2,470"
+   ],
+   "support": [
+    "2,200",
+    "2,100"
+   ],
+   "indicators": "Price pinned under 2,300 · heavy weekly ETF outflows",
+   "note": "Sideways just below the 2,300–2,330 ceiling, with 2,200 the nearest base after last week's drop."
+  }
+ ],
+ "levels": [],
+ "strength": [
+  {
+   "ccy": "CHF",
+   "value": 0.52
+  },
+  {
+   "ccy": "EUR",
+   "value": 0.24
+  },
+  {
+   "ccy": "GBP",
+   "value": 0.07
+  },
+  {
+   "ccy": "USD",
+   "value": -0.14
+  },
+  {
+   "ccy": "AUD",
+   "value": -0.32
+  },
+  {
+   "ccy": "JPY",
+   "value": -0.34
+  }
+ ],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "06:30",
+   "ccy": "AUD",
+   "event": "RBA decision — hiked 25bp to 4.85% (6–3 vote)",
+   "impact": "medium"
+  },
+  {
+   "time": "09:30",
+   "ccy": "TRY",
+   "event": "Turkey foreign trade (Oct, Trade Ministry)",
+   "impact": "low"
+  },
+  {
+   "time": "10:00",
+   "ccy": "TRY",
+   "event": "Turkey CPI (Oct) — prev 1.84% m/m, 29.73% y/y",
+   "impact": "high"
+  },
+  {
+   "time": "18:00",
+   "ccy": "USD",
+   "event": "JOLTS job openings (Sep) & factory orders",
+   "impact": "medium"
+  },
+  {
+   "time": "All day",
+   "ccy": "USD",
+   "event": "US midterm elections — results overnight",
+   "impact": "high"
+  }
+ ],
+ "news": [
+  {
+   "tag": "OIL",
+   "text": "Brent settled 7.6% lower at $104.77 on Monday as Washington and Tehran signalled openness to talks; Trump said he is in no rush to restart the war."
+  },
+  {
+   "tag": "RBA",
+   "text": "Australia's central bank raised its cash rate to 4.85%, the highest since 2008, but three members dissented and no further hikes were signalled."
+  },
+  {
+   "tag": "GOLD",
+   "text": "Bullion rose about 1.9% on Monday, its biggest gain in two months, recovering part of October's 6.8% loss as lower oil eased inflation worries."
+  },
+  {
+   "tag": "US DATA",
+   "text": "ISM manufacturing climbed to 55.5 against 54.5 expected, keeping December Fed hike odds near 73–75%; construction spending fell 1.9%."
+  },
+  {
+   "tag": "STOCKS",
+   "text": "S&P 500 slipped 0.5% and Nasdaq 1.1% as a $115B Marvell–Lumentum deal and Oracle's $20B raise revived AI-spending worries; Apple beat after hours."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "≈03:00 TRT · 24h",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "77,842",
+    "change_pct": -0.19
+   },
+   {
+    "symbol": "ETH",
+    "price": "2,288",
+    "change_pct": 0.88
+   },
+   {
+    "symbol": "BNB",
+    "price": "703.62",
+    "change_pct": -1.62
+   },
+   {
+    "symbol": "SOL",
+    "price": "94.05",
+    "change_pct": -1.1
+   },
+   {
+    "symbol": "XRP",
+    "price": "1.25",
+    "change_pct": -0.09
+   }
+  ],
+  "news": [
+   {
+    "tag": "BINANCE",
+    "text": "Binance published a zero-knowledge reserve snapshot covering 10 assets including BTC, ETH, USDT and BNB; another snapshot follows Wednesday."
+   },
+   {
+    "tag": "RECOVERY",
+    "text": "The exchange says about 95% of hacked assets are replenished and more networks reopen for withdrawals from Tuesday."
+   },
+   {
+    "tag": "OUTFLOWS",
+    "text": "Binance's daily net outflows eased to roughly $3.3B, less than half the ~$7B peak, according to DeFiLlama data."
+   },
+   {
+    "tag": "HACK TRAIL",
+    "text": "Elliptic says about $3.2B remains at theft-linked addresses; roughly $240M was laundered through TRON and 233M XRP moved to new wallets."
+   },
+   {
+    "tag": "ETF",
+    "text": "Spot bitcoin ETFs saw a net $203M outflow over 26–30 Oct; IBIT took in $177M while FBTC lost $166M."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Tue 3 Nov 10:00",
+   "tag": "TRY",
+   "event": "Turkey CPI (Oct)",
+   "note": "Surveys: 2.20–2.40% m/m, ~29.6% y/y; prev 29.73%.",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 3 Nov",
+   "tag": "USD",
+   "event": "US midterm elections",
+   "note": "House and Senate control; results overnight into Wednesday.",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 4 Nov 13:00",
+   "tag": "EUR",
+   "event": "Eurozone flash CPI (Oct)",
+   "note": "September 3.8% y/y, core 2.5%.",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 4 Nov 16:15",
+   "tag": "USD",
+   "event": "ADP employment (Oct)",
+   "note": "Private payrolls preview before Friday.",
+   "impact": "medium"
+  },
+  {
+   "when": "Wed 4 Nov 18:00",
+   "tag": "USD",
+   "event": "ISM Services PMI (Oct)",
+   "note": "Expected 54.7, previous 54.9.",
+   "impact": "medium"
+  },
+  {
+   "when": "Wed 4 Nov",
+   "tag": "BINANCE",
+   "event": "Next proof-of-reserves snapshot",
+   "note": "Full ZK proof takes ~40–50 hours after the snapshot.",
+   "impact": "medium"
+  },
+  {
+   "when": "Thu 5 Nov 12:00",
+   "tag": "NOK",
+   "event": "Norges Bank decision",
+   "note": "Hold at 4.50% expected.",
+   "impact": "low"
+  },
+  {
+   "when": "Thu 5 Nov 15:00",
+   "tag": "GBP",
+   "event": "Bank of England decision + MPR",
+   "note": "25bp hike to 4.0% widely expected.",
+   "impact": "high"
+  },
+  {
+   "when": "Fri 6 Nov 16:30",
+   "tag": "USD",
+   "event": "Non-farm payrolls (Oct)",
+   "note": "Consensus +55k (prev +29k), unemployment 4.2%.",
+   "impact": "high"
+  }
+ ],
+ "sources": [
+  {
+   "title": "CappNotes — Closing Look, Monday 2 Nov 2026",
+   "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+  },
+  {
+   "title": "Investing.com — Gold holds near $3,950 as Iran peace hopes ease oil",
+   "url": "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318"
+  },
+  {
+   "title": "Kitco — Gold, silver recover from October rout as oil drops (PM report, 2 Nov)",
+   "url": "https://www.kitco.com/news/article/2026-11-02/gold-silver-recover-october-rout-oil-drops-fed-tightening-bets-persist"
+  },
+  {
+   "title": "FXStreet via Mitrade — Gold near $3,950 ahead of US midterms",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/fxstreet-XAUUSDXAGUSDUSOIL-202611030957"
+  },
+  {
+   "title": "Mitrade — Gold price analysis, 3 Nov",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-oil-tumbles-diplomacy-midterms"
+  },
+  {
+   "title": "InvestingLive — RBA hikes 25bp to 4.85%",
+   "url": "https://investinglive.com/central-banks/reserve-bank-of-australia-rba-25bp-rate-hike-as-widely-expected/"
+  },
+  {
+   "title": "Trading Economics — Euro rebounds from 17-month lows",
+   "url": "https://tradingeconomics.com/euro-area/currency"
+  },
+  {
+   "title": "ActionForex — EUR/USD daily outlook, 2 Nov",
+   "url": "https://www.actionforex.com/technical-outlook/eurusd-outlook/659552-eur-usd-daily-outlook-2519/"
+  },
+  {
+   "title": "The Block — Binance completes ZK proof-of-reserves snapshot",
+   "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
+  },
+  {
+   "title": "AMBCrypto — TRON an early route for stolen Binance funds (Elliptic)",
+   "url": "https://ambcrypto.com/tron-became-an-early-route-for-stolen-binance-funds-elliptic-finds/"
+  },
+  {
+   "title": "KuCoin News — Spot bitcoin ETF weekly flows (SoSoValue data)",
+   "url": "https://www.kucoin.com/news/flash/bitcoin-spot-etfs-see-203m-net-outflow-in-week-through-nov-2"
+  },
+  {
+   "title": "Daily Market Report — Tuesday 3 Nov 2026 (crypto prices)",
+   "url": "https://whyitmoved.substack.com/p/daily-market-report-tuesday-november"
+  },
+  {
+   "title": "CaptainAltcoin — Bitcoin and Ethereum levels",
+   "url": "https://captainaltcoin.com/bitcoin-and-ethereum-price-predictions-for-today-november-3/"
+  },
+  {
+   "title": "Bloomberg HT — Piyasa özeti, 2 Kasım 2026",
+   "url": "https://www.bloomberght.com/piyasa-ozeti-2-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3793116"
+  },
+  {
+   "title": "Bloomberg HT — Ekonomi ve siyaset gündemi, 3 Kasım 2026",
+   "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-3-kasim-2026-3793138"
+  },
+  {
+   "title": "AA — Borsa günü yükselişle tamamladı",
+   "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968"
+  }
+ ],
+ "generated_at": "2026-11-03 07:15 TRT"
+}
