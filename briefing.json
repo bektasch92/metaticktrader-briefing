@@ -1,363 +1,379 @@
 {
- "date": "2026-11-04",
- "date_label": "Wed 4 Nov",
+ "date": "2026-11-05",
+ "date_label": "Thu 5 Nov",
  "headline1": "Market mood:",
- "headline2": "Dollar slides.",
- "lede": "Early US midterm results pointing to Democratic gains knocked the dollar and US stock futures overnight, lifting the euro, yen and franc. Gold is steady near $3,935 and Brent sits around $103 ahead of eurozone inflation and US services data.",
- "snapshot_time": "≈04:30–06:00 TRT (US500 = futures)",
+ "headline2": "Gold firm, oil sinks.",
+ "lede": "Democrats' sweep of both chambers of Congress sent the dollar and Treasury yields lower and oil sharply down, while the Dow posted its best post-midterm session in 44 years. Gold has pushed on to about $4,135 in Asia, and the Bank of England's expected first hike since 2023 is today's main event.",
+ "snapshot_time": "Gold ≈06:50 TRT · Brent ≈05:00 TRT · FX & US500 = Wed 4 Nov close",
  "snapshot": [
   {
    "symbol": "XAUUSD",
-   "price": "3,935.4",
-   "change_pct": 0.09
+   "price": "4,134.7",
+   "change_pct": 1.83
   },
   {
    "symbol": "EURUSD",
-   "price": "1.1249",
-   "change_pct": 0.5
-  },
-  {
-   "symbol": "GBPUSD",
-   "price": "1.3460",
+   "price": "1.1232",
    "change_pct": 0.4
   },
   {
+   "symbol": "GBPUSD",
+   "price": "1.3472",
+   "change_pct": 0.5
+  },
+  {
    "symbol": "US500",
-   "price": "7,514.75",
-   "change_pct": -1.08
+   "price": "7,688.62",
+   "change_pct": 1.58
   },
   {
    "symbol": "BRENT",
-   "price": "102.85",
-   "change_pct": -0.73
+   "price": "93.63",
+   "change_pct": -1.05
   }
  ],
  "focus": [
   {
    "symbol": "XAUUSD",
-   "text": "Flat near $3,935: a softer dollar offsets ~78% odds of a December Fed hike. Still capped below $3,975; US ISM services (18:00 TRT) and midterm counts are today's risks."
+   "text": "Building on Wednesday's ~3% jump, gold trades near $4,135 as the dollar and yields slip. It is now above the 20-day SMA (~$4,075); BoE at 15:00 and US jobless claims at 16:30 TRT are today's risks."
   },
   {
    "symbol": "EURUSD",
-   "text": "Up about 0.5% at 1.1249 on midterm-driven dollar selling and hawkish ECB talk, well above its 1.1191 pivot. Eurozone flash CPI at 13:00 TRT is the key test."
+   "text": "Closed Wednesday near 1.1232 after touching 1.1272, its best since early October, on a softer dollar and 4.0% eurozone inflation. German orders (10:00 TRT) and Friday's payrolls are next."
   }
  ],
  "technicals": [
   {
    "symbol": "XAUUSD",
-   "trend": "Bearish",
+   "trend": "Bullish bias",
    "timeframe": "Daily",
    "resistance": [
-    "3,975",
-    "4,000",
-    "4,084"
+    "4,187–4,227",
+    "4,205 (100-day SMA)",
+    "4,255 (upper Bollinger)"
    ],
    "support": [
-    "3,893 (overnight low)",
-    "3,871",
-    "3,797"
+    "4,075–4,083 (20-day SMA)",
+    "3,970–3,980",
+    "3,900 (lower Bollinger)"
    ],
-   "indicators": "RSI(14) ≈ 37, up from oversold · 4h RSI ≈ 40 · two falling trendlines cap rallies",
-   "note": "Former October support at $3,975 now acts as resistance, and the sequence of lower highs since the $4,000 break is intact."
+   "indicators": "Daily RSI(14) ≈ 48 before the overnight push · 1h RSI ≈ 73 (overbought) · below 100-day SMA",
+   "note": "The rebound from the 30 Oct low near $3,870 has cleared $4,000 and the late-October lower high at $4,082, with the 100-day SMA the next overhead marker."
   },
   {
    "symbol": "EURUSD",
-   "trend": "Bearish bias",
-   "timeframe": "Daily",
+   "trend": "Bullish bias",
+   "timeframe": "4h / Daily",
    "resistance": [
-    "1.1255 (upper Bollinger)",
-    "1.1269",
+    "1.1270–1.1272 (Wed high)",
+    "1.1290 (channel top)",
     "1.1420 (100-day SMA)"
    ],
    "support": [
-    "1.1195 (mid-band)",
+    "1.1200 (channel base)",
     "1.1135",
-    "1.1103–1.1111"
+    "1.1108"
    ],
-   "indicators": "RSI(14) ≈ 46 · below 100-day SMA (~1.1420) · above daily pivot 1.1191",
-   "note": "The rebound from 17-month lows is pressing the top of the Bollinger range, but the wider downtrend holds while 1.1269 caps price."
+   "indicators": "Trading around the 4h 200-EMA · H4 momentum overbought · still below 100-day SMA",
+   "note": "A short-term rising channel from late October carried price to a one-month high, but Wednesday's failure to hold 1.1270 left an upper wick."
+  },
+  {
+   "symbol": "GBPUSD",
+   "trend": "Bullish bias",
+   "timeframe": "4h",
+   "resistance": [
+    "1.3471–1.3472 (7-week high)",
+    "1.3500"
+   ],
+   "support": [
+    "1.3423",
+    "1.3372",
+    "1.3271"
+   ],
+   "indicators": "H4 MACD above zero with rising signal line · H1 stochastic above 80",
+   "note": "Sterling sits at a seven-week high into the BoE decision, with 1.3423 the first pullback zone inside the October–November recovery."
   },
   {
    "symbol": "BTCUSDT",
-   "trend": "Bearish bias",
+   "trend": "Range",
    "timeframe": "Daily",
    "resistance": [
-    "79,500–80,500",
     "81,000–82,000",
     "85,000–87,000"
    ],
    "support": [
-    "76,000–76,600",
-    "73,000–74,000",
-    "71,000"
+    "77,700 (True Market Mean)",
+    "75,600–75,700 (STH cost basis)",
+    "73,000–74,000"
    ],
-   "indicators": "Daily RSI ≈ 38 · testing 21-week EMA (~76,900) · Fear & Greed 34",
-   "note": "Holding the $76,000 short-term-holder cost basis after the Binance hack drop, with a declining trend channel and lower highs overhead."
+   "indicators": "Fear & Greed 34 · back above STH cost basis and True Market Mean · ~36% below the $126k ATH",
+   "note": "A short squeeze lifted bitcoin from $75,600 back above $80,000, but the sequence of lower highs since the summer peak is still in place."
   },
   {
    "symbol": "ETHUSDT",
-   "trend": "Bearish bias",
+   "trend": "Range",
    "timeframe": "Daily",
    "resistance": [
-    "2,315 (200-day EMA)",
-    "2,350–2,360",
-    "2,415 (50-day EMA)"
+    "2,415–2,425 (50-day EMA)",
+    "2,500",
+    "2,600"
    ],
    "support": [
+    "2,315 (200-day EMA)",
     "2,222",
-    "2,170",
-    "2,000"
+    "2,170"
    ],
-   "indicators": "Below 200-day EMA (~2,315) · 20/50/100-day EMAs all above price",
-   "note": "Range-bound under a cluster of moving averages between 2,315 and 2,415, with 2,222 the nearest floor."
+   "indicators": "Back above 200-day EMA · pressing 50-day EMA · +6.9% in 24h",
+   "note": "Ether outpaced bitcoin and is testing its 50-day EMA from below after reclaiming the 200-day EMA."
   }
  ],
- "levels": [
-  {
-   "symbol": "EURUSD",
-   "s1": "1.1176",
-   "pivot": "1.1191",
-   "r1": "1.1207",
-   "bias": "above"
-  }
- ],
+ "levels": [],
  "strength": [],
  "tz": "TRT",
  "calendar": [
   {
-   "time": "11:30",
-   "ccy": "SEK",
-   "event": "Riksbank rate decision — prev 1.75%, hike ~70% priced",
+   "time": "10:00",
+   "ccy": "EUR",
+   "event": "German factory orders (Sep, m/m)",
    "impact": "medium"
   },
   {
    "time": "13:00",
    "ccy": "EUR",
-   "event": "Eurozone flash CPI (Oct) — Sept 3.8% y/y",
+   "event": "Eurozone PPI (Sep)",
+   "impact": "low"
+  },
+  {
+   "time": "15:00",
+   "ccy": "GBP",
+   "event": "BoE rate decision & MPR (exp 4.00%, prev 3.75%)",
    "impact": "high"
   },
   {
-   "time": "16:15",
+   "time": "15:30",
+   "ccy": "GBP",
+   "event": "BoE Governor Bailey press conference",
+   "impact": "high"
+  },
+  {
+   "time": "16:30",
    "ccy": "USD",
-   "event": "ADP employment (Oct) — exp 67k, prev 90k",
+   "event": "Initial jobless claims (exp 196k, prev 194k)",
    "impact": "medium"
   },
   {
    "time": "16:30",
    "ccy": "USD",
-   "event": "Trade balance (Sep) & Treasury refunding announcement",
-   "impact": "medium"
-  },
-  {
-   "time": "18:00",
-   "ccy": "USD",
-   "event": "ISM Services PMI (Oct) — exp 54.8, prev 54.9",
-   "impact": "high"
-  },
-  {
-   "time": "18:30",
-   "ccy": "USD",
-   "event": "EIA crude inventories — prev −1.89M bbl",
+   "event": "Q3 productivity & unit labour costs (prelim)",
    "impact": "low"
   }
  ],
  "news": [
   {
    "tag": "MIDTERMS",
-   "text": "Democrats took most early House calls and Jon Ossoff held Georgia's Senate seat; House control looks likely to flip while the Senate stays open."
-  },
-  {
-   "tag": "FX",
-   "text": "The dollar index slipped toward 101.3 as investors sold dollars and bought Treasuries; the franc and yen gained most, sterling rose ahead of Thursday's BoE."
+   "text": "Democrats now control both the House and Senate; Trump congratulated them but warned he would veto their agenda, setting up a divided Washington."
   },
   {
    "tag": "STOCKS",
-   "text": "S&P 500 futures fell about 1% and Nasdaq futures 2% overnight after the cash S&P closed up 0.4%; AMD gained after hours on upbeat guidance."
+   "text": "The Dow jumped 3% (about 1,570 points) and the S&P 500 1.6% to 7,688.62; energy lagged while Apple topped a $5T market value."
   },
   {
    "tag": "OIL",
-   "text": "Brent hovers near $103, around a four-week low, as Trump said there is no immediate plan to strike Iran and Tehran denied a deal is close."
+   "text": "Brent lost nearly 8% Wednesday, falling under $100 for the first time since early October, and slipped toward $93.6 as Qatar circulated a US-Iran draft deal."
   },
   {
-   "tag": "RATES",
-   "text": "Futures still price a high chance of a December Fed hike, and ECB's Nagel said a December rate rise is very likely needed."
+   "tag": "DATA",
+   "text": "ISM services eased to 54.5 versus 54.8 expected while ADP payrolls rose 86k; the 10-year yield dipped to about 4.89%."
+  },
+  {
+   "tag": "BOE",
+   "text": "A quarter-point hike to 4% is almost fully priced for 15:00 TRT; Goldman expects a 7–2 vote and new forecasts may show inflation peaking in early 2027."
   }
  ],
  "crypto": {
-  "snapshot_time": "≈04:50 TRT · 24h",
+  "snapshot_time": "≈07:00 TRT · 24h",
   "snapshot": [
    {
     "symbol": "BTC",
-    "price": "77,700",
-    "change_pct": 1.3
+    "price": "80,485",
+    "change_pct": 4.65
    },
    {
     "symbol": "ETH",
-    "price": "2,290",
-    "change_pct": 1.8
+    "price": "2,418.65",
+    "change_pct": 6.88
    },
    {
     "symbol": "SOL",
-    "price": "93.50",
-    "change_pct": 1.9
+    "price": "95.71",
+    "change_pct": 4.1
    },
    {
     "symbol": "XRP",
-    "price": "1.28",
-    "change_pct": 2.5
+    "price": "1.30",
+    "change_pct": 3.76
    },
    {
     "symbol": "BNB",
-    "price": "699",
-    "change_pct": 0.3
+    "price": "717.59",
+    "change_pct": 3.47
+   },
+   {
+    "symbol": "ZEC",
+    "price": "1,291.03",
+    "change_pct": 7.03
    }
   ],
   "news": [
    {
+    "tag": "SQUEEZE",
+    "text": "Bitcoin briefly touched about $81,000 as roughly $950M of leveraged positions were wiped out in 24 hours, most of them short bets."
+   },
+   {
     "tag": "ETF",
-    "text": "US spot bitcoin ETFs shed about $399M on Monday, led by $405M leaving IBIT; ether ETFs lost roughly $140M."
+    "text": "US spot bitcoin ETFs saw a third day of outflows on Tuesday ($115.6M, IBIT −$95M), taking the three-day total near $1.16B; ether ETFs lost $85M."
    },
    {
     "tag": "BINANCE",
-    "text": "Investigators link the $6.3B Binance breach to a compromised software supply chain and fake job offers; about $2.85B has been frozen or intercepted."
+    "text": "Binance reopened withdrawals for several assets on Ethereum and BNB Chain after its security incident; CZ warned users about fake wallet sites."
    },
    {
     "tag": "ZCASH",
-    "text": "Zcash's NU7 upgrade activates Thursday, cutting target block time from 75 to 25 seconds."
+    "text": "ZEC rose about 7% as the NU7 upgrade, which cuts block times to 25 seconds, approaches activation around today."
    },
    {
-    "tag": "ALTCOINS",
-    "text": "RUNE jumped about 14%, HOT rallied as the HoloFuel network went live, and FLUID rose on early DEX V2 testing."
+    "tag": "TRUMP MEDIA",
+    "text": "On-chain data showed Trump Media moving about 4,259 BTC to Crypto.com."
    },
    {
-    "tag": "REGULATION",
-    "text": "The CFTC chair said US equity perpetuals could list on regulated venues; South Korea plans to lift exchanges' cold-wallet requirement to about 99%."
+    "tag": "UNLOCKS",
+    "text": "About $275M of tokens across 12 projects unlock this week; Stable (STABLE) releases roughly $23M on Sunday."
    }
   ]
  },
  "upcoming": [
   {
-   "when": "Wed 4 Nov 13:00",
-   "tag": "EUR",
-   "event": "Eurozone flash CPI (Oct)",
-   "note": "September 3.8% y/y; ECB hike talk building.",
-   "impact": "high"
-  },
-  {
-   "when": "Wed 4 Nov 18:00",
-   "tag": "USD",
-   "event": "ISM Services PMI (Oct)",
-   "note": "Expected 54.8, previous 54.9.",
-   "impact": "high"
-  },
-  {
    "when": "Thu 5 Nov 15:00",
    "tag": "GBP",
    "event": "Bank of England decision",
-   "note": "A hike is almost fully priced; first since 2023.",
+   "note": "Hike to 4.00% almost fully priced; first increase since 2023.",
    "impact": "high"
   },
   {
    "when": "Thu 5 Nov",
    "tag": "ZEC",
    "event": "Zcash NU7 network upgrade",
-   "note": "Block height 3,543,405; faster block times.",
+   "note": "Block height 3,543,405; block time 75s → 25s.",
    "impact": "low"
   },
   {
    "when": "Thu 5 Nov 16:30",
    "tag": "USD",
-   "event": "Jobless claims & Q3 productivity",
-   "note": "Claims expected 195k, prev 194k.",
+   "event": "Initial jobless claims",
+   "note": "Expected 196k, previous 194k.",
    "impact": "medium"
   },
   {
    "when": "Fri 6 Nov 16:30",
    "tag": "USD",
    "event": "Non-farm payrolls (Oct)",
-   "note": "Consensus +62k (prev +29k), unemployment 4.2%.",
+   "note": "Consensus +62k (prev +29k), unemployment 4.2%; key for December Fed hike odds.",
    "impact": "high"
   },
   {
    "when": "Fri 6 Nov 18:00",
    "tag": "USD",
    "event": "UMich sentiment (prelim Nov)",
-   "note": "Seen falling to 45.7 from 48.0.",
+   "note": "Seen at 45.7 from 48.0.",
    "impact": "medium"
+  },
+  {
+   "when": "Sun 8 Nov 03:00",
+   "tag": "STABLE",
+   "event": "Stable token unlock",
+   "note": "About $23M, ~4.9% of market value.",
+   "impact": "low"
   },
   {
    "when": "Tue 10 Nov 16:30",
    "tag": "USD",
    "event": "US CPI (Oct)",
-   "note": "Key input for December Fed hike odds.",
+   "note": "Lower oil may temper the energy component; Fed hike pricing hinges on it.",
    "impact": "high"
+  },
+  {
+   "when": "Thu 12 Nov",
+   "tag": "TRY",
+   "event": "CBRT Inflation Report (Q4)",
+   "note": "Governor Karahan presents the year's final forecasts.",
+   "impact": "medium"
   }
  ],
  "sources": [
   {
-   "title": "Reuters via Yahoo Finance — Dollar drops sharply on Democrats' early midterm gains",
-   "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drops-sharply-democrats-early-034310225.html"
+   "title": "TheStreet — Stocks rise, oil collapses after Democrats sweep midterms (4 Nov)",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
   },
   {
-   "title": "Reuters via Yahoo Finance — Stocks, dollar slide after early Democratic wins",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html"
+   "title": "CNN — Dow has best post-midterm day in 44 years",
+   "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
   },
   {
-   "title": "Reuters via Yahoo Finance — Gold rises as dollar weakens ahead of midterm results",
-   "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-dollar-weakens-ahead-032934816.html"
+   "title": "Finwire — Financial & forex market recap, 4 Nov 2026",
+   "url": "https://finwire.io/news/forex-news/financial-forex-market-recap-nov-4-2026"
   },
   {
-   "title": "Trading Economics — Gold and commodities",
+   "title": "Trading Economics — Gold",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "FXEmpire — Gold forecast: US midterms in focus, can gold reclaim $3,975?",
-   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-us-midterms-in-focus-can-gold-reclaim-3975-1642120"
+   "title": "GoodReturns — Spot gold reclaims $4,100 (5 Nov)",
+   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-5-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-prices-1545383.html"
   },
   {
-   "title": "FXStreet via Mitrade — Euro rises to near 1.1250",
-   "url": "https://www.mitrade.com/au/insights/news/live-news/article-1-2227268-20261104"
+   "title": "Mitrade — Gold technical analysis after Democratic sweep",
+   "url": "https://www.mitrade.com/au/insights/news/live-news/article-2-2230548-20261105"
   },
   {
-   "title": "Pound Sterling Live — EUR/USD daily history 2026",
-   "url": "https://www.poundsterlinglive.com/history/EUR-USD-2026"
+   "title": "MINING.COM (Reuters) — Gold heads for biggest daily gain since August",
+   "url": "https://www.mining.com/web/gold-heads-for-biggest-daily-gain-since-august-as-dollar-weakens/"
   },
   {
-   "title": "Investing.com — ADP, services PMI and oil inventories due Wednesday",
-   "url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+   "title": "Gulf News — Brent falls to $93 as Qatar mediates US-Iran draft deal",
+   "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
   },
   {
-   "title": "ZeroHedge — Key events this week: midterms, jobs, central banks",
-   "url": "https://www.zerohedge.com/economics/key-events-week-midterms-jobs-earnings-central-banks-and-more"
+   "title": "investingLive — Bank of England preview: first hike to 4% expected",
+   "url": "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/"
   },
   {
-   "title": "Daily Market Report — Wednesday 4 Nov 2026 (crypto prices)",
-   "url": "https://whyitmoved.substack.com/p/daily-market-report-wednesday-november"
+   "title": "InstaForex — EUR/USD levels for 4–6 Nov",
+   "url": "https://www.instaforex.com/forex_analysis/417471"
   },
   {
-   "title": "KuCoin — Crypto daily market report, 4 Nov 2026",
-   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-4-2026"
+   "title": "Investing.com — GBP/USD at 7-week high, BoE takes centre stage",
+   "url": "https://www.investing.com/analysis/gbpusd-at-7week-high-bank-of-england-takes-centre-stage-200690827"
   },
   {
-   "title": "Bitcoin.com News — Bitcoin ETFs lose $399M",
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-399m-as-2-day-outflows-top-1-04b/"
+   "title": "Bitcoin Magazine — Bitcoin holds near $80,000 as Democratic sweep sparks short squeeze",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-80000-short"
   },
   {
-   "title": "Analytics Insight — ETF outflows, Zcash NU7 upgrade",
-   "url": "https://www.analyticsinsight.net/news/crypto-news-today-bitcoin-etf-outflows-surge-zcash-prepares-major-upgrade-cardano-falls-below-usd-019"
+   "title": "Bitcoin.com News — ETF outflows slow to $116M",
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-price-holds-78k-as-etf-outflows-slow-to-116m/"
   },
   {
-   "title": "Yahoo Finance — Bitcoin price outlook for November 2026",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-outlook-november-2026-020000012.html"
+   "title": "Blockchain.com — Crypto prices",
+   "url": "https://www.blockchain.com/explorer/prices"
   },
   {
-   "title": "Coin Edition — Ethereum November 2026 levels",
-   "url": "https://coinedition.com/ethereum-price-prediction-november-2026-can-eth-reach-2415-or-fall-to-2170-in-november/"
+   "title": "Foreks — Bugünün ekonomik veri takvimi (5 Kasım)",
+   "url": "https://www.foreks.com/haber/detay/6aebf13095131d72027d7098/FRKS/tr/bugunun-ekonomik-veri-takvimi-05-11-26/"
   },
   {
-   "title": "Bloomberg HT — Piyasa özeti, 3 Kasım 2026",
-   "url": "https://www.bloomberght.com/piyasa-ozeti-3-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3793325"
+   "title": "Bitcoin Sistemi — Token unlocks, 2–8 Nov",
+   "url": "https://en.bitcoinsistemi.com/watch-out-major-token-unlocks-are-coming-for-12-altcoins-this-week-here-s-the-day-by-day-hour-by-hou/"
   }
  ],
- "generated_at": "2026-11-04 07:08 TRT"
+ "generated_at": "2026-11-05 07:18 TRT"
 }
