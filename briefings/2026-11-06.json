@@ -1,0 +1,377 @@
+{
+ "date": "2026-11-06",
+ "date_label": "Fri 6 Nov",
+ "headline1": "Market mood:",
+ "headline2": "AI rout, risk-off.",
+ "lede": "Wall Street had its worst session in about 19 months as chipmakers crashed on fears a Democrat-led Congress will slow the AI data-centre build-out; the S&P 500 fell 4.4% and the Nasdaq 5.5%. The selling spread to Asia this morning, bitcoin sits near $76,000 and gold has eased to about $4,055 ahead of US payrolls at 16:30 TRT.",
+ "snapshot_time": "Gold ≈06:40 TRT · Brent 05:22 TRT · FX & US500 = Thu 5 Nov close",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "4,055.7",
+   "change_pct": -0.8
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.1220",
+   "change_pct": -0.1
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3461",
+   "change_pct": -0.08
+  },
+  {
+   "symbol": "US500",
+   "price": "7,353.73",
+   "change_pct": -4.36
+  },
+  {
+   "symbol": "BRENT",
+   "price": "99.86",
+   "change_pct": 1.6
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Slipped to about $4,055 after Thursday's $4,147 peak, the best since 20 Oct, as broad deleveraging reached metals. Still ~$185 above last Friday's one-year low; October payrolls at 16:30 TRT is the key risk."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Ended Thursday near 1.1220 after a second rejection at 1.1270 and drifted toward 1.1200 in Asia. Payrolls (exp +65k, jobless 4.2%) at 16:30 TRT is today's driver."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bullish bias",
+   "timeframe": "Daily / 1h",
+   "resistance": [
+    "4,145–4,157 (Thu high 4,146.6)",
+    "4,187–4,227",
+    "4,285–4,300"
+   ],
+   "support": [
+    "4,025–4,036",
+    "4,000",
+    "3,970–3,980"
+   ],
+   "indicators": "1h RSI(14) ≈ 53, down from ~78 at the high · ~7% rally in five sessions from the 30 Oct low",
+   "note": "The sharp rebound from $3,869.85 stalled just below $4,150, and price has slipped back under the $4,065–4,075 zone that analysts flagged as first support."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Range",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.1270 (double-bottom neckline)",
+    "1.1400"
+   ],
+   "support": [
+    "1.1200",
+    "1.1110 (double-bottom base)"
+   ],
+   "indicators": "Daily RSI near the 50 line · MACD lines rising before Thursday",
+   "note": "A possible double bottom at 1.1110 is unconfirmed while 1.1270 caps; two failures there this week keep the pair inside its range."
+  },
+  {
+   "symbol": "GBPUSD",
+   "trend": "Bullish bias",
+   "timeframe": "1h / Daily",
+   "resistance": [
+    "1.3485",
+    "1.3503",
+    "1.3591"
+   ],
+   "support": [
+    "1.3450",
+    "1.3408",
+    "1.3390"
+   ],
+   "indicators": "Above the 100- and 200-day SMAs · short-term momentum flattening",
+   "note": "After the BoE hike sterling traced a potential hourly double top at 1.3485–1.3503 while holding the upper half of its 1.3372–1.3591 range."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "77,300 (daily pivot)",
+    "79,000–80,000 (20-day SMA ≈79,960)",
+    "82,000 (50-day SMA)"
+   ],
+   "support": [
+    "75,000–76,000",
+    "73,700 (S1)",
+    "73,200 (200-day SMA)"
+   ],
+   "indicators": "RSI(14) ≈ 39 · below 20- and 50-day SMAs, above 200-day SMA · ~40% below the $126k ATH",
+   "note": "Thursday's 6% drop erased the push above $80k and closed near the lower Bollinger band, leaving the 200-day SMA as the next long-term marker."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "BTCUSDT",
+   "s1": "73,727",
+   "pivot": "77,283",
+   "r1": "79,527",
+   "bias": "below"
+  }
+ ],
+ "strength": [],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "10:00",
+   "ccy": "EUR",
+   "event": "German industrial production (Sep)",
+   "impact": "medium"
+  },
+  {
+   "time": "12:30",
+   "ccy": "USD",
+   "event": "Fed's Williams speaks",
+   "impact": "medium"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Nonfarm payrolls (Oct) — exp +65k, prev +29k; jobless rate exp 4.2%",
+   "impact": "high"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Average hourly earnings (Oct) — exp 0.3% m/m, 2.9% y/y",
+   "impact": "high"
+  },
+  {
+   "time": "16:30",
+   "ccy": "CAD",
+   "event": "Canada employment report (Oct)",
+   "impact": "medium"
+  },
+  {
+   "time": "18:00",
+   "ccy": "USD",
+   "event": "UoM consumer sentiment (Nov prelim) — exp 47.8, prev 48.0",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "STOCKS",
+   "text": "The S&P 500 dropped 4.4% to 7,353.73 and the Nasdaq 5.5% into correction; the chip index sank 12%, with AMD and Micron off ~17% and Nvidia 9%."
+  },
+  {
+   "tag": "ASIA",
+   "text": "Contagion hit Asia: Korea's Kospi fell up to 8.8%, triggering a trading halt, while the Nikkei lost as much as 7% and is now in bear-market territory."
+  },
+  {
+   "tag": "BOE",
+   "text": "The BoE lifted Bank Rate 25bp to 4% in an 8–1 vote (Mann wanted 50bp), sees inflation peaking at 4.9% in Q2 2027 and signalled more may follow."
+  },
+  {
+   "tag": "OIL",
+   "text": "Brent bounced back toward $100 as fresh tanker attacks in the Gulf revived supply worries, yet it is still on course for a weekly drop of about 12%."
+  },
+  {
+   "tag": "FED",
+   "text": "Odds of a December Fed hike eased to roughly 70% from 83%; the 10-year yield slipped to about 4.84% while jobless claims fell to 189k."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "Thu ≈22:00 TRT · 24h (CoinGecko)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "75,954",
+    "change_pct": -5.8
+   },
+   {
+    "symbol": "ETH",
+    "price": "2,251",
+    "change_pct": -7.5
+   },
+   {
+    "symbol": "SOL",
+    "price": "89.16",
+    "change_pct": -7.9
+   },
+   {
+    "symbol": "XRP",
+    "price": "1.23",
+    "change_pct": -6.1
+   },
+   {
+    "symbol": "BNB",
+    "price": "691.42",
+    "change_pct": -3.9
+   },
+   {
+    "symbol": "ZEC",
+    "price": "1,242.29",
+    "change_pct": -5.3
+   }
+  ],
+  "news": [
+   {
+    "tag": "LIQUIDATIONS",
+    "text": "About $1.08B of leveraged positions were wiped out in 24 hours, 88% of them longs, as bitcoin slid from above $80k; total crypto value fell 4.6% to ~$2.66T."
+   },
+   {
+    "tag": "ETF",
+    "text": "US spot bitcoin ETFs took in $74.6M on 4 Nov, ending a three-day outflow run despite $201M leaving IBIT; ether ETFs snapped a seven-day outflow streak (+$53M)."
+   },
+   {
+    "tag": "OPTIONS",
+    "text": "Roughly $2.65B of bitcoin options expire on Deribit at 11:00 TRT today; max pain sits near $79,000 with a call-heavy 0.33 put/call ratio."
+   },
+   {
+    "tag": "EQUITIES",
+    "text": "Crypto stocks joined the tech rout: Coinbase and Strategy lost about 10%, Robinhood and Circle about 12%, and several miners 13–16%."
+   },
+   {
+    "tag": "SOLANA",
+    "text": "SOL dropped to its 200-day moving average near $88.9, the first test of that line since August."
+   },
+   {
+    "tag": "INJ",
+    "text": "Canary's staking-enabled Injective ETF started trading on Nasdaq, briefly lifting INJ more than 10% against the falling market."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Sun 8 Nov",
+   "tag": "CRYPTO",
+   "event": "AVAX token unlock",
+   "note": "About $14M of tokens scheduled to unlock",
+   "impact": "low"
+  },
+  {
+   "when": "Mon 9 Nov 04:30",
+   "tag": "CNY",
+   "event": "China CPI (Oct)",
+   "note": "Prev +0.9% y/y",
+   "impact": "medium"
+  },
+  {
+   "when": "Mon 9 Nov 20:25",
+   "tag": "GBP",
+   "event": "BoE Governor Bailey speaks",
+   "note": "First remarks after the 4% hike",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 10 Nov 16:30",
+   "tag": "USD",
+   "event": "US CPI (Oct)",
+   "note": "Key input for the 9 Dec Fed decision",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 11 Nov",
+   "tag": "USD",
+   "event": "Veterans Day",
+   "note": "US bond market closed; stocks open",
+   "impact": "low"
+  },
+  {
+   "when": "Wed 11 Nov",
+   "tag": "CRYPTO",
+   "event": "ALLO token unlock",
+   "note": "About $28M scheduled",
+   "impact": "low"
+  },
+  {
+   "when": "Thu 12 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK GDP (Q3 prelim)",
+   "note": "Prev +0.5% q/q",
+   "impact": "high"
+  },
+  {
+   "when": "Fri 13 Nov 11:00",
+   "tag": "BTC",
+   "event": "Deribit weekly options expiry",
+   "note": "The only near-term expiry with more puts than calls",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 13 Nov 16:30",
+   "tag": "USD",
+   "event": "US PPI (Oct)",
+   "note": "Producer-price follow-up to CPI",
+   "impact": "medium"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Closing Look — Thursday, November 5, 2026 (Capp Notes)",
+   "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+  },
+  {
+   "title": "Trading Day: A November 5 market bonfire (Reuters via Investing.com)",
+   "url": "https://www.investing.com/news/economy-news/trading-day-a-november-5-market-bonfire-5005919"
+  },
+  {
+   "title": "Stock market today, Nov 5: AI chip selloff spreads (StockTitan)",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+  },
+  {
+   "title": "Asia stocks tumble as AI rout batters Japan, S. Korea (Investing.com)",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358"
+  },
+  {
+   "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor (Reuters via Investing.com)",
+   "url": "https://www.investing.com/news/commodities-news/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor-5006344"
+  },
+  {
+   "title": "Gold at over two-week high as dollar, yields weaken (Business Recorder / Reuters)",
+   "url": "https://www.brecorder.com/news/40447650/gold-at-over-two-week-high-as-dollar-yields-weaken"
+  },
+  {
+   "title": "Gold's $250 week runs into the last payrolls before December (Mitrade)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-4100-payrolls-20261106J1103"
+  },
+  {
+   "title": "GBP/USD: BoE hikes to 4% in 8-1 vote (TradingNews)",
+   "url": "https://www.tradingnews.com/news/pound-steadies-at-13465-as-forst-boe-hike-since-2023-meets-a-firmer-dollar"
+  },
+  {
+   "title": "EUR/USD Signal 05/11 (DailyForex)",
+   "url": "https://www.dailyforex.com/forex-technical-analysis/2026/11/eurusd-signal-5-november-2026/251472"
+  },
+  {
+   "title": "Jobs report and data due Friday (Investing.com)",
+   "url": "https://www.investing.com/news/stock-market-news/jobs-report-unemployment-rate-and-earnings-among-economic-data-due-friday-93CH-5005391"
+  },
+  {
+   "title": "Crypto crash liquidates $954M in longs (crypto.news)",
+   "url": "https://crypto.news/crypto-crash-long-short-liquidations-bitcoin-stocks"
+  },
+  {
+   "title": "Crypto Daily Market Report, Nov 6 (KuCoin)",
+   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-6-2026"
+  },
+  {
+   "title": "Bitcoin options expiry Nov 6 (CryptoTicker)",
+   "url": "https://cryptoticker.io/en/bitcoin-price-prediction-options-expiry-november-6-2026/"
+  },
+  {
+   "title": "Bitcoin plunges to key $76,000 support (Interactive Crypto)",
+   "url": "https://www.interactivecrypto.com/bitcoin-plunges-to-key-76-000-support-can-bulls-hold-the-line"
+  },
+  {
+   "title": "BTC/USD daily historical data (Twelve Data)",
+   "url": "https://twelvedata.com/markets/499377/crypto/coinbase-pro/btc-usd/historical-data"
+  },
+  {
+   "title": "Weekly economic calendar 09–15 Nov 2026 (LiteFinance)",
+   "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-09112026-15112026/"
+  }
+ ],
+ "generated_at": "2026-11-06 07:19 TRT"
+}
