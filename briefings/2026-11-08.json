@@ -1,0 +1,418 @@
+{
+ "date": "2026-11-08",
+ "date_label": "Sun 8 Nov",
+ "headline1": "Market mood:",
+ "headline2": "Crypto quiet, CPI next.",
+ "lede": "Bitcoin spent the weekend pinned in a tight $75.5k–76.1k band after a week of heavy ETF outflows, with ether near $2,230 and XRP lagging. Forex and gold are shut until Monday, when Tuesday's US October CPI becomes the focus after Friday's strong payrolls lifted December Fed-hike odds.",
+ "snapshot_time": "Fri 6 Nov close (forex & gold closed for the weekend)",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "4,070.6",
+   "change_pct": -0.43
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.1142",
+   "change_pct": -0.69
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3350",
+   "change_pct": -0.74
+  },
+  {
+   "symbol": "US500",
+   "price": "7,376.86",
+   "change_pct": 0.31
+  },
+  {
+   "symbol": "BRENT",
+   "price": "97.79",
+   "change_pct": -0.51
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Closed Friday near $4,071 after its best week since August (+5%), as midterm results weakened the dollar. Opens Monday on its 4,068 pivot; Tuesday's US CPI is the key risk."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Ended the week at 1.1142, near the bottom of its 1.11–1.13 range after payrolls revived Fed-hike bets. Below the 1.1169 Monday pivot; US CPI Tuesday 16:30 TRT is the main test."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Range",
+   "timeframe": "Daily",
+   "resistance": [
+    "4,107",
+    "4,147"
+   ],
+   "support": [
+    "4,027",
+    "3,975",
+    "3,875"
+   ],
+   "indicators": "Back above 20-day MA · 61.8% Fib ≈ 3,975 · Mon pivot 4,068",
+   "note": "Thursday's channel breakout stalled at 4,147 and Friday pulled back to retest the former resistance zone near 4,030–4,080 from above."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.1169",
+    "1.1235",
+    "1.1270"
+   ],
+   "support": [
+    "1.1131",
+    "1.1104"
+   ],
+   "indicators": "MACD negative but above signal · below middle Bollinger band",
+   "note": "Two failures near 1.1270 this week were followed by Friday's slide to the bottom of the 1.11–1.13 range."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "76,100–76,150",
+    "76,950",
+    "77,500"
+   ],
+   "support": [
+    "75,450–75,500",
+    "74,760",
+    "73,200"
+   ],
+   "indicators": "Below 100-day MA (~76.95k) and 50-week SMA (~77.5k) · above 200-day MA (~73.2k)",
+   "note": "Saturday's range was the narrowest of the week (~650 dollars), a pause just above Friday's 74,762 low after last week's break below $80k."
+  },
+  {
+   "symbol": "US500",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "7,490",
+    "7,600"
+   ],
+   "support": [
+    "7,346",
+    "7,322"
+   ],
+   "indicators": "VIX ≈ 25.6 · weekly −2.7%",
+   "note": "Friday's modest bounce held above Thursday's 7,346 low but stayed well below the 7,737 level where Thursday's sell-off began."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "XAUUSD",
+   "s1": "4029.4",
+   "pivot": "4068.2",
+   "r1": "4109.4",
+   "bias": "above"
+  },
+  {
+   "symbol": "EURUSD",
+   "s1": "1.1104",
+   "pivot": "1.1169",
+   "r1": "1.1208",
+   "bias": "below"
+  },
+  {
+   "symbol": "GBPUSD",
+   "s1": "1.3308",
+   "pivot": "1.3385",
+   "r1": "1.3428",
+   "bias": "below"
+  },
+  {
+   "symbol": "BTCUSDT",
+   "s1": "75,443",
+   "pivot": "75,791",
+   "r1": "76,096",
+   "bias": "below"
+  }
+ ],
+ "strength": [],
+ "tz": "TRT",
+ "calendar": [],
+ "news": [
+  {
+   "tag": "FED",
+   "text": "Futures now lean roughly 77–80% toward a 25bp Fed hike on 8–9 December after October payrolls (+165k) far beat forecasts."
+  },
+  {
+   "tag": "GOLD",
+   "text": "Gold gained about 5% and silver 5.7% on the week, rebounding from the prior week's 2026 lows as the midterm result pressured the dollar."
+  },
+  {
+   "tag": "OIL",
+   "text": "Brent shed nearly 14% over the week to about $97.8 as signs of US-Iran de-escalation trimmed the Hormuz risk premium."
+  },
+  {
+   "tag": "STOCKS",
+   "text": "The S&P 500 lost about 2.7% for the week after Thursday's AI-led chip rout; the Nasdaq is down around 12% over the past month."
+  },
+  {
+   "tag": "WEEK AHEAD",
+   "text": "US CPI (Tue), UK Q3 GDP (Thu), CBRT Inflation Report (Thu) and US PPI (Fri) headline the coming week; US bond markets shut Wednesday."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "04:58 TRT · 24h (CoinGecko)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "75,666",
+    "change_pct": -0.39
+   },
+   {
+    "symbol": "ETH",
+    "price": "2,231.72",
+    "change_pct": -0.56
+   },
+   {
+    "symbol": "SOL",
+    "price": "89.04",
+    "change_pct": -1.58
+   },
+   {
+    "symbol": "XRP",
+    "price": "1.16",
+    "change_pct": -1.67
+   }
+  ],
+  "news": [
+   {
+    "tag": "ETF",
+    "text": "US spot bitcoin ETFs lost about $1.28B over 2–6 Nov, with BlackRock's IBIT behind roughly 94% of it; ether ETFs shed about $365M."
+   },
+   {
+    "tag": "STRATEGY",
+    "text": "Strategy's 849,327 BTC carry an average cost near $75,450, so its paper profit has shrunk to well under 1% at current prices; its next filing is due Monday."
+   },
+   {
+    "tag": "BINANCE",
+    "text": "Binance says it has restored 98% of the token assets hit in its $6.3B breach and is buying back the rest; customers are to bear no losses."
+   },
+   {
+    "tag": "XRP",
+    "text": "XRP dropped about 7% on the week, the weakest top-five coin and the only one under its 200-day average (~$1.27); XRP ETFs saw no inflows."
+   },
+   {
+    "tag": "ZCASH",
+    "text": "Zcash's NU7 upgrade went live on 6 Nov, cutting block times from 75 to 25 seconds; ZEC traded near $1,325 on Saturday."
+   },
+   {
+    "tag": "REGULATION",
+    "text": "The withdrawal of the US plan to lower the cross-border crypto reporting threshold to $250 takes effect on 9 Nov."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Mon 9 Nov 04:30",
+   "tag": "CNY",
+   "event": "China CPI & PPI (Oct)",
+   "note": "CPI exp 0.8% y/y, prev 0.9%; PPI exp 5.4%, prev 5.0%",
+   "impact": "medium"
+  },
+  {
+   "when": "Mon 9 Nov",
+   "tag": "CRYPTO",
+   "event": "Strategy weekly holdings filing",
+   "note": "Watched for any change in its bitcoin buying with BTC near its cost basis",
+   "impact": "low"
+  },
+  {
+   "when": "Mon 9 Nov 20:25",
+   "tag": "GBP",
+   "event": "BoE Governor Bailey speaks",
+   "note": "First remarks since the BoE's hike to 4%",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 10 Nov 16:30",
+   "tag": "USD",
+   "event": "US CPI (Oct)",
+   "note": "Exp 0.3% m/m, 3.7% y/y; core exp 0.2% m/m",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 11 Nov",
+   "tag": "USD",
+   "event": "Veterans Day",
+   "note": "US bond market closed; stocks open",
+   "impact": "low"
+  },
+  {
+   "when": "Thu 12 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK GDP (Q3 prelim)",
+   "note": "Exp 0.7% q/q, prev 0.5%",
+   "impact": "high"
+  },
+  {
+   "when": "Thu 12 Nov 10:30",
+   "tag": "TRY",
+   "event": "CBRT Inflation Report 2026-IV",
+   "note": "Current 2026 year-end forecast: 28%",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 13 Nov 16:30",
+   "tag": "USD",
+   "event": "US PPI (Oct)",
+   "note": "Exp 0.4% m/m, prev 1.3%",
+   "impact": "medium"
+  },
+  {
+   "when": "Week of 9 Nov",
+   "tag": "EARNINGS",
+   "event": "Cisco, Applied Materials, CoreWeave",
+   "note": "Key AI/chip reads after last week's tech rout",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 8–Wed 9 Dec",
+   "tag": "FED",
+   "event": "FOMC meeting",
+   "note": "Futures lean toward a 25bp hike",
+   "impact": "high"
+  }
+ ],
+ "weekly_summary": {
+  "period": "2–6 Nov",
+  "summary": "Democrats took both chambers of Congress in the US midterms, knocking the dollar midweek and sparking a sharp gold rebound, before an AI-driven chip rout on Thursday sent the Nasdaq into correction and spread to Asia. Oil tumbled as Washington and Tehran signalled openness to talks, while the Bank of England raised rates to 4%. Friday's blowout payrolls report revived the dollar and pushed December Fed-hike odds near 80%. Crypto lagged throughout, with bitcoin slipping below $76k on steady ETF outflows.",
+  "performance": [
+   {
+    "symbol": "XAUUSD",
+    "close": "4,070.6",
+    "change_pct": 5.03,
+    "note": "Best week since August; weaker dollar after midterms"
+   },
+   {
+    "symbol": "EURUSD",
+    "close": "1.1142",
+    "change_pct": -0.14,
+    "note": "Gave back midweek gains after payrolls"
+   },
+   {
+    "symbol": "GBPUSD",
+    "close": "1.3350",
+    "change_pct": -0.28,
+    "note": "BoE hike to 4% offset by strong US jobs data"
+   },
+   {
+    "symbol": "US500",
+    "close": "7,376.86",
+    "change_pct": -2.68,
+    "note": "Thursday's AI/chip rout; fourth weekly loss"
+   },
+   {
+    "symbol": "BRENT",
+    "close": "97.79",
+    "change_pct": -13.79,
+    "note": "US-Iran talk hopes cut the risk premium"
+   },
+   {
+    "symbol": "BTC",
+    "close": "75,748",
+    "change_pct": -2.18,
+    "note": "Sat-to-Sat (UTC); ETF outflows, fell from above $81k"
+   },
+   {
+    "symbol": "ETH",
+    "close": "2,232",
+    "change_pct": -0.8,
+    "note": "7-day change; held up better than BTC"
+   }
+  ],
+  "top_stories": [
+   {
+    "tag": "MIDTERMS",
+    "text": "Democrats won control of the House and Senate, setting up a divided government; the dollar and Treasury yields eased on the outcome."
+   },
+   {
+    "tag": "TECH",
+    "text": "An AI-regulation scare drove a 12% plunge in US chip stocks on Thursday; the Nasdaq entered correction and Korea's Kospi triggered a trading halt."
+   },
+   {
+    "tag": "JOBS",
+    "text": "US payrolls rose 165k in October against roughly 60k expected and unemployment fell to 4.1%, lifting December Fed-hike bets."
+   },
+   {
+    "tag": "BOE",
+    "text": "The Bank of England raised Bank Rate by 25bp to 4% in an 8–1 vote and signalled more tightening may follow."
+   },
+   {
+    "tag": "OIL",
+    "text": "Brent fell below $100 for the first time since early October as Iran authorised negotiations, despite a US strike on Qeshm Island."
+   },
+   {
+    "tag": "CRYPTO",
+    "text": "Spot bitcoin ETFs bled about $1.3B on the week, erasing their 2026 net inflows, while over $1.1B of leveraged longs were liquidated."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "FMV Gold — The week in metals: gold +5%, best week since August",
+   "url": "https://fmvgold.com/the-week-in-metals-gold-gains-5-for-its-best-week-since-august-after-the-midterms/"
+  },
+  {
+   "title": "FinanceFeeds — Gold after the jobs beat, CPI next",
+   "url": "https://financefeeds.com/gold-price-today-4045-saturday-week-ahead-after-165000-jobs-december-hike-odds-cpi-10-november-bull-4135-bear-3990/"
+  },
+  {
+   "title": "Market Alleys — Crypto prices, 8 Nov (CoinGecko data)",
+   "url": "https://marketalleys.com/post/ether-falls-0-56-to-2-231-72-2026-11-08"
+  },
+  {
+   "title": "Bitget — Bitcoin historical data",
+   "url": "https://www.bitget.com/price/bitcoin/historical-data"
+  },
+  {
+   "title": "SecureShift — Crypto market weekly recap, 7 Nov",
+   "url": "https://secureshift.io/blog/crypto-market-today-november-7-2026-weekly-recap"
+  },
+  {
+   "title": "Altcoin Buzz — Crypto market holds near $76,000",
+   "url": "https://altcoinbuzz.io/crypto-market-holds-near-76-000-after-a-week-of-declines"
+  },
+  {
+   "title": "24/7 Wall St. — Bitcoin ETFs shed $1.3B in a week",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/07/bitcoin-etfs-shed-1-3-billion-in-a-week-and-xrp-etfs-saw-zero-inflows-is-wall-street-done-buying-crypto-for-2026/"
+  },
+  {
+   "title": "24/7 Wall St. — Why XRP is the weakest top-five crypto",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/07/xrp-fell-7-this-week-and-ethereum-less-than-1-why-is-xrp-the-weakest-of-the-top-five-cryptos/"
+  },
+  {
+   "title": "crypto.news — Weekly recap: Binance recovery, crypto bill, ETF exits",
+   "url": "https://crypto.news/weekly-recap-binance-recovery-crypto-bill-bitcoin-etf/"
+  },
+  {
+   "title": "Startup Fortune — Strategy's bitcoin near its cost basis",
+   "url": "https://startupfortune.com/strategys-849327-bitcoin-are-worth-barely-more-than-saylor-paid-for-them/"
+  },
+  {
+   "title": "Farside data via TFTC — Bitcoin ETF flows, November 2026",
+   "url": "https://www.tftc.io/bitcoin-etf-flows/november-2026"
+  },
+  {
+   "title": "Capp Notes — Closing Look, Friday 6 Nov",
+   "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
+  },
+  {
+   "title": "Trading Economics — Week ahead, 9 Nov",
+   "url": "https://tradingeconomics.com/calendar?article=29378&g=top&importance=2&startdate=2026-11-06"
+  }
+ ],
+ "generated_at": "2026-11-08 07:05 TRT"
+}
