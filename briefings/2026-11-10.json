@@ -1,0 +1,386 @@
+{
+ "date": "2026-11-10",
+ "date_label": "Tue 10 Nov",
+ "headline1": "Market mood:",
+ "headline2": "Risk-on, CPI next.",
+ "lede": "Wall Street had its best day since April and Asian stocks followed as oil slid on hopes of a US–Iran de-escalation, while the dollar gave back part of Friday's payroll gains. Markets now price roughly an 85% chance of a December Fed hike going into today's October CPI report at 16:30 TRT.",
+ "snapshot_time": "Gold ≈03:30 TRT · FX/Brent Asia session ≈03:00 TRT · US500 = Mon close",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "4,127.8",
+   "change_pct": -0.3
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.1220",
+   "change_pct": -0.01
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3441",
+   "change_pct": 0.05
+  },
+  {
+   "symbol": "US500",
+   "price": "7,549.94",
+   "change_pct": 2.35
+  },
+  {
+   "symbol": "BRENT",
+   "price": "91.56",
+   "change_pct": -1.0
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Gained about 1.4–1.7% Monday as falling oil eased inflation worries; now just under $4,130, above its 4,112.0 pivot. Main risk: US CPI at 16:30 TRT."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Jumped about 0.7% Monday as the oil slump and equity rally knocked the dollar; holding near 1.1220, mid-range of 1.1103–1.1272. Main risk: US CPI at 16:30 TRT."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bullish bias",
+   "timeframe": "H1 / Daily",
+   "resistance": [
+    "4,145–4,157",
+    "4,187–4,227",
+    "4,240–4,260"
+   ],
+   "support": [
+    "4,112 (pivot)",
+    "4,074–4,082",
+    "4,025–4,036"
+   ],
+   "indicators": "H1 RSI ≈ 58 (eased from 64) · 50/100-day SMAs ≈ 4,196–4,201 overhead",
+   "note": "Monday's rally lifted gold to its highest since 21 October; price is back under the 4,145–4,157 band that capped last week's rebound."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Range",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.1272",
+    "1.1323 (55-day EMA)"
+   ],
+   "support": [
+    "1.1200",
+    "1.1103",
+    "1.0904 (Fibonacci)"
+   ],
+   "indicators": "Intraday bias neutral · below 55-day EMA ≈ 1.1323 · longer-term risk lower while 1.1710 caps",
+   "note": "Monday's rebound erased most of Friday's drop and put the pair back in the middle of its 1.1103–1.1272 consolidation band."
+  },
+  {
+   "symbol": "GBPUSD",
+   "trend": "Bullish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.3463",
+    "1.3502",
+    "1.3675"
+   ],
+   "support": [
+    "1.3373",
+    "1.3271"
+   ],
+   "indicators": "2H RSI recovered from below 30 · upside favoured while 1.3271 holds",
+   "note": "Cable is recovering inside the pullback from last week's 1.3502 high, supported by a rising trendline near 1.33."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "75,600",
+    "75,960 (R1)",
+    "78,186"
+   ],
+   "support": [
+    "74,800 (pivot)",
+    "73,692",
+    "71,252"
+   ],
+   "indicators": "Daily RSI ≈ 35 · MACD below zero",
+   "note": "Bitcoin is stuck in a tight $73.6k–75.5k band after the weekend flush; analysts flag a lower shelf at $71.3k–67.9k if 73.7k gives way."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "XAUUSD",
+   "s1": "4080.8",
+   "pivot": "4112.0",
+   "r1": "4161.6",
+   "bias": "above"
+  },
+  {
+   "symbol": "BTCUSDT",
+   "s1": "74,100",
+   "pivot": "74,800",
+   "r1": "75,960",
+   "bias": "below"
+  }
+ ],
+ "strength": [],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "10:00",
+   "ccy": "TRY",
+   "event": "Turkey industrial production (Sep)",
+   "impact": "medium"
+  },
+  {
+   "time": "12:00",
+   "ccy": "USD",
+   "event": "Fed Governor Waller speaks",
+   "impact": "medium"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "CPI (Oct) – exp 0.3% m/m, 3.9% y/y",
+   "impact": "high"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Core CPI (Oct) – exp 0.2% m/m, 2.8% y/y",
+   "impact": "high"
+  },
+  {
+   "time": "17:35",
+   "ccy": "USD",
+   "event": "Fed's Logan speaks",
+   "impact": "medium"
+  },
+  {
+   "time": "19:45",
+   "ccy": "EUR",
+   "event": "ECB chief economist Lane speaks",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "STOCKS",
+   "text": "S&P 500 rose 2.35% to 7,549.94, its biggest gain since April; Nasdaq +2.7% as chipmakers rebounded even with Nvidia down on a board probe."
+  },
+  {
+   "tag": "OIL",
+   "text": "Brent slid toward $91.5, its lowest since early September, after Trump said he would hold off on new strikes on Iran; analysts warn talks remain fragile."
+  },
+  {
+   "tag": "FED",
+   "text": "Futures imply about an 85% chance of a December hike after strong October payrolls; economists expect October CPI at 3.9% y/y, core 2.8%."
+  },
+  {
+   "tag": "ASIA",
+   "text": "Kospi surged over 5%, triggering a circuit breaker, and the Nikkei gained around 3% as tech shares bounced."
+  },
+  {
+   "tag": "RATES",
+   "text": "US yields stayed elevated, with the 10-year near 4.87% and the 2-year around 4.56%, keeping a lid on gold's rebound."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "≈00:15 TRT · 24h (Motley Fool data)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "74,824",
+    "change_pct": 0.1
+   },
+   {
+    "symbol": "ETH",
+    "price": "2,126.59",
+    "change_pct": 0.1
+   },
+   {
+    "symbol": "SOL",
+    "price": "86.48",
+    "change_pct": 0.2
+   },
+   {
+    "symbol": "XRP",
+    "price": "1.09",
+    "change_pct": -4.8
+   },
+   {
+    "symbol": "BNB",
+    "price": "689.09",
+    "change_pct": -1.0
+   }
+  ],
+  "news": [
+   {
+    "tag": "DECOUPLING",
+    "text": "Crypto sat out Monday's equity rally: bitcoin stayed below $75,000 while the Nasdaq gained nearly 3%."
+   },
+   {
+    "tag": "ETF",
+    "text": "US spot bitcoin ETFs lost about $1.28B last week, the most since June, and ether funds about $365M."
+   },
+   {
+    "tag": "AVAX",
+    "text": "Avalanche gained roughly 6–8% after an NYSE-affiliated unit said it plans a tokenized-securities platform using Avalanche as its core ledger."
+   },
+   {
+    "tag": "STABLECOIN",
+    "text": "Qivalis, a group of 37 European banks, won Dutch authorisation to issue a euro stablecoin; the UK FCA opened crypto applications for banks."
+   },
+   {
+    "tag": "BINANCE",
+    "text": "Binance promised an independent review after reports that North Korea-linked hackers used NEAR memecoins to disguise stolen funds as trading profit."
+   },
+   {
+    "tag": "STRATEGY",
+    "text": "MSCI's final list of index-exclusion candidates, including Strategy (MSTR), is due Wednesday with BTC near Strategy's average cost."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Tue 10 Nov 16:30",
+   "tag": "USD",
+   "event": "US CPI (Oct)",
+   "note": "Exp 0.3% m/m (prev 0.6%), 3.9% y/y (prev 3.7%); core exp 2.8% y/y",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 11 Nov",
+   "tag": "USD",
+   "event": "Veterans Day",
+   "note": "US bond market closed; stocks open",
+   "impact": "low"
+  },
+  {
+   "when": "Wed 11 Nov",
+   "tag": "CRYPTO",
+   "event": "MSCI final index-exclusion list",
+   "note": "Includes Strategy (MSTR); changes effective 30 Nov",
+   "impact": "medium"
+  },
+  {
+   "when": "Wed 11 Nov 12:45",
+   "tag": "EUR",
+   "event": "ECB President Lagarde speaks",
+   "note": "December hike debate in focus",
+   "impact": "medium"
+  },
+  {
+   "when": "Thu 12 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK GDP (Q3 prelim)",
+   "note": "Exp ~0.7% q/q, prev 0.5%",
+   "impact": "high"
+  },
+  {
+   "when": "Thu 12 Nov 10:30",
+   "tag": "TRY",
+   "event": "CBRT Inflation Report 2026-IV",
+   "note": "Current 2026 year-end forecast: 28%",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 13 Nov 13:00",
+   "tag": "EUR",
+   "event": "Eurozone GDP (Q3, 2nd est.)",
+   "note": "Prev estimate 0.4% q/q",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 13 Nov 16:30",
+   "tag": "USD",
+   "event": "US PPI (Oct)",
+   "note": "Exp 0.4% m/m, prev 1.3%",
+   "impact": "medium"
+  },
+  {
+   "when": "Mon 16 Nov 02:50",
+   "tag": "JPY",
+   "event": "Japan GDP (Q3 prelim)",
+   "note": "Prev 0.4% q/q",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 17 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK labour market data",
+   "note": "Prev unemployment 4.7%, pay ex-bonus 3.7%",
+   "impact": "medium"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Reuters via Investing.com – Asian stocks climb as sliding oil prices buoy sentiment",
+   "url": "https://www.investing.com/news/economy-news/asian-stocks-climb-as-sliding-oil-prices-buoy-sentiment-5013939"
+  },
+  {
+   "title": "Reuters via Investing.com – Dollar sellers hit pause for US inflation data",
+   "url": "https://www.investing.com/news/economy-news/dollar-sellers-hit-pause-for-us-inflation-data-5013809"
+  },
+  {
+   "title": "AP via myMotherLode – How major US stock indexes fared Monday 11/9/2026",
+   "url": "https://mymotherlode.com/news/national/11295563/how-major-us-stock-indexes-fared-monday-11-9-2026.html"
+  },
+  {
+   "title": "Bloomberg via Bloomingbit – Gold holds near $4,130 as oil falls, dollar weakens",
+   "url": "https://en.bloomingbit.io/feed/news/124045"
+  },
+  {
+   "title": "Trading Economics – Gold",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "XAUUSD Global – Gold price history, November 2026 (daily OHLC)",
+   "url": "https://www.xauusdglobal.com/gold-price-history/2026/11/"
+  },
+  {
+   "title": "Mitrade – Gold rebounds as dollar weakens, CPI in focus",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-rebounds-dollar-weakens-cpi-focus"
+  },
+  {
+   "title": "ActionForex – EUR/USD technical outlook",
+   "url": "https://www.actionforex.com/category/technical-outlook/eurusd-outlook/"
+  },
+  {
+   "title": "ActionForex – GBP/USD technical outlook",
+   "url": "https://www.actionforex.com/category/technical-outlook/gbpusd-outlook/"
+  },
+  {
+   "title": "FXEmpire – DXY, EUR/USD and GBP/USD await US CPI",
+   "url": "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-faces-102-26-as-eur-usd-and-gbp-usd-await-us-cpi-1643244"
+  },
+  {
+   "title": "Investing.com – CPI data and Fed speakers highlight Tuesday's calendar",
+   "url": "https://uk.investing.com/news/stock-market-news/cpi-data-and-fed-speakers-highlight-tuesdays-economic-calendar-93CH-4969334"
+  },
+  {
+   "title": "Motley Fool – Crypto market today, Nov. 9",
+   "url": "https://fool.com/coverage/stock-market-today/2026/11/09/crypto-market-today-nov-9-bitcoin-and-ethereum-lag-as-nasdaq-surges-nearly-3"
+  },
+  {
+   "title": "Twelve Data – BTC/USD daily historical data",
+   "url": "https://twelvedata.com/markets/499377/crypto/coinbase-pro/btc-usd/historical-data"
+  },
+  {
+   "title": "crypto.news – Bitcoin drops toward $74K as liquidations top $1B",
+   "url": "https://crypto.news/bitcoin-price-below-75000-etf-outflows-liquidations/"
+  },
+  {
+   "title": "KuCoin – Crypto daily market report, 10 Nov 2026",
+   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-10-2026"
+  },
+  {
+   "title": "Bloomberg HT – Piyasalarda günün özeti, 9 Kasım 2026",
+   "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-9-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3793995"
+  }
+ ],
+ "generated_at": "2026-11-10 07:20 TRT"
+}
