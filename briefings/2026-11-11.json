@@ -1,0 +1,357 @@
+{
+ "date": "2026-11-11",
+ "date_label": "Wed 11 Nov",
+ "headline1": "Market mood:",
+ "headline2": "Hot CPI, dollar bid.",
+ "lede": "October US consumer prices rose faster than expected, pushing a December Fed hike to fully priced and sending the 2-year yield up the most in a single day since April 2025. Gold lost about 2.6% and US stocks slipped, while Asian equities firmed this morning and gold is stabilising near $4,040.",
+ "snapshot_time": "Gold ≈03:25 TRT · Brent ≈03:50 TRT · FX & US500 = Tue close",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "4,039.1",
+   "change_pct": 0.2
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.1163",
+   "change_pct": -0.53
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3344",
+   "change_pct": -0.71
+  },
+  {
+   "symbol": "US500",
+   "price": "7,520.93",
+   "change_pct": -0.38
+  },
+  {
+   "symbol": "BRENT",
+   "price": "92.46",
+   "change_pct": 1.06
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Dropped about 2.6% Tuesday as hotter CPI lifted yields and the dollar; steadying near $4,039 on the 4,025–4,036 support band. Today: ECB speakers; US bond market shut for Veterans Day."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Fell about 0.5% to 1.1163 as US rate-hike bets firmed; now below the 1.1187 midpoint of its 1.1089–1.1271 range. Main risk today: Lagarde and other ECB remarks."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bearish bias",
+   "timeframe": "H1 / Daily",
+   "resistance": [
+    "4,074–4,082",
+    "4,145–4,157",
+    "4,187–4,227"
+   ],
+   "support": [
+    "4,025–4,036",
+    "3,970–3,980",
+    "3,885–3,904"
+   ],
+   "indicators": "H1 RSI(14) dropped from 64 to 28 (oversold) before a slight uptick · price below all key moving averages",
+   "note": "The CPI selloff wiped out Monday's rally and left gold sitting on its first support band after rejecting the 4,145–4,157 area."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Range",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.1187",
+    "1.1271"
+   ],
+   "support": [
+    "1.1089"
+   ],
+   "indicators": "RSI near 50 · MACD histogram flat around zero · long-term bearish trendline overhead",
+   "note": "Price is drifting to the lower half of a multi-week range under a downward-sloping trendline; 1.1089 marks lows last seen in May 2025."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "73,893 (pivot)",
+    "75,147–75,628",
+    "81,080–81,890"
+   ],
+   "support": [
+    "72,640–72,836",
+    "68,000"
+   ],
+   "indicators": "Trading around the 200-day MA ≈ 73,100 · options skew still favours puts",
+   "note": "A double top at 81,890/81,080 broke its 75,628 neckline on 5 Nov; bitcoin is now testing the 200-day average after the CPI-driven dip."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "BTCUSDT",
+   "s1": "72,447",
+   "pivot": "73,893",
+   "r1": "75,147",
+   "bias": "below"
+  }
+ ],
+ "strength": [],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "10:00",
+   "ccy": "EUR",
+   "event": "Germany HICP final (Oct) – flash 2.8% y/y",
+   "impact": "medium"
+  },
+  {
+   "time": "10:00",
+   "ccy": "TRY",
+   "event": "Turkey retail sales (Sep) – prev 10.1% y/y",
+   "impact": "medium"
+  },
+  {
+   "time": "—",
+   "ccy": "EUR",
+   "event": "ECB's Lagarde, Cipollone, Kazaks and Nagel speak",
+   "impact": "medium"
+  },
+  {
+   "time": "—",
+   "ccy": "USD",
+   "event": "Veterans Day: US bond market closed, stocks open",
+   "impact": "low"
+  }
+ ],
+ "news": [
+  {
+   "tag": "CPI",
+   "text": "US CPI rose 0.4% m/m in October and core 0.3%, each a tenth above forecasts; no annual rate was published because of the shutdown data gap."
+  },
+  {
+   "tag": "FED",
+   "text": "A December hike is now fully priced; Governor Waller floated 50bp if inflation stays hot and Dallas Fed's Logan called for at least 50bp more."
+  },
+  {
+   "tag": "RATES",
+   "text": "The 2-year Treasury yield jumped about 17bp to 4.73%, its biggest daily rise since April 2025; the 10-year ended near 4.98%."
+  },
+  {
+   "tag": "STOCKS",
+   "text": "S&P 500 fell 0.38% to 7,520.93 and the Nasdaq 0.74%, with Nvidia down again amid a board probe into its CEO; Kospi and Nikkei rose this morning."
+  },
+  {
+   "tag": "OIL",
+   "text": "Brent touched a two-month low near $89.2 on hopes the Iran conflict could end soon, then recovered toward $92.5 in Asian trade."
+  },
+  {
+   "tag": "ECB",
+   "text": "Euro also weighed by uncertainty over Lagarde's early exit; Klaas Knot and Pablo Hernández de Cos are seen as front-runners, with euro finance ministers reviewing candidates this week."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "≈07:00 TRT · 24h (CoinDesk)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "73,700",
+    "change_pct": -1.06
+   },
+   {
+    "symbol": "ETH",
+    "price": "2,060.33",
+    "change_pct": -2.47
+   },
+   {
+    "symbol": "SOL",
+    "price": "83.28",
+    "change_pct": -2.84
+   },
+   {
+    "symbol": "XRP",
+    "price": "1.06",
+    "change_pct": -3.1
+   },
+   {
+    "symbol": "BNB",
+    "price": "682.41",
+    "change_pct": -0.85
+   },
+   {
+    "symbol": "ZEC",
+    "price": "1,028.70",
+    "change_pct": 10.57
+   }
+  ],
+  "news": [
+   {
+    "tag": "CPI",
+    "text": "Hot US inflation knocked bitcoin to around $72,640 on Tuesday, briefly below its 200-day average; fear & greed gauge slipped to 29."
+   },
+   {
+    "tag": "ETF",
+    "text": "US spot bitcoin ETFs saw a third straight outflow day (–$201M on 9 Nov), taking November to about –$1.48B; ether funds lost $185M."
+   },
+   {
+    "tag": "MSCI",
+    "text": "MSCI announces its index review tonight; Strategy and Metaplanet are seen as possible removals, effective after the 30 Nov close."
+   },
+   {
+    "tag": "INITIA",
+    "text": "Initia's layer-1 network was halted after an attack, according to exchange market reports."
+   },
+   {
+    "tag": "ALTS",
+    "text": "Zcash jumped over 10% and Internet Computer about 8% ahead of DFINITY's planned Cloud Engines launch this week."
+   },
+   {
+    "tag": "ADOPTION",
+    "text": "Miami-Dade County began accepting bitcoin for property-tax payments."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Wed 11 Nov (evening)",
+   "tag": "CRYPTO",
+   "event": "MSCI index review announcement",
+   "note": "Watched for possible removal of Strategy and Metaplanet",
+   "impact": "medium"
+  },
+  {
+   "when": "Thu 12 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK GDP Q3 (preliminary)",
+   "note": "First read on third-quarter growth",
+   "impact": "high"
+  },
+  {
+   "when": "Thu 12 Nov 16:30",
+   "tag": "USD",
+   "event": "Initial jobless claims",
+   "note": "Cons 195k, prev 189k; several Fed speakers through the day",
+   "impact": "medium"
+  },
+  {
+   "when": "Thu 12 Nov",
+   "tag": "EARNINGS",
+   "event": "Cisco, Applied Materials, Nebius",
+   "note": "Tests the AI-hardware trade after Nvidia's slide",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 13 Nov 16:30",
+   "tag": "USD",
+   "event": "PPI (Oct)",
+   "note": "Cons +0.4% m/m, prev +1.3%",
+   "impact": "high"
+  },
+  {
+   "when": "Sun 15 Nov",
+   "tag": "CRYPTO",
+   "event": "Starknet unlock (~127M STRK)",
+   "note": "Large relative to trading volume",
+   "impact": "low"
+  },
+  {
+   "when": "Sun 15 – Tue 17 Nov",
+   "tag": "CRYPTO",
+   "event": "Solana Breakpoint, London",
+   "note": "Solana's main annual conference",
+   "impact": "medium"
+  },
+  {
+   "when": "Mon 16 Nov",
+   "tag": "CRYPTO",
+   "event": "Arbitrum unlock (~92.65M ARB)",
+   "note": "Monthly scheduled tranche",
+   "impact": "low"
+  },
+  {
+   "when": "Tue 17 Nov 16:30",
+   "tag": "USD",
+   "event": "Retail sales (Oct)",
+   "note": "Consumer test before the 8–9 Dec FOMC",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 18 Nov 22:00",
+   "tag": "USD",
+   "event": "FOMC minutes (27–28 Oct)",
+   "note": "Shows how many members already favoured a hike; UK & eurozone CPI also due",
+   "impact": "high"
+  }
+ ],
+ "sources": [
+  {
+   "title": "investingLive – US stocks slide, yields jump, USD higher after hotter October CPI",
+   "url": "https://investinglive.com/technical-analysis/us-stocks-slide-yields-jump-usd-higher-after-hotter-than-expected-october-cpi/"
+  },
+  {
+   "title": "Kitco – Gold, silver retreat as core CPI lifts December Fed hike odds",
+   "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-retreat-high-core-cpi-lifts-december-fed-hike-odds-kitco-am"
+  },
+  {
+   "title": "Investing.com – Gold steadies after sharp selloff as December Fed hike bets firm",
+   "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-4035-after-sharp-selloff-as-december-fed-hike-bets-firm-5017433"
+  },
+  {
+   "title": "Rallies (Reuters) – Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+   "url": "https://rallies.ai/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets-104f6fe5a96f761d"
+  },
+  {
+   "title": "Mitrade – Gold price analysis after hotter CPI",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/hotter-cpi-plunges-gold-yields-surge"
+  },
+  {
+   "title": "Capp Notes – Closing Look, Tuesday 10 November 2026",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
+  },
+  {
+   "title": "StoneX – EUR/USD analysis: US inflation data keeps pressure on the euro",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/eur-usd-analysis-u-s-inflation-data-keeps-pressure-on-the-euro-2026-11-10/"
+  },
+  {
+   "title": "Trading Economics – Euro (EUR/USD)",
+   "url": "https://tradingeconomics.com/euro-area/currency"
+  },
+  {
+   "title": "HDFC Sky – Global markets today, 11 November 2026",
+   "url": "https://hdfcsky.com/news/global-markets-today-november-11-2026-india-likely-to-open-higher-as-asian-shares-climb"
+  },
+  {
+   "title": "ZeroHedge – Key events this week: CPI, PPI, Fed speakers",
+   "url": "https://www.zerohedge.com/markets/key-events-week-cpi-ppi-fed-speakers-galore-and-end-earnings-season"
+  },
+  {
+   "title": "CoinDesk – Crypto prices",
+   "url": "https://www.coindesk.com/price"
+  },
+  {
+   "title": "KuCoin – Crypto daily market report, 11 November 2026",
+   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-11-2026"
+  },
+  {
+   "title": "crypto.news – Bitcoin tests $73K support",
+   "url": "https://crypto.news/bitcoin-holds-near-74k-but-where-are-the-buyers/"
+  },
+  {
+   "title": "Mitrade – Bitcoin lost its 200-day average",
+   "url": "https://www.mitrade.com/insights/crypto-analysis/bitcoin/btc-double-top-neckline-20261111J1122"
+  },
+  {
+   "title": "Twelve Data – BTC/USD daily historical data",
+   "url": "https://twelvedata.com/markets/499377/crypto/coinbase-pro/btc-usd/historical-data"
+  },
+  {
+   "title": "CryptoTicker – Crypto news this week: key dates, November 2026",
+   "url": "https://cryptoticker.io/en/crypto-news-this-week-recap-key-dates-november-2026/"
+  }
+ ],
+ "generated_at": "2026-11-11 07:15 TRT"
+}
