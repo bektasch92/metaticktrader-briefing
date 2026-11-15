@@ -1,10 +1,11 @@
 {
- "date": "2026-11-14",
- "date_label": "Cmt 14 Kas",
+ "lang": "tr",
+ "date": "2026-11-15",
+ "date_label": "Paz 15 Kas",
  "headline1": "Piyasa havası:",
- "headline2": "Kripto hafta sonuna ezik giriyor.",
- "lede": "Kaldıraçlı pozisyonlardaki yeni tasfiye dalgasının ardından Bitcoin cumartesi 67.500 dolar civarında seyrediyor; Fed'in aralıkta faiz artıracağına neredeyse kesin gözüyle bakılması ve %5,15'e yakın ABD 10 yıllık getirisi riskli varlıkları baskılıyor. Forex ve altın kapalı: ons altın cuma gününü 3.883 dolardan hafif artıda kapattı ancak haftayı yaklaşık %3,5 kayıpla bitirdi, EUR/USD ise 1,1023 civarında kapandı.",
- "snapshot_time": "13 Kas Cuma kapanış (piyasalar kapalı)",
+ "headline2": "Kriptoda teslimiyet.",
+ "lede": "Hafta sonu yaklaşık 2 milyar dolarlık kaldıraçlı alım pozisyonunun tasfiye edilmesiyle Bitcoin 62.000–63.500 dolar bandına, temmuzdan bu yana en düşük seviyeye geriledi; piyasalar aralıkta Fed'in faiz artırmasını bekliyor. Döviz ve altın piyasaları kapalı: ons altın haftayı yaklaşık %4,6 kayıpla 3.883 dolardan, EUR/USD 1,1023 civarında kapattı; ABD 10 yıllık tahvil faizi %5,15'te.",
+ "snapshot_time": "13 Kas cuma kapanışı (piyasalar kapalı)",
  "snapshot": [
   {
    "symbol": "XAUUSD",
@@ -35,11 +36,11 @@
  "focus": [
   {
    "symbol": "XAUUSD",
-   "text": "Cuma 3.867'ye kadar gerilese de günü %0,2 artıyla 3.883'ten kapattı; pazartesi pivotu 3.891,6'nın altında. %5'i aşan getiriler toparlanmayı sınırlıyor; sırada ABD perakende satışları (Sal) ve FOMC tutanakları (Çar) var."
+   "text": "%5'in üzerindeki tahvil faizleri ve Fed artış beklentileriyle haftayı ~%4,6 düşüşle 3.883 dolardan kapattı; pazartesiye 3.891,6 pivotunun altında başlıyor. Salı ABD perakende satışları, çarşamba FOMC tutanakları var."
   },
   {
    "symbol": "EURUSD",
-   "text": "Üst üste dördüncü kayıplı seansta günün dibine yakın 1,1023'ten kapandı ve 1,1039 pivotunun altında kaldı. Haftanın ilk ciddi sınavı salı günkü ABD perakende satışları."
+   "text": "Dolar endeksi 19 ayın zirvesindeyken haftayı ~%1,1 kayıpla 1,1023'te, 1,1039 pivotunun altında bitirdi. İlk sınav salı günkü ABD perakende satışları."
   }
  ],
  "technicals": [
@@ -98,34 +99,34 @@
    "trend": "Düşüş",
    "timeframe": "Günlük / Haftalık",
    "resistance": [
-    "70.000",
-    "73.100 (200 günlük ort.)",
-    "75.600"
+    "65.000 (pivot)",
+    "66.000–68.000",
+    "73.000 (200 günlük ort.)"
    ],
    "support": [
-    "67.750 (200 haftalık ort.)",
-    "64.100",
-    "60.000"
+    "62.000",
+    "60.000",
+    "≈58.000 (2026 dibi)"
    ],
-   "indicators": "200 günlük ortalamanın (~73,1 bin) altında · 200 haftalık ortalamayı (~67,8 bin) test ediyor · Korku & Açgözlülük 20 · negatif fonlama",
-   "note": "70.000 doları kaybeden Bitcoin 200 haftalık ortalamasını test ediyor; grafikte bir sonraki referans 64.100 civarındaki ağustos dibi."
+   "indicators": "200 günlük (~73 bin) ve 200 haftalık (~67,8 bin) ortalamanın altında · Korku & Açgözlülük 10–15 (aşırı korku) · 7 günlük değişim ≈ -%16",
+   "note": "Cumartesi satışları cuma günkü ~67.550 dibini ve 200 haftalık ortalamayı kırdı; grafikte 60.000 altındaki temmuz dipleri bir sonraki referans."
   },
   {
    "symbol": "ETHUSDT",
    "trend": "Düşüş",
    "timeframe": "Günlük",
    "resistance": [
-    "2.000",
-    "2.100–2.200",
-    "2.350–2.450"
+    "1.850",
+    "1.930–2.000",
+    "2.100–2.200"
    ],
    "support": [
-    "1.850–1.930",
-    "1.700–1.750",
+    "1.700",
+    "1.600",
     "1.510"
    ],
-   "indicators": "RSI(14) ≈ 24 (aşırı satım) · MACD sinyalin altında · 200 günlük üssel ort. ≈ 2.300",
-   "note": "Ether ağustostan bu yana ilk kez 2.000 doların altında kapandı ve 1.850–1.930 destek bandını yokluyor."
+   "indicators": "Günlük RSI aşırı satım bölgesinde · 200 günlük üssel ortalamanın (~2.300) altında · MACD sinyal çizgisinin altında",
+   "note": "Ether 1.850–1.930 bandını kaybederek temmuz başından bu yana en düşük seviye olan ~1.711'i gördü; ekimden bu yana alçalan tepeler dizisi sürüyor."
   }
  ],
  "levels": [
@@ -149,6 +150,13 @@
    "pivot": "1.3222",
    "r1": "1.3240",
    "bias": "below"
+  },
+  {
+   "symbol": "BTCUSDT",
+   "s1": "61,679",
+   "pivot": "65,049",
+   "r1": "66,828",
+   "bias": "below"
   }
  ],
  "strength": [],
@@ -157,88 +165,88 @@
  "news": [
   {
    "tag": "FED",
-   "text": "ABD'de ekim ÜFE'si aylık %0,3 ile beklentinin hafif altında kaldı, ancak yıllık %6,5 ile 2022 sonundan bu yana en yüksek seviyede; piyasalar aralık artışına yaklaşık %90 olasılık veriyor."
+   "text": "Fed Üyesi Waller 0,3'lük çekirdek TÜFE sonrası aralıkta 50 baz puanlık artışın masada olması gerektiğini söyledi; Logan en az iki çeyrek puanlık adım daha istiyor. Vadeli piyasalar 25 baz puanı tamamen fiyatlıyor."
   },
   {
    "tag": "TAHVİL",
-   "text": "ABD 10 yıllık tahvil faizi hafta boyunca yaklaşık 27 baz puan yükselerek %5,15 civarına çıktı; Nisan 2025'ten bu yana en sert haftalık artış."
-  },
-  {
-   "tag": "HİSSE",
-   "text": "S&P 500 cuma %0,4 düşüşle 7.561,67'de, Nasdaq %0,9 düşüşle kapandı; yine de ikisi de haftayı %2'nin üzerinde artıyla bitirdi. CEO'su ayrılan Nvidia haftada ~%13 değer kaybetti."
+   "text": "ABD 10 yıllık tahvil faizi haftayı yaklaşık 27–30 baz puan artışla %5,15'te kapattı; Nisan 2025'ten bu yana en sert haftalık yükseliş."
   },
   {
    "tag": "PETROL",
-   "text": "Brent 95,84 dolarda yatay kapandı ve üst üste ikinci haftalık düşüşünü yazdı; UEA arz fazlası beklerken Körfez'den akış artıyor."
+   "text": "Brent, Körfez'de koruma altındaki ihracatın toparlanması ve Beyaz Saray'ın İran'da 'statüko' tutumuyla 95,84 dolarda ikinci haftalık kaybını yazdı."
   },
   {
-   "tag": "ALTIN",
-   "text": "Ons altın haftayı yaklaşık %3,5 kayıpla kapattı, son 12 haftanın 10'unda düştü; gümüş kısa süreliğine 50 doların altını gördü."
+   "tag": "HİSSE",
+   "text": "S&P 500, Jensen Huang'ın sürpriz istifasıyla Nvidia'nın ~%13 düşmesine rağmen haftayı yaklaşık %2,5 primle kapattı; Nvidia salı günü bilanço açıklayacak."
+  },
+  {
+   "tag": "ABD",
+   "text": "Semafor'a göre Beyaz Saray ekonomi danışmanı Kevin Hassett'in görevden ayrılması bekleniyor."
   }
  ],
  "crypto": {
-  "snapshot_time": "≈05:50 TSİ · 24s (CoinMarketCap / Liputan6)",
+  "snapshot_time": "≈07:00 TSİ · 24 saat (CoinGecko)",
   "snapshot": [
    {
     "symbol": "BTC",
-    "price": "67.455",
-    "change_pct": -4.09
+    "price": "63.652",
+    "change_pct": -7.2
    },
    {
     "symbol": "ETH",
-    "price": "1.902",
-    "change_pct": -4.73
+    "price": "1.749",
+    "change_pct": -9.6
    },
    {
     "symbol": "SOL",
-    "price": "75,81",
-    "change_pct": -5.59
+    "price": "69,37",
+    "change_pct": -12.2
    },
    {
     "symbol": "XRP",
-    "price": "0,9977",
-    "change_pct": -2.33
+    "price": "0,9007",
+    "change_pct": -11.5
    },
    {
     "symbol": "BNB",
-    "price": "624",
-    "change_pct": -3.6
+    "price": "576,12",
+    "change_pct": -9.0
    },
    {
     "symbol": "HYPE",
-    "price": "70,21",
-    "change_pct": -2.83
+    "price": "62,74",
+    "change_pct": -13.5
    },
    {
     "symbol": "ZEC",
-    "price": "926,15",
-    "change_pct": -2.39
+    "price": "844,99",
+    "change_pct": -10.6
    }
   ],
   "news": [
    {
     "tag": "BTC",
-    "text": "Bitcoin ağustostan bu yana en zayıf seviyesi olan 67.500 dolara doğru geriledi ve 67.750 civarındaki 200 haftalık ortalamayı test ediyor; duyarlılık 'aşırı korku' bölgesinde."
+    "text": "Bitcoin pazar sabahı Asya'da ~62.100 dolara kadar indi; temmuz ortasından bu yana en düşük seviye. Son 7 günde kayıp yaklaşık %16."
    },
    {
     "tag": "TASFİYE",
-    "text": "CoinMarketCap verilerine göre 24 saatte yaklaşık 1,7 milyar dolarlık kripto türev pozisyonu tasfiye edildi; bunun ~1,5 milyar doları uzun pozisyonlardı."
+    "text": "CoinGlass verilerine göre 24 saatte yaklaşık 2 milyar dolarlık pozisyon tasfiye edildi; 774 milyon dolar BTC, 488 milyon dolar ETH, büyük kısmı alım yönlü. Binance'te tutar ~800 milyon dolar."
    },
    {
     "tag": "ETF",
-    "text": "SoSoValue'ya göre ABD spot Bitcoin ETF'lerinden 12 Kasım'da 284 milyon dolar çıktı; altıncı günlük çıkışta en büyük pay BlackRock IBIT'te (-204 mn $)."
+    "text": "ABD spot Bitcoin ETF'lerinden 9–13 Kasım'da her gün çıkış oldu, toplam ~1,07 milyar dolar; Ethereum ETF'lerinden ~394 milyon dolar çıktı."
    },
    {
-    "tag": "ETH",
-    "text": "Ether ETF'lerinden 5–11 Kasım arasında ~524 milyon dolar çıktı; 1.900 dolar civarındaki ETH'de günlük RSI ~24 ile aylardır en düşük seviyede."
+    "tag": "BNB",
+    "text": "BNB ağustostan bu yana ilk kez 600 doların altına indi; müşteri kayıpları tamamen karşılansa da 29 Ekim Binance saldırısından bu yana kayıp ~%23."
    },
    {
-    "tag": "LİKİDİTE",
-    "text": "Glassnode'a göre stablecoin arzı 9 Kasım'a kadarki 30 günde 14,2 milyar dolar daraldı; Haziran 2022'den bu yana en sert düşüş."
+    "tag": "MADENCİLİK",
+    "text": "Bitcoin madencilik zorluğu cumartesi %9,1 düştü; haziran ayından bu yana en büyük aşağı yönlü ayarlama."
    },
    {
     "tag": "ALTCOIN",
-    "text": "Solana %5,6 düşüşle ~76 dolara geriledi, XRP yeniden 1 doların altına indi; Zcash hazine önerisi için oylama 16 Kasım'da başlıyor."
+    "text": "Solana, Londra'daki Breakpoint konferansı (15–17 Kas) başlarken %12'den fazla düşerek 69 dolara yaklaştı; bugün 127 milyon STRK, pazartesi 92,65 milyon ARB kilidi açılıyor."
    }
   ]
  },
@@ -247,42 +255,42 @@
    "when": "Pzt 16 Kas 02:50",
    "tag": "JPY",
    "event": "Japonya 3. çeyrek GSYH (öncü)",
-   "note": "Önceki çeyreklik +%0,3; BoJ'un aralık kararına yön verebilir.",
+   "note": "Önceki çeyrek %0,3; BoJ'un aralık faiz tartışmasını besliyor.",
    "impact": "medium"
   },
   {
    "when": "Pzt 16 Kas 05:00",
    "tag": "CNY",
    "event": "Çin sanayi üretimi ve perakende satışlar (Eki)",
-   "note": "Beklenti: SÜ yıllık %5,3, perakende %0,8.",
+   "note": "Beklenti: sanayi %5,3, perakende %0,8.",
    "impact": "medium"
   },
   {
    "when": "Pzt 16 Kas",
    "tag": "KRİPTO",
-   "event": "Zcash hazine oylaması başlıyor",
-   "note": "50.000 ZEC'lik öneri için oylama 30 Kasım'a kadar sürecek.",
+   "event": "Arbitrum token kilidi açılıyor",
+   "note": "Yaklaşık 92,65 milyon ARB dolaşıma giriyor.",
    "impact": "low"
   },
   {
    "when": "Sal 17 Kas 10:00",
-   "tag": "GBP",
-   "event": "İngiltere işgücü verileri",
-   "note": "İşsizlik önceki %4,7; ikramiyesiz ücretler önceki %3,7.",
+   "tag": "TCMB",
+   "event": "Konut fiyat endeksi (Eki)",
+   "note": "Reel konut fiyatlarının seyri izlenecek.",
    "impact": "medium"
   },
   {
    "when": "Sal 17 Kas 16:30",
    "tag": "USD",
    "event": "ABD perakende satışlar (Eki)",
-   "note": "Beklenti aylık +%0,2 (önceki +%0,8); kontrol grubu +%0,4.",
+   "note": "Beklenti aylık %0,2 (önceki %0,8); kontrol grubu %0,4.",
    "impact": "high"
   },
   {
    "when": "Sal 17 Kas",
    "tag": "BİLANÇO",
    "event": "Nvidia 3. çeyrek sonuçları (ABD kapanışı sonrası)",
-   "note": "CEO'nun istifasından sonraki ilk rapor; yapay zekâ hisseleri için kritik.",
+   "note": "Geçici CEO Colette Kress dönemindeki ilk rapor; yapay zekâ hisseleri ve endeksler için kritik.",
    "impact": "high"
   },
   {
@@ -295,15 +303,15 @@
   {
    "when": "Çar 18 Kas 22:00",
    "tag": "FED",
-   "event": "FOMC tutanakları (ekim toplantısı)",
-   "note": "İki üye artış yönünde oy kullanmıştı; daha hızlı sıkılaşma iştahı izlenecek.",
+   "event": "FOMC tutanakları (Ekim toplantısı)",
+   "note": "Aralıkta 25 mi 50 baz puan mı artış iştahının göstergesi.",
    "impact": "high"
   },
   {
-   "when": "Per 19 Kas 03:30",
-   "tag": "AUD",
-   "event": "Avustralya istihdam (Eki)",
-   "note": "Beklenti +27,5 bin, işsizlik %4,7.",
+   "when": "Per 19 Kas",
+   "tag": "HALKA ARZ",
+   "event": "Anthropic'in borsaya açılışı (basında yer alan)",
+   "note": "İşlemlerin perşembe başlayabileceği bildiriliyor; tarih resmi olarak teyit edilmedi.",
    "impact": "medium"
   },
   {
@@ -312,70 +320,97 @@
    "event": "Tüketici güven endeksi (Kas)",
    "note": "Ekimde 84,8'e gerilemişti.",
    "impact": "medium"
-  },
-  {
-   "when": "Cum 20 Kas 10:00",
-   "tag": "TCMB",
-   "event": "Kapasite kullanım oranı ve reel kesim güven endeksi (Kas)",
-   "note": "Sanayideki ivmeye dair ilk kasım sinyalleri.",
-   "impact": "medium"
   }
  ],
- "sources": [
-  {
-   "title": "Kitco – Gold spot price (13 Nov close, day range)",
-   "url": "https://www.kitco.com/charts/gold"
-  },
-  {
-   "title": "BullionVault – Gold's worst losing run in decades, silver tests $50",
-   "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-111320261"
-  },
-  {
-   "title": "FXEmpire – Gold bounces from one-year low, can it clear $3,903?",
-   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-bounces-from-one-year-low-can-it-clear-3903-1644413"
-  },
-  {
-   "title": "Pound Sterling Live – EUR/USD daily history 2026",
-   "url": "https://www.poundsterlinglive.com/history/EUR-USD-2026"
-  },
-  {
-   "title": "Pound Sterling Live – GBP/USD daily history 2026",
-   "url": "https://www.poundsterlinglive.com/history/GBP-USD-2026"
-  },
-  {
-   "title": "RoboForex – EUR/USD weekly levels for 16–20 Nov 2026",
-   "url": "https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-weekly-forecast-2026-11-13/"
-  },
-  {
-   "title": "Yahoo Finance – Stock market today, Friday 13 Nov",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-  },
-  {
-   "title": "Liputan6 – Crypto prices, 14 Nov 2026",
-   "url": "https://www.liputan6.com/crypto/read/8335111/harga-kripto-14-november-2026-bitcoin-anjlok-solana-turun-559"
-  },
-  {
-   "title": "CryptoTicker – Bitcoin on Friday the 13th: key levels",
-   "url": "https://cryptoticker.io/en/bitcoin-price-friday-the-13th-weekend-60000/"
-  },
-  {
-   "title": "KuCoin News / SoSoValue – Spot bitcoin ETFs record sixth day of outflows",
-   "url": "https://www.kucoin.com/news/flash/bitcoin-spot-etfs-record-284m-net-outflow-on-november-12-marking-6th-consecutive-day-of-outflows"
-  },
-  {
-   "title": "Newsquawk – Week in focus, 16–20 Nov 2026",
-   "url": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs"
-  },
-  {
-   "title": "Bloomberg HT – Piyasalarda günün özeti, 13 Kasım 2026",
-   "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-13-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3794631"
-  }
- ],
- "generated_at": "2026-11-14 07:12 TSİ",
- "lang": "tr",
+ "weekly_summary": {
+  "period": "9–13 Kas",
+  "summary": "Beklentiyi aşan ekim enflasyonu ve şahin Fed açıklamaları piyasaları aralıkta faiz artışını tamamen fiyatlamaya itti; ABD 10 yıllık faizi ~%5,15'e, dolar endeksi 19 ayın zirvesine çıktı. Altın 12 haftada 10. haftalık kaybını yazarken EUR/USD ve GBP/USD yaklaşık %1 geriledi. Çip hisselerindeki toparlanmayla ABD borsaları, Nvidia'nın CEO şokuna rağmen haftayı artıda kapattı. Kriptoda ise ETF çıkışları ve hafta sonu tasfiye dalgasıyla Bitcoin yaklaşık %16 değer kaybetti; Borsa İstanbul ise yabancı alımlarıyla %3'ü aşkın yükseldi.",
+  "performance": [
+   {
+    "symbol": "XAUUSD",
+    "close": "3.883,4",
+    "change_pct": -4.6,
+    "note": "Yükselen reel faizler ve artış beklentisi; 12 haftada 10. düşüş"
+   },
+   {
+    "symbol": "EURUSD",
+    "close": "1,1023",
+    "change_pct": -1.07,
+    "note": "Fed'in ECB'den daha şahin olması; dört gün üst üste düşüş"
+   },
+   {
+    "symbol": "GBPUSD",
+    "close": "1,3211",
+    "change_pct": -1.04,
+    "note": "Genel dolar gücü; 1,32 eşiğinde"
+   },
+   {
+    "symbol": "US500",
+    "close": "7.561,67",
+    "change_pct": 2.51,
+    "note": "Çip rallisi Nvidia şokunu dengeledi"
+   },
+   {
+    "symbol": "BRENT",
+    "close": "95,84",
+    "change_pct": -1.99,
+    "note": "İkinci haftalık düşüş; IEA arz fazlası uyarısı"
+   },
+   {
+    "symbol": "BTC",
+    "close": "63.652",
+    "change_pct": -16.2,
+    "note": "Paz ≈07:00 TSİ itibarıyla 7 günlük; ETF çıkışları, tasfiyeler"
+   },
+   {
+    "symbol": "ETH",
+    "close": "1.749",
+    "change_pct": -21.9,
+    "note": "7 günlük; temmuz başından bu yana en düşük"
+   },
+   {
+    "symbol": "USD/TRY",
+    "close": "50,37",
+    "change_pct": 0.42,
+    "note": "Kontrollü, kademeli değer kaybı sürüyor"
+   },
+   {
+    "symbol": "BIST 100",
+    "close": "11.842,82",
+    "change_pct": 3.14,
+    "note": "Yabancı alımları ve sanayi hisseleri"
+   }
+  ],
+  "top_stories": [
+   {
+    "tag": "ENFLASYON",
+    "text": "ABD'de ekim TÜFE'si aylık %0,4 (çekirdek %0,3) arttı, ÜFE'nin yıllık hızı %6,5'e çıktı; aralık artışı beklentisi kesinleşti."
+   },
+   {
+    "tag": "FED",
+    "text": "Waller, Logan, Collins ve Hammack şahin mesajlar verdi; Waller 50 baz puanlık adımın değerlendirilmesi gerektiğini söyledi."
+   },
+   {
+    "tag": "NVIDIA",
+    "text": "Jensen Huang Nvidia CEO'luğundan derhal istifa etti; geçici CEO CFO Colette Kress oldu, hisse haftada ~%13 değer kaybetti."
+   },
+   {
+    "tag": "ALTIN",
+    "text": "Ons altın ~3.852 dolarla bir yılın dibini gördü, gümüş 50 doların altına sarktı; cuma sınırlı tepki geldi."
+   },
+   {
+    "tag": "KRİPTO",
+    "text": "Bitcoin 200 günlük ve 200 haftalık ortalamaların altına indi; spot ETF'lerden her gün çıkış oldu, tasfiyeler 2 milyar doları aştı."
+   },
+   {
+    "tag": "BORSA",
+    "text": "BIST 100 haftayı %3,14 kazançla 11.842,82'den kapattı; gram altın ise haftalık ~%3,5 geriledi."
+   }
+  ]
+ },
  "turkey": {
-  "snapshot_time": "13 Kas kapanış (≈18:30 TSİ, Bloomberg HT)",
-  "summary": "Borsa İstanbul haftanın son işlem gününü %0,27 yükselişle 11.842,82 puandan tamamladı; bankacılık endeksi %0,69 gerilerken kâğıt ve inşaat hisseleri öne çıktı. Dolar/TL 50,37 civarında sınırlı yükselirken gram altın Kapalıçarşı'da 6.300 TL'ye çıktı. Hafta sonu piyasalar kapalı; yeni haftada yurt içinde tüketici güveni ve kapasite kullanımı, yurt dışında FOMC tutanakları izlenecek.",
+  "snapshot_time": "13 Kas kapanış (≈18:30 TSİ, Bloomberg HT) · hafta sonu piyasalar kapalı",
+  "summary": "Borsa İstanbul kapalı; BIST 100 cuma günü %0,27 artışla 11.842,82'de kapanarak haftayı yaklaşık %3,14 kazançla tamamladı ve yabancılar yeniden net alıcı oldu. Dolar/TL haftalık %0,4 civarında artışla 50,37'de kapanırken, küresel altındaki sert düşüşle gram altın haftayı yaklaşık %3,5 kayıpla bitirdi. Yeni haftada yurt içinde konut fiyatları ve tüketici güveni, yurt dışında ABD perakende satışları ve FOMC tutanakları izlenecek.",
   "snapshot": [
    {
     "symbol": "USD/TRY",
@@ -406,27 +441,27 @@
   "news": [
    {
     "tag": "BORSA",
-    "text": "BIST 100 cuma 31,63 puan artışla 11.842,82'de kapandı, işlem hacmi 114,2 milyar TL oldu; kâğıt (+%2,52) ve inşaat (+%2,21) en çok kazanan sektörler oldu."
+    "text": "BIST 100 haftayı %3,14 yükselişle 11.842,82 puandan kapattı; cuma günü kâğıt ve inşaat hisseleri öne çıkarken bankacılık endeksi %0,69 geriledi."
    },
    {
     "tag": "YABANCI",
-    "text": "TCMB verilerine göre yabancı yatırımcılar geçen hafta yaklaşık 367,2 milyon dolarlık net hisse aldı; bir önceki haftada net satıcıydılar."
+    "text": "TCMB verilerine göre yabancılar geçen hafta yaklaşık 367,2 milyon dolarlık net hisse alımı yaptı; bir önceki haftada net satıcıydılar."
+   },
+   {
+    "tag": "REZERV",
+    "text": "TCMB rezervlerindeki düşüş serisi durdu; yurt içi yerleşiklerin döviz mevduatındaki artış ise hız kazandı."
+   },
+   {
+    "tag": "KAP",
+    "text": "Bullish Yatırım, 982 milyon TL tutarlı 175 gün vadeli finansman bonosunun anapara ve kupon ödemesini yapamadığını KAP'a bildirdi."
    },
    {
     "tag": "CARİ DENGE",
-    "text": "Türkiye'nin cari işlemler dengesi eylülde 2,72 milyar dolar açık verdi."
+    "text": "Cari işlemler dengesi eylülde 2,72 milyar dolar açık verdi; Bakan Şimşek dış dengedeki iyileşmenin kalıcı olduğunu vurguladı."
    },
    {
     "tag": "VERGİ",
-    "text": "Meclis'e sunulan teklifle altın ve petrol rafinerileri, tütün-alkol ile elektrik üreticileri için %12,5'lik indirimli kurumlar vergisi kaldırılıyor; 2017 öncesi GSS prim borçları siliniyor."
-   },
-   {
-    "tag": "TCMB",
-    "text": "Kasımda PPK toplantısı yok; yılın son faiz kararı 10 Aralık'ta açıklanacak."
-   },
-   {
-    "tag": "HİSSE",
-    "text": "BIST 30'da ASTOR yüksek hacimle %7,56 düşerken ASELS ve THYAO sınırlı artıda kapandı."
+    "text": "Meclis'e sunulan vergi teklifiyle bazı sektörlerdeki %12,5'lik indirimli kurumlar vergisi oranı kaldırılıyor."
    }
   ],
   "upcoming": [
@@ -473,5 +508,72 @@
     "impact": "medium"
    }
   ]
- }
+ },
+ "sources": [
+  {
+   "title": "CryptoTicker – Bitcoin slides to $62,000 as Fed-hike bets build (15 Nov)",
+   "url": "https://cryptoticker.io/en/bitcoin-price-62000-crash-fed-hike-60000-level-november-15-2026/"
+  },
+  {
+   "title": "Business Standard – Bitcoin tumbles to four-month low amid mass liquidations",
+   "url": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html"
+  },
+  {
+   "title": "Bitcoin Magazine – Weekend selling breaks Friday's low",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600"
+  },
+  {
+   "title": "CoinGlass – Bitcoin daily historical data 2026",
+   "url": "https://www.coinglass.com/currencies/BTC/historical-data/2026"
+  },
+  {
+   "title": "CoinGecko – Cryptocurrency prices by market cap",
+   "url": "https://www.coingecko.com/?items=50"
+  },
+  {
+   "title": "CryptoTicker – BNB falls below $600",
+   "url": "https://cryptoticker.io/en/bnb-price-falls-below-600-dollars/"
+  },
+  {
+   "title": "CoinGape – Fear & Greed at five-month low; weekly ETF flows",
+   "url": "https://coingape.com/crypto-fear-and-greed-index-drops-to-a-5-month-low-as-weekend-slump-heightens/"
+  },
+  {
+   "title": "CryptoTicker – Crypto week recap and key dates",
+   "url": "https://cryptoticker.io/en/crypto-news-this-week-recap-key-dates-november-2026/"
+  },
+  {
+   "title": "The Glass Desk – Weekly market review, 13 Nov 2026",
+   "url": "https://theglassdesk.substack.com/p/weekly-market-review-nov-13-2026"
+  },
+  {
+   "title": "BullionVault – Gold's worst losing run in decades",
+   "url": "https://bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-111320261"
+  },
+  {
+   "title": "Fortune – The Fed's inflation fight and the Iran 'status quo'",
+   "url": "https://fortune.com/2026/11/14/federal-reserve-inflation-forever-war-iran-oil-prices-diesel-fed-rate-hikes/"
+  },
+  {
+   "title": "Kitco – Gold spot price (13 Nov close)",
+   "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Pound Sterling Live – EUR/USD daily history 2026",
+   "url": "https://www.poundsterlinglive.com/history/EUR-USD-2026"
+  },
+  {
+   "title": "Bloomberg HT – Ekonomi ve siyaset gündemi, 14 Kasım 2026",
+   "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-14-kasim-2026-3794651"
+  },
+  {
+   "title": "Bloomberg HT – Piyasalarda günün özeti, 13 Kasım 2026",
+   "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-13-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3794631"
+  },
+  {
+   "title": "Ekoturk – Haftanın yatırım tablosu",
+   "url": "https://www.ekoturk.com/piyasalar/haftanin-yatirim-tablosu-hisseler-yukseldi-gram-altin-geriledi"
+  }
+ ],
+ "generated_at": "2026-11-15 07:15 TSİ"
 }
