@@ -1,278 +1,248 @@
 {
- "date": "2026-11-16",
- "date_label": "Mon 16 Nov",
+ "date": "2026-11-17",
+ "date_label": "Tue 17 Nov",
  "headline1": "Market mood:",
- "headline2": "Dollar bid.",
- "lede": "The dollar index pushed to its highest since April 2025 as markets price a roughly 94% chance of a Fed hike in December and US 10-year yields hold near 5.15%. Gold slipped toward $3,860 and the euro hovered near a 19-month low, while crypto steadied after a bruising weekend.",
- "snapshot_time": "≈05:00–06:45 TRT · US500 = Friday close",
+ "headline2": "Risk-off.",
+ "lede": "Wall Street's tech slide deepened on Monday, with the S&P 500 down 1.9% and the Nasdaq 2.5% as Nvidia sank ahead of tonight's results and new US curbs on AI-chip access. The dollar holds near its strongest since April 2025 with a December Fed hike almost fully priced, keeping gold near one-year lows and the euro pinned at 1.10.",
+ "snapshot_time": "Mon 16 Nov US close · Brent 05:13 TRT",
  "snapshot": [
   {
    "symbol": "XAUUSD",
-   "price": "3,863",
-   "change_pct": -0.5
+   "price": "3,860",
+   "change_pct": -0.7
   },
   {
    "symbol": "EURUSD",
-   "price": "1.1018",
-   "change_pct": -0.03
-  },
-  {
-   "symbol": "GBPUSD",
-   "price": "1.3216",
-   "change_pct": -0.01
+   "price": "1.1000",
+   "change_pct": -0.24
   },
   {
    "symbol": "US500",
-   "price": "7,561.67",
-   "change_pct": -0.4
+   "price": "7,416.59",
+   "change_pct": -1.92
   },
   {
    "symbol": "BRENT",
-   "price": "95.37",
-   "change_pct": -0.49
+   "price": "91.80",
+   "change_pct": -0.69
   }
  ],
  "focus": [
   {
    "symbol": "XAUUSD",
-   "text": "Firm dollar and 5.15% Treasury yields push gold toward $3,863, below its 3,891.6 pivot and near last week's 3,852 low; Fed Chair Warsh speaks at 20:00 TRT."
+   "text": "Hovering near $3,860 after a one-year low as a firm dollar and ~5.1% US 10-year yields weigh. US retail sales at 16:30 TRT are today's main risk event."
   },
   {
    "symbol": "EURUSD",
-   "text": "Fed-hike bets and the widest US–euro rate gap of the year keep the pair around 1.102, below its 1.1039 pivot; Empire State (16:30) and Warsh (20:00) are today's risks."
+   "text": "Sitting on 1.1000, a 19-month low, after a 0.24% drop Monday with Fed-hike pricing near 96%. Watch US retail sales at 16:30 TRT and Nvidia's after-hours results."
   }
  ],
  "technicals": [
   {
    "symbol": "XAUUSD",
    "trend": "Bearish",
-   "timeframe": "Daily / Weekly",
+   "timeframe": "Daily",
    "resistance": [
-    "3,891.6 (pivot)",
     "3,923",
-    "4,001–4,023"
+    "≈4,000 (8-day SMA)",
+    "≈4,030 (21-day EMA)"
    ],
    "support": [
-    "3,852",
+    "3,850",
     "3,736–3,705",
     "3,650"
    ],
-   "indicators": "Below 20-day MA (~4,023) · weekly declining channel, closed below its midline · 3,736–3,705 = 127.2% ext. / 61.8% Fib confluence",
-   "note": "Gold is consolidating just above last week's 3,852 low after breaking 3,870, with rallies capped so far below the 3,923–4,001 area."
+   "indicators": "Below 8-day, 21-day, 50-day (~4,168) and 200-day (~4,467) averages (Dec futures) · fresh one-year low",
+   "note": "Gold keeps printing lower highs inside its autumn down-channel, with Monday's bounce failing beneath the 3,900 area."
   },
   {
    "symbol": "EURUSD",
    "trend": "Bearish",
    "timeframe": "Daily",
    "resistance": [
-    "1.1030–1.1040",
-    "1.1160",
-    "1.1400"
+    "1.1071",
+    "1.1100",
+    "1.1169"
    ],
    "support": [
-    "1.1004",
     "1.1000",
-    "1.0950"
+    "1.0950",
+    "1.0913"
    ],
-   "indicators": "RSI(14) ≈ 33 · riding the lower Bollinger band (~1.1030; mid-band 1.1160) · well below 100-day SMA (~1.1400)",
-   "note": "The pair is pressing the 1.10 handle at a 19-month low, extending the series of lower highs that began with the August reversal."
+   "indicators": "Lowest since April 2025 · well below a falling 100-day MA · lower highs since the 1.1711 August peak",
+   "note": "The pair is testing the 1.10 round number that has held since April 2025, after breaking the floor of its October range near 1.11."
   },
   {
    "symbol": "BTCUSDT",
    "trend": "Bearish",
    "timeframe": "Daily / Weekly",
    "resistance": [
-    "65,600",
-    "≈68,000 (200-week MA)",
-    "70,000"
+    "66,087",
+    "≈68,180 (200-week SMA)",
+    "≈72,860 (200-day SMA)"
    ],
    "support": [
-    "62,000",
-    "60,000",
-    "59,800"
+    "64,500",
+    "61,970",
+    "60,000"
    ],
-   "indicators": "RSI(14) ≈ 22.5 (oversold) · below 200-week MA (~67,990) · MACD histogram negative",
-   "note": "Bitcoin bounced from Sunday's ~62,000 low back toward 65,000 but remains below the 200-week average it lost last week."
+   "indicators": "Below 20-day EMA (~73,900) and 50-day EMA (~77,100) · below 200-week SMA · sixth straight weekly loss",
+   "note": "Bitcoin is consolidating around 65,000 after Sunday's bounce from 61,970, still under the 200-week average it lost last week."
   },
   {
-   "symbol": "ETHUSDT",
+   "symbol": "SOLUSDT",
    "trend": "Bearish",
-   "timeframe": "Weekly",
+   "timeframe": "Daily",
    "resistance": [
-    "1,853–1,875",
-    "2,280 (50-week SMA)",
-    "2,500"
+    "73",
+    "75",
+    "78.35"
    ],
    "support": [
-    "1,711 (weekend low)",
-    "1,571–1,385 zone"
+    "70",
+    "67.41",
+    "65"
    ],
-   "indicators": "Below 50-week (~2,280) and 200-week (~2,560) SMAs · lower highs and lower lows since the 2,807 rejection",
-   "note": "Ether lost the 1,853 shelf last week and is trading inside the gap down toward the 1,571–1,385 historical demand zone."
+   "indicators": "RSI(14) ≈ 20 (oversold) · 50/100/200-day EMAs clustered ~94–96 · MACD below signal",
+   "note": "Solana sits near a four-month low, about 40% below its late-September weekly close, with all major averages far overhead."
+  },
+  {
+   "symbol": "US500",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "≈7,533 (8-day SMA)",
+    "≈7,604 (21-day EMA)",
+    "≈7,667 (50-day SMA)"
+   ],
+   "support": [
+    "≈7,340 (200-day SMA)",
+    "7,310",
+    "7,240"
+   ],
+   "indicators": "VIX 22.9 (+18.7%) · below 8-, 21- and 50-day averages · still above 200-day SMA",
+   "note": "The index fell 1.9% Monday and is approaching its 200-day average, with semiconductors leading the decline."
   }
  ],
- "levels": [
-  {
-   "symbol": "XAUUSD",
-   "s1": "3859.2",
-   "pivot": "3891.6",
-   "r1": "3915.8",
-   "bias": "below"
-  },
-  {
-   "symbol": "EURUSD",
-   "s1": "1.1004",
-   "pivot": "1.1039",
-   "r1": "1.1057",
-   "bias": "below"
-  },
-  {
-   "symbol": "GBPUSD",
-   "s1": "1.3194",
-   "pivot": "1.3222",
-   "r1": "1.3240",
-   "bias": "below"
-  },
-  {
-   "symbol": "BTCUSDT",
-   "s1": "62,864",
-   "pivot": "64,459",
-   "r1": "66,901",
-   "bias": "above"
-  }
- ],
+ "levels": [],
  "strength": [],
  "tz": "TRT",
  "calendar": [
   {
    "time": "10:00",
-   "ccy": "TRY",
-   "event": "TÜİK paid employees (Sep) & motor vehicles (Oct)",
-   "impact": "low"
+   "ccy": "GBP",
+   "event": "UK labour market report (Unemployment, wages)",
+   "impact": "high"
   },
   {
-   "time": "11:00",
+   "time": "10:00",
    "ccy": "TRY",
-   "event": "Turkey central government budget (Oct)",
-   "impact": "medium"
-  },
-  {
-   "time": "13:00",
-   "ccy": "EUR",
-   "event": "Eurozone industrial production (Sep)",
+   "event": "TCMB house price index (Oct)",
    "impact": "low"
   },
   {
    "time": "16:30",
    "ccy": "USD",
-   "event": "NY Fed Empire State manufacturing (Nov)",
+   "event": "Retail sales (Oct) — exp +0.2% m/m, prev +0.8%",
+   "impact": "high"
+  },
+  {
+   "time": "17:15",
+   "ccy": "USD",
+   "event": "Industrial production & capacity utilisation (Oct)",
    "impact": "medium"
   },
   {
-   "time": "20:00",
+   "time": "~00:20",
    "ccy": "USD",
-   "event": "Fed Chair Warsh opening remarks",
+   "event": "Nvidia Q3 results (after US close, Wed TRT)",
    "impact": "high"
   }
  ],
  "news": [
   {
+   "tag": "STOCKS",
+   "text": "Chip stocks dragged Wall Street lower: S&P 500 −1.9%, Nasdaq −2.5%, Nvidia −4.1% and AMD −5.6% after Washington tightened remote access to advanced AI chips."
+  },
+  {
    "tag": "FED",
-   "text": "Futures price about a 94% chance of a 25bp Fed hike in December and ~6% for 50bp; around four hikes are priced by next September."
-  },
-  {
-   "tag": "DOLLAR",
-   "text": "The dollar index reached ~103.4, its strongest since April 2025; USD/JPY sits near 160, close to where intervention is believed to have occurred earlier this year."
-  },
-  {
-   "tag": "CHINA",
-   "text": "October data disappointed: industrial output +4.8% y/y (exp. 5.3%), retail sales +0.4% (exp. 0.8%), fixed-asset investment −8.1% year to date."
-  },
-  {
-   "tag": "JAPAN",
-   "text": "Japan's economy shrank at a 0.1% annualised pace in Q3, missing forecasts for modest growth."
+   "text": "Futures put a December Fed hike near 96%; the dollar index sits at its highest since April 2025 and the 10-year yield holds around 5.12%."
   },
   {
    "tag": "OIL",
-   "text": "Brent eased to about $95.4 as Hormuz flows near pre-war levels and the IEA now sees a Q4 surplus of roughly 1.7m bpd."
+   "text": "Brent fell 3.5% Monday to $92.44 and slipped further below $92 in Asia as Hormuz shipments near pre-war levels and the IEA sees a Q4 surplus."
+  },
+  {
+   "tag": "GBP",
+   "text": "Sterling is on a six-day losing run near 1.3170 ahead of jobs data; markets price about an 80% chance of another BoE hike in December."
+  },
+  {
+   "tag": "CHINA",
+   "text": "Chinese October activity data missed forecasts, sending A-shares to a 16-month low while the PBOC drained medium-term liquidity."
   }
  ],
  "crypto": {
-  "snapshot_time": "≈07:00 TRT · 24h (CoinDesk)",
+  "snapshot_time": "01:03 TRT · 24h (CoinDesk)",
   "snapshot": [
    {
     "symbol": "BTC",
-    "price": "64,946",
-    "change_pct": 0.14
+    "price": "65,002",
+    "change_pct": 0.32
    },
    {
     "symbol": "ETH",
-    "price": "1,826",
-    "change_pct": 0.37
+    "price": "1,832.45",
+    "change_pct": 0.8
    },
    {
     "symbol": "SOL",
-    "price": "71.94",
-    "change_pct": 0.69
+    "price": "72.87",
+    "change_pct": 1.8
    },
    {
     "symbol": "XRP",
-    "price": "0.9655",
-    "change_pct": 0.64
+    "price": "0.96",
+    "change_pct": 0.81
    },
    {
-    "symbol": "BNB",
-    "price": "593.66",
-    "change_pct": 0.07
+    "symbol": "HYPE",
+    "price": "70.31",
+    "change_pct": 5.94
    }
   ],
   "news": [
    {
-    "tag": "BTC",
-    "text": "Bitcoin recovered toward $65,000 after dipping to about $62,000 on Sunday, its weakest since July; the Fear & Greed index sits at 10."
-   },
-   {
     "tag": "ETF",
-    "text": "US spot bitcoin ETFs logged seven straight sessions of net outflows through 13 Nov, totalling roughly $1.9bn."
+    "text": "US spot bitcoin ETFs shed about $1.07bn last week, a third straight weekly outflow; BlackRock's IBIT alone lost $908m."
    },
    {
-    "tag": "ON-CHAIN",
-    "text": "CryptoQuant says wallets holding over 1,000 BTC added about 47,000 BTC into the drop, while ~73% of short-term holder supply is underwater."
+    "tag": "ETH",
+    "text": "Ether ETFs posted a seventh consecutive week of outflows (−$399m), even as Bitmine added 7,653 ETH to its treasury."
    },
    {
-    "tag": "KAVA",
-    "text": "KAVA sank close to 40% in a day after about 55.2m tokens were abnormally borrowed and dumped through Kava Lend."
+    "tag": "SOL",
+    "text": "Solana ETFs recorded a sixth weekly outflow (~$32m); SOL touched $67.41 over the weekend, its lowest since late June."
    },
    {
-    "tag": "MINING",
-    "text": "Around 64,000 bitcoin mining rigs were reportedly hijacked, diverting roughly 13 EH/s of hashrate to the OCEAN pool."
+    "tag": "TREASURIES",
+    "text": "Strategy bought 485 BTC last week, lifting holdings to 850,849 BTC; Twenty One Capital and Strive also added coins on the dip."
    },
    {
-    "tag": "UNLOCKS",
-    "text": "CRO (~2.3% of supply, ≈$51m) and ARB unlock today; LayerZero's ZRO releases ~3.7% (≈$35m) on Friday."
+    "tag": "SECURITY",
+    "text": "Perp exchange Lighter paused all withdrawals after a $10.4m exploit."
+   },
+   {
+    "tag": "HYPE",
+    "text": "Hyperliquid's HYPE outperformed with a ~6% daily gain while the broader market stabilised around BTC 65,000."
    }
   ]
  },
  "upcoming": [
   {
-   "when": "Tue 17 Nov 10:00",
-   "tag": "GBP",
-   "event": "UK labour market report",
-   "note": "Unemployment seen steady at 4.7%.",
-   "impact": "medium"
-  },
-  {
-   "when": "Tue 17 Nov 16:30",
-   "tag": "USD",
-   "event": "US retail sales (Oct)",
-   "note": "Consensus ~0.0–0.2% m/m after 0.8%; a strong print would feed 50bp talk.",
-   "impact": "high"
-  },
-  {
    "when": "Wed 18 Nov ~00:20",
    "tag": "EARNINGS",
-   "event": "Nvidia Q3 results (after US close Tue)",
-   "note": "Revenue est. ~$109bn, EPS ~$2.47; first report under interim CEO Kress.",
+   "event": "Nvidia Q3 results",
+   "note": "Revenue est. ~$108.8bn; first report since the CEO's resignation.",
    "impact": "high"
   },
   {
@@ -292,236 +262,106 @@
   {
    "when": "Wed 18 Nov 22:00",
    "tag": "FED",
-   "event": "FOMC minutes (27–28 Oct)",
-   "note": "Rates held 3.75–4.00% with two dissents for a hike.",
+   "event": "FOMC minutes (Oct meeting)",
+   "note": "Rates were held; markets look for detail on hike appetite.",
    "impact": "high"
   },
   {
-   "when": "Thu 19 Nov 15:00",
-   "tag": "EARNINGS",
-   "event": "Walmart Q3 results",
-   "note": "Read on US consumer; guided adj. EPS $0.62–0.64.",
+   "when": "Wed 18 Nov (night)",
+   "tag": "IPO",
+   "event": "Anthropic IPO pricing",
+   "note": "Range $70–78 per share; Nasdaq debut as 'ANT' expected Thu.",
    "impact": "medium"
   },
   {
    "when": "Thu 19 Nov 16:30",
    "tag": "USD",
    "event": "Jobless claims & Philly Fed (Nov)",
-   "note": "Claims exp 200k; Philly Fed exp 19.2, prev 20.9.",
+   "note": "Walmart Q3 results before the open.",
    "impact": "medium"
   },
   {
    "when": "Fri 20 Nov 02:30",
    "tag": "JPY",
    "event": "Japan CPI (Oct)",
-   "note": "Seen around 2.0%; shapes BoJ hike timing after weak GDP.",
+   "note": "Seen around 2.0%; shapes BoJ hike timing.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 20 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK retail sales (Oct)",
+   "note": "Gauge of UK consumer demand ahead of the December BoE meeting.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 20 Nov 18:00",
+   "tag": "USD",
+   "event": "UMich consumer sentiment (final Nov)",
+   "note": "Includes inflation expectations.",
    "impact": "medium"
   },
   {
    "when": "Fri 20 Nov",
    "tag": "CRYPTO",
    "event": "LayerZero (ZRO) token unlock",
-   "note": "~3.69% of circulating supply, about $35m.",
+   "note": "~3.7% of circulating supply.",
    "impact": "low"
   }
  ],
- "week_ahead": {
-  "period": "16–20 Nov",
-  "intro": "A Fed on the verge of hiking again sets the tone: US retail sales and the FOMC minutes will test whether a 50bp move in December gains traction. Nvidia's first results since its CEO change and UK CPI round out a heavy week, with crypto still nursing a sharp sell-off.",
-  "themes": [
-   {
-    "tag": "FED",
-    "text": "A December hike is nearly fully priced; retail sales, the minutes and Warsh's remarks decide whether 50bp re-enters the debate."
-   },
-   {
-    "tag": "NVIDIA",
-    "text": "Q3 results on Tuesday night are the first under interim CEO Colette Kress and a test for AI-heavy indices."
-   },
-   {
-    "tag": "CONSUMER",
-    "text": "Retail sales plus Walmart, Home Depot, Target and Lowe's earnings gauge US household demand."
-   },
-   {
-    "tag": "GLOBAL RATES",
-    "text": "UK CPI could cement a second BoE hike; weak Japanese GDP and China data contrast with tightening elsewhere."
-   },
-   {
-    "tag": "CRYPTO",
-    "text": "Bitcoin trades below its 200-week average after seven days of ETF outflows; unlocks include CRO, ARB and ZRO."
-   }
-  ],
-  "events": [
-   {
-    "day": "Mon",
-    "time": "16:30",
-    "ccy": "USD",
-    "event": "Empire State manufacturing (Nov)",
-    "note": "Regional factory gauge",
-    "impact": "medium"
-   },
-   {
-    "day": "Mon",
-    "time": "20:00",
-    "ccy": "USD",
-    "event": "Fed Chair Warsh remarks",
-    "note": "Watch for hints on December size",
-    "impact": "high"
-   },
-   {
-    "day": "Tue",
-    "time": "10:00",
-    "ccy": "GBP",
-    "event": "UK unemployment rate",
-    "note": "Exp 4.7%, prev 4.7%",
-    "impact": "medium"
-   },
-   {
-    "day": "Tue",
-    "time": "16:30",
-    "ccy": "USD",
-    "event": "Retail sales (Oct)",
-    "note": "Exp ~0.0–0.2% m/m, prev 0.8%",
-    "impact": "high"
-   },
-   {
-    "day": "Tue",
-    "time": "17:15",
-    "ccy": "USD",
-    "event": "Industrial production (Oct)",
-    "note": "Exp 0.1%, prev 0.7%",
-    "impact": "medium"
-   },
-   {
-    "day": "Tue",
-    "time": "after US close",
-    "ccy": "USD",
-    "event": "Nvidia Q3 earnings",
-    "note": "Rev est ~$109bn, EPS ~$2.47",
-    "impact": "high"
-   },
-   {
-    "day": "Wed",
-    "time": "10:00",
-    "ccy": "GBP",
-    "event": "UK CPI (Oct)",
-    "note": "Exp 3.6%, prev 3.5%",
-    "impact": "high"
-   },
-   {
-    "day": "Wed",
-    "time": "13:00",
-    "ccy": "EUR",
-    "event": "Final HICP (Oct)",
-    "note": "Exp 4.0%, prev 4.0%",
-    "impact": "medium"
-   },
-   {
-    "day": "Wed",
-    "time": "22:00",
-    "ccy": "USD",
-    "event": "FOMC minutes",
-    "note": "Oct hold, 10–2 vote",
-    "impact": "high"
-   },
-   {
-    "day": "Thu",
-    "time": "15:00",
-    "ccy": "USD",
-    "event": "Walmart Q3 earnings",
-    "note": "Adj. EPS guide $0.62–0.64",
-    "impact": "medium"
-   },
-   {
-    "day": "Thu",
-    "time": "16:30",
-    "ccy": "USD",
-    "event": "Jobless claims / Philly Fed",
-    "note": "Exp 200k / 19.2 (prev 20.9)",
-    "impact": "medium"
-   },
-   {
-    "day": "Fri",
-    "time": "02:30",
-    "ccy": "JPY",
-    "event": "National CPI (Oct)",
-    "note": "Exp ~2.0%",
-    "impact": "medium"
-   },
-   {
-    "day": "Fri",
-    "time": "18:00",
-    "ccy": "USD",
-    "event": "UMich sentiment (final Nov)",
-    "note": "Exp 51.0, prelim 51.0",
-    "impact": "low"
-   },
-   {
-    "day": "Fri",
-    "time": "—",
-    "ccy": "CRYPTO",
-    "event": "ZRO token unlock",
-    "note": "~3.69% of supply (~$35m)",
-    "impact": "low"
-   }
-  ]
- },
  "sources": [
   {
-   "title": "Business Standard – Oil edges lower on supply-surplus expectations (16 Nov)",
-   "url": "https://www.business-standard.com/markets/commodities/oil-prices-edge-lower-on-expectations-of-supply-surplus-from-west-asia-126111600050_1.html"
+   "title": "Saxo — Asia market quick take, 17 Nov 2026",
+   "url": "https://home.saxo/en-sg/content/articles/macro/asia-market-quick-take--17-november-2026-17112026"
   },
   {
-   "title": "Goodreturns – Spot gold below $3,900, silver drops 3% (16 Nov)",
-   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-16-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k-18k-gold-price-1547173.html"
+   "title": "Yahoo Finance — Stock market today, 16 Nov: tech selloff deepens",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html"
   },
   {
-   "title": "FXStreet via Mitrade – Euro softens below 1.1050 on Fed hike bets",
-   "url": "https://www.mitrade.com/insights/forex-analysis/eur/fxstreet-EURUSDUSDOLLARFAUDUSD-202611160951"
+   "title": "CoinDesk — Live updates: bitcoin near $65,000 as Nasdaq drops 2.5%",
+   "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
   },
   {
-   "title": "BigGo Finance – Dollar index at 19-month high, yen shrugs off GDP",
-   "url": "https://finance.biggo.com/news/43772f9d-d83d-45d9-b315-2d7b7e2becd3"
+   "title": "Oil price today (17 Nov): Brent below $92",
+   "url": "https://fvbb.com/ns/oil-price-today-november-17-brent-crude/331054"
   },
   {
-   "title": "ActionForex – China industrial output slows to 4.8%, retail sales 0.4%",
-   "url": "https://www.actionforex.com/live-comments/660975-china-industrial-output-slows-to-4-8-retail-sales-growth-falls-to-0-4/"
+   "title": "Markets.com — Gold price today, 17 Nov 2026",
+   "url": "https://www.markets.com/news/gold-price-today-november-17-2026"
   },
   {
-   "title": "Xinhua – Japan's economy shrinks 0.1% in Q3",
-   "url": "https://english.news.cn/20261116/3fd985793e7941dda99b129e265dd98c/c.html"
+   "title": "Cestrian — Daily market review, 16 Nov (BTC, ETH, S&P 500, gold levels)",
+   "url": "https://www.cestriancapitalresearch.com/the-day-that-crypto-died-cestrian-daily-market-review-monday-16-november/"
   },
   {
-   "title": "FXEmpire – Gold (XAU/USD) forecast: dollar strength extends downside targets",
-   "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-dollar-strength-extends-downside-targets-2-1644653"
+   "title": "TradingNews — EUR/USD tests 1.10 at 19-month low",
+   "url": "https://www.tradingnews.com/news/eur-usd-tests-1-10-at-19-month-low-of-1-1009-reclaiming-1-1100-opens-1-1250-usd-target"
   },
   {
-   "title": "crypto.news – Bitcoin falls to three-month low",
-   "url": "https://crypto.news/bitcoin-price-falls-62000-etf-outflows-liquidations/"
+   "title": "FXStreet via Mitrade — British pound declines ahead of UK jobs data",
+   "url": "https://www.mitrade.com/au/insights/news/live-news/article-6-2258127-20261117"
   },
   {
-   "title": "KuCoin – Crypto daily market report (16 Nov)",
-   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-16-2026"
+   "title": "Continuum Economics — Preview: US October retail sales",
+   "url": "https://continuumeconomics.com/a/51c663be/preview-due-november-17-us-october-retail-sales-momentum-solid-but-some-risk-of-slowing"
   },
   {
-   "title": "CoinDesk – Crypto prices",
-   "url": "https://www.coindesk.com/price"
+   "title": "Bitcoin.com News — Bitcoin ETFs lose $1.07B in a week",
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-1-07b-week-pushing-2-week-outflows-2-35b/"
   },
   {
-   "title": "CoinGlass – BTC historical daily data",
-   "url": "https://www.coinglass.com/currencies/BTC/historical-data"
+   "title": "crypto.news — Solana at four-month low as ETF outflows hit 6 weeks",
+   "url": "https://crypto.news/why-is-solana-price-down-today-sol-etf-outflows/"
   },
   {
-   "title": "Coin Edition – Ethereum price analysis",
-   "url": "https://coinedition.com/ethereum-price-analysis-can-eth-hold-1853-as-weekly-losses-hit-10/"
+   "title": "The Crypto Basic — BTC/ETH price analysis, 16 Nov",
+   "url": "https://thecryptobasic.com/2026/11/16/crypto-price-analysis-btc-eth-cc-qnt-and-zec-nov-16-canton-and-quant-gain-as-bitcoin-rebounds-from-61970/"
   },
   {
-   "title": "Global Macro Week Ahead: 16–20 Nov",
-   "url": "https://analysisofficial.substack.com/p/global-macro-week-ahead-nov-1620"
-  },
-  {
-   "title": "TradingKey – Week ahead: Nvidia Q3, retail sales, FOMC minutes, Walmart",
-   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+   "title": "Silvio Pascali — Daily intermarket analysis, 17 Nov 2026",
+   "url": "https://silviopascali.substack.com/p/daily-intermarket-analysis-17november2026"
   }
  ],
- "generated_at": "2026-11-16 07:04 TRT"
+ "generated_at": "2026-11-17 07:10 TRT"
 }
