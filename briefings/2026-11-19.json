@@ -1,0 +1,368 @@
+{
+ "date": "2026-11-19",
+ "date_label": "Thu 19 Nov",
+ "headline1": "Market mood:",
+ "headline2": "Hike bets bite.",
+ "lede": "October FOMC minutes showed nearly all officials expect further rate rises, and Governor Waller floated a half-point move in December, keeping the dollar index near a 19-month high. Gold suffered its steepest drop in months to the lowest level since September 2025, while Bitcoin slipped below its 200-week average.",
+ "snapshot_time": "NY close Wed 18 Nov · XAUUSD & Brent ≈07:00 TRT",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "3,707.7",
+   "change_pct": -0.48
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.0978",
+   "change_pct": -0.18
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3147",
+   "change_pct": -0.29
+  },
+  {
+   "symbol": "US500",
+   "price": "7,323.63",
+   "change_pct": -0.23
+  },
+  {
+   "symbol": "BRENT",
+   "price": "91.66",
+   "change_pct": -0.32
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Down another 0.5% near $3,708 after Wednesday's ~3.5% slide on hawkish minutes and a firm dollar. Today: US jobless claims and Philly Fed at 16:30 TRT."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Holding just under 1.10 at 19-month lows as Fed–ECB policy divergence widens. Today: US claims/Philly Fed at 16:30 TRT and ECB President Lagarde remarks."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bearish",
+   "timeframe": "Daily / H1",
+   "resistance": [
+    "3,770 (lower Bollinger band)",
+    "3,787–3,797",
+    "3,833–3,852"
+   ],
+   "support": [
+    "3,700 (50% Fib of 2023 rally)",
+    "3,680",
+    "3,600–3,630"
+   ],
+   "indicators": "RSI(14) ≈ 31 · below 100-day MA (≈4,190) and 200-day MA (≈4,415)",
+   "note": "Gold has broken its uptrend line from 2023 and trades beneath the whole daily Bollinger envelope, with 3,700 marking the 50% retracement of the 2023 advance."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Bearish",
+   "timeframe": "Daily / Weekly",
+   "resistance": [
+    "1.1000",
+    "1.1045",
+    "1.1100–1.1129"
+   ],
+   "support": [
+    "1.0960",
+    "1.0900"
+   ],
+   "indicators": "Weekly RSI ≈ 27 (oversold) · below 10-week EMA (≈1.1190) · 19-month lows",
+   "note": "A third straight week of lower highs has pushed the pair below the 1.10 handle, which now caps the first rebound attempts."
+  },
+  {
+   "symbol": "GBPUSD",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.3169–1.3172",
+    "1.3208–1.3211",
+    "1.3244–1.3252"
+   ],
+   "support": [
+    "1.3137 (2026 low)",
+    "1.3090–1.3100",
+    "1.3037"
+   ],
+   "indicators": "Daily and weekly oscillators oversold · closed at 1.3147, a whisker above the 2026 low",
+   "note": "Cable lost the 1.3170 one-month floor after an in-line UK CPI and is now testing the bottom of its 2026 range."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish",
+   "timeframe": "Daily / Weekly",
+   "resistance": [
+    "65,000",
+    "65,700–66,000",
+    "69,000–70,000"
+   ],
+   "support": [
+    "62,000–62,500",
+    "60,000"
+   ],
+   "indicators": "Below the 200-week MA (second break in 2026) · −15% over 7 days · Fear & Greed ≈ 10",
+   "note": "Bitcoin is pressing the bottom of its 62,000–65,700 box within a weekly sequence of lower highs since the 2025 peak."
+  }
+ ],
+ "levels": [],
+ "strength": [],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "03:30",
+   "ccy": "AUD",
+   "event": "Employment change (Oct): −43.5k vs +25k exp; jobless rate 4.9%",
+   "impact": "high"
+  },
+  {
+   "time": "14:30",
+   "ccy": "TRY",
+   "event": "CBRT weekly FX reserves",
+   "impact": "low"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Initial jobless claims",
+   "impact": "medium"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Philadelphia Fed manufacturing index (prev 20.9)",
+   "impact": "medium"
+  },
+  {
+   "time": "16:50",
+   "ccy": "USD",
+   "event": "Fed's Hammack speaks",
+   "impact": "medium"
+  },
+  {
+   "time": "17:30",
+   "ccy": "USD",
+   "event": "Anthropic (ANT) Nasdaq debut after $83 pricing",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "FED",
+   "text": "October minutes showed almost all officials see more hikes as likely needed; Waller floated 50bp for 9 Dec. Markets price ~90% odds of at least 25bp."
+  },
+  {
+   "tag": "GOLD",
+   "text": "Gold fell about 3.5% on Wednesday to its weakest since September 2025, with silver down roughly 5% near $45; the dollar index hit ~103.8."
+  },
+  {
+   "tag": "STOCKS",
+   "text": "Dow lost 1.1% and the S&P 500 fell a fifth day; Nvidia dropped 2.9% despite beating forecasts. Anthropic priced its IPO at $83, above range."
+  },
+  {
+   "tag": "OIL",
+   "text": "WTI slid 3.2% after a larger-than-expected US crude build, outweighing renewed Strait of Hormuz tension; Brent held near $92."
+  },
+  {
+   "tag": "GBP / AUD",
+   "text": "UK CPI rose to 3.6% as expected, below the BoE's 3.7% call, trimming Dec hike odds to ~80%. Australia shed 43.5k jobs; unemployment hit 4.9%."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "20:00 TRT Wed 18 Nov · 24h (CoinMarketCap)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "62,476",
+    "change_pct": -2.13
+   },
+   {
+    "symbol": "ETH",
+    "price": "1,751.89",
+    "change_pct": -1.49
+   },
+   {
+    "symbol": "XRP",
+    "price": "0.9692",
+    "change_pct": 1.01
+   },
+   {
+    "symbol": "SOL",
+    "price": "72.64",
+    "change_pct": 0.42
+   },
+   {
+    "symbol": "TRX",
+    "price": "0.3086",
+    "change_pct": 0.4
+   },
+   {
+    "symbol": "DOGE",
+    "price": "0.0582",
+    "change_pct": -0.35
+   }
+  ],
+  "news": [
+   {
+    "tag": "ETF",
+    "text": "US spot Bitcoin ETFs saw $239.9m of net outflows on Tuesday, $209.5m from BlackRock's IBIT; November redemptions total roughly $2.6bn."
+   },
+   {
+    "tag": "BTC",
+    "text": "Bitcoin dipped below its 200-week moving average for the second time this year after the Fed minutes; the Fear & Greed gauge sits near 10."
+   },
+   {
+    "tag": "ALTCOINS",
+    "text": "XRP and SOL edged higher while ETH lost the $1,800 mark. Solana ETFs logged their first inflow in 24 days ($11.6m); XRP funds saw $6.1m out."
+   },
+   {
+    "tag": "POLYGON",
+    "text": "Polygon plans a $50–100m push to buy payment companies and secure licences worldwide, deepening its payments focus."
+   },
+   {
+    "tag": "DEALS",
+    "text": "Kraken parent Payward agreed to acquire Tribe Capital, which manages about $2.6bn; closing is expected in Q1 2027."
+   },
+   {
+    "tag": "UNLOCKS",
+    "text": "LayerZero (ZRO) unlocks ~3.7% of circulating supply on Friday; AKE releases ~9.4% on Saturday."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Thu 19 Nov 16:30",
+   "tag": "USD",
+   "event": "Jobless claims & Philly Fed index",
+   "note": "First US data after hawkish minutes; Philly Fed prev 20.9.",
+   "impact": "medium"
+  },
+  {
+   "when": "Thu 19 Nov 17:30",
+   "tag": "IPO",
+   "event": "Anthropic (ANT) starts trading on Nasdaq",
+   "note": "Priced at $83, above the $70–78 range.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 20 Nov 02:30",
+   "tag": "JPY",
+   "event": "Japan CPI (Oct)",
+   "note": "Prev 2.1% y/y; USD/JPY near 159–160 intervention zone.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 20 Nov 10:00",
+   "tag": "GBP",
+   "event": "UK retail sales (Oct)",
+   "note": "Prev −0.4% m/m.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 20 Nov",
+   "tag": "CRYPTO",
+   "event": "LayerZero (ZRO) token unlock",
+   "note": "≈3.7% of circulating supply (~$35m).",
+   "impact": "low"
+  },
+  {
+   "when": "Mon 23 Nov 12:00",
+   "tag": "EUR/GBP/USD",
+   "event": "Flash November PMIs",
+   "note": "EZ 12:00, UK 12:30, US 17:45; US composite prev 55.9.",
+   "impact": "high"
+  },
+  {
+   "when": "Tue 24 Nov 12:00",
+   "tag": "EUR",
+   "event": "German Ifo business climate",
+   "note": "Prev 90.2.",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 24 Nov 18:00",
+   "tag": "USD",
+   "event": "Conference Board consumer confidence",
+   "note": "Prev 91.7.",
+   "impact": "medium"
+  },
+  {
+   "when": "Wed 25 Nov 16:30",
+   "tag": "USD",
+   "event": "Q3 GDP (2nd est.) & core PCE (Oct)",
+   "note": "Prelim GDP +3.4%; core PCE prev 3.1% y/y.",
+   "impact": "high"
+  },
+  {
+   "when": "Thu 26 Nov",
+   "tag": "USD",
+   "event": "US Thanksgiving holiday",
+   "note": "US markets closed; early close Friday.",
+   "impact": "low"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Federal Reserve – Minutes of the FOMC, October 27-28, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+  },
+  {
+   "title": "Closing Look – Wednesday, November 18, 2026",
+   "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+  },
+  {
+   "title": "Trading Economics – Gold",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Mitrade – Gold breaks 14-month low on hawkish Fed minutes",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-breaks-14-low-hawkish-fed-minutes"
+  },
+  {
+   "title": "XTB – Gold below 3800 USD for the first time in over a year",
+   "url": "https://www.xtb.com/en/market-analysis/gold-below-3800-usd-for-the-first-time-in-over-a-year"
+  },
+  {
+   "title": "BigGo Finance – NY gold hits 52-week low",
+   "url": "https://finance.biggo.com/news/a535ce5e-4c04-48e9-ad55-897eb75844f4"
+  },
+  {
+   "title": "TMGM / FXStreet – EUR/USD price forecast",
+   "url": "https://www.tmgm.com/en-in/analysis/market-news/article/eur-usd-price-forecast-downside-extends-to-near-10960-as-us-dollar-rallies-further-202611180927"
+  },
+  {
+   "title": "TradingNews – GBP/USD near 2026 low after UK CPI",
+   "url": "https://www.tradingnews.com/news/gbp-usd-slips-to-13148-near-2026-low-as-uk-cpi"
+  },
+  {
+   "title": "Forexfundamentals – Australia employment change",
+   "url": "https://forexfundamentals.com/economic-calendar/au-employment/2026-11-19"
+  },
+  {
+   "title": "IT Times – Crypto prices on Nov. 19 (CoinMarketCap data)",
+   "url": "https://www.ittimes.com/news/articleView.html?idxno=88066"
+  },
+  {
+   "title": "CryptoTicker – Fed signals behind BTC's drop",
+   "url": "https://cryptoticker.io/en/fed-minutes-waller-rate-hike-crypto-selloff-bitcoin/"
+  },
+  {
+   "title": "KuCoin – Crypto daily market report, Nov 19 2026",
+   "url": "https://www.kucoin.com/fil/news/articles/crypto-daily-market-report-november-19-2026"
+  },
+  {
+   "title": "Altcoin Buzz – Solana ETFs bounce back, XRP funds bleed",
+   "url": "https://www.altcoinbuzz.io/crypto-market-update-today-bitcoin-falls-below-63k-solana-etfs-bounce-back-xrp-funds-bleed-6-14m"
+  },
+  {
+   "title": "LiteFinance – Economic calendar 23–29 Nov 2026",
+   "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
+  }
+ ],
+ "generated_at": "2026-11-19 07:10 TRT"
+}
