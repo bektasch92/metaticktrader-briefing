@@ -1,5 +1,15 @@
 [
  {
+  "date": "2026-11-22",
+  "date_label": "Sun 22 Nov",
+  "date_label_tr": "Paz 22 Kas",
+  "headline": "Market mood: Bruised, crypto bounces.",
+  "headline_tr": "Piyasa havası: Yara aldı, kripto toparlanıyor.",
+  "extras": [
+   "weekly"
+  ]
+ },
+ {
   "date": "2026-11-21",
   "date_label": "Sat 21 Nov",
   "date_label_tr": "Cmt 21 Kas",
