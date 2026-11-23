@@ -1,20 +1,20 @@
 {
- "date": "2026-11-22",
- "date_label": "Sun 22 Nov",
+ "date": "2026-11-23",
+ "date_label": "Mon 23 Nov",
  "headline1": "Market mood:",
- "headline2": "Bruised, crypto bounces.",
- "lede": "Forex and gold are shut after a punishing week: gold fell about 9% and the S&P 500 8.6% as near-certain December Fed hike bets collided with an AI-led stock rout. Bitcoin hit roughly $55,000 on Saturday, its lowest since September 2024, before climbing back above $60,000.",
- "snapshot_time": "Fri 20 Nov close (NY 17:00 ET = 01:00 TRT Sat) · FX/gold closed for the weekend",
+ "headline2": "Relief bounce.",
+ "lede": "Gold jumped about 2% back above $3,600 in Asian trade as falling Treasury yields and Friday's equity rout led traders to trim, but not abandon, bets on a December Fed hike. Bitcoin is holding near $60,000 after a seventh straight weekly loss, its longest losing run since the 2022 Terra collapse.",
+ "snapshot_time": "Gold ~06:40 TRT, EURUSD ~07:00 TRT Mon · US500 & Brent = Fri 20 Nov close",
  "snapshot": [
   {
    "symbol": "XAUUSD",
-   "price": "3,537.9",
-   "change_pct": -2.38
+   "price": "3,603.7",
+   "change_pct": 1.86
   },
   {
    "symbol": "EURUSD",
-   "price": "1.0968",
-   "change_pct": -0.5
+   "price": "1.0984",
+   "change_pct": 0.15
   },
   {
    "symbol": "US500",
@@ -30,11 +30,11 @@
  "focus": [
   {
    "symbol": "XAUUSD",
-   "text": "Ended Friday near $3,538 after a $3,503 low, down ~9% on the week and below Monday's 3,571 pivot. Monday's US flash PMIs, then Wednesday's PCE, are the main tests."
+   "text": "Rebounding from a double bottom near $3,503 to ~$3,604, now above its 3,571 pivot as yields slip. US flash PMIs (17:45 TRT) are today's test; Wednesday's PCE looms."
   },
   {
    "symbol": "EURUSD",
-   "text": "Closed near 1.0968 for a third weekly loss as Fed hike pricing kept the dollar near 19-month highs. 1.0953 is the week's low; Monday's euro-area PMIs open the week."
+   "text": "Edging up to ~1.0984, just above the 1.0975 pivot but still pinned under 1.10 near 19-month lows. Euro-area flash PMIs at 12:00 TRT, US PMIs at 17:45."
   }
  ],
  "technicals": [
@@ -43,17 +43,17 @@
    "trend": "Bearish",
    "timeframe": "Daily",
    "resistance": [
-    "3,597",
-    "3,640–3,673",
-    "3,699"
+    "3,630–3,650",
+    "3,685–3,700",
+    "3,723"
    ],
    "support": [
-    "3,503 (Fri low)",
-    "3,470–3,475",
-    "3,421"
+    "3,571 (pivot)",
+    "3,500–3,520",
+    "3,450–3,475"
    ],
-   "indicators": "Momentum deeply oversold · 14-month low, well below 50- and 200-day MAs · pivot 3,571",
-   "note": "Nine straight down sessions have carved lower highs from the early-November peak near 4,149, with Friday closing just above the $3,500 shelf."
+   "indicators": "Daily RSI(14) ≈ 21, deeply oversold · far below 50/200-day MAs · hourly RSI back above 50",
+   "note": "A double bottom around $3,500–3,520 is driving a rebound inside a steep downtrend that has produced lower highs since the early-November peak near $4,150."
   },
   {
    "symbol": "EURUSD",
@@ -62,48 +62,47 @@
    "resistance": [
     "1.1000",
     "1.1035",
-    "1.1090"
+    "1.1072"
    ],
    "support": [
-    "1.0953",
-    "1.0900",
+    "1.0950–1.0953",
+    "1.0904 (61.8% Fib)",
     "1.0850"
    ],
-   "indicators": "Capped below the 100-day SMA · three consecutive weekly losses",
-   "note": "The pair is pinned under the 1.10 handle, with the former support zone now acting as a ceiling over a narrow 1.0953–1.1035 weekly range."
+   "indicators": "RSI(14) ≈ 29 (19 Nov) · below 20/50/100/200-day SMAs (1.1125 / 1.1281 / 1.1385 / 1.1519) · MACD negative",
+   "note": "The pair is compressing in a tight 1.0953–1.1035 band right at its 2026 low, with the 1.10 handle acting as a ceiling."
   },
   {
    "symbol": "BTCUSDT",
    "trend": "Bearish",
    "timeframe": "Daily",
    "resistance": [
-    "60,000",
     "62,000",
-    "64,000"
+    "64,000–65,000"
    ],
    "support": [
-    "55,000–55,300 (Sat low)",
-    "54,600 (Sep 2024 low)",
-    "52,500"
+    "58,650",
+    "55,000–56,000",
+    "53,000"
    ],
-   "indicators": "Roughly 20% below the 200-day MA · Fear & Greed 8–12 (extreme fear)",
-   "note": "Saturday's flush to about $55,000 was bought back above $60,000, but the daily chart still shows no higher high after the breakdown from the 60–62k floor."
+   "indicators": "Seven straight weekly losses · Fear & Greed 11 (extreme fear) · funding briefly negative",
+   "note": "Saturday's flush to about $55,100 was bought back toward $61,000, but price remains inside a falling weekly structure that has cut roughly 30% since early October."
   },
   {
    "symbol": "ETHUSDT",
    "trend": "Bearish",
    "timeframe": "Daily",
    "resistance": [
-    "1,700",
-    "1,757"
+    "1,757",
+    "1,800"
    ],
    "support": [
+    "1,623",
     "1,541",
-    "1,500",
-    "1,400"
+    "1,500"
    ],
-   "indicators": "RSI(14) ≈ 19 · far below 50-day SMA (~2,286)",
-   "note": "Ether rebounded from about $1,540 but remains in a steep downtrend with momentum at extreme oversold readings."
+   "indicators": "Lowest levels since July · weekly loss ~18% to Saturday",
+   "note": "ETH has reclaimed $1,700 after a weekend dip near $1,541, leaving the $1,541–1,550 zone as the swing low to watch."
   }
  ],
  "levels": [
@@ -112,104 +111,142 @@
    "s1": "3469.5",
    "pivot": "3571.4",
    "r1": "3639.8",
-   "bias": "below"
+   "bias": "above"
+  },
+  {
+   "symbol": "EURUSD",
+   "s1": "1.0950",
+   "pivot": "1.0975",
+   "r1": "1.0993",
+   "bias": "above"
   }
  ],
  "strength": [],
  "tz": "TRT",
- "calendar": [],
+ "calendar": [
+  {
+   "time": "10:00",
+   "ccy": "TRY",
+   "event": "TCMB sectoral inflation expectations & household survey (Nov)",
+   "impact": "medium"
+  },
+  {
+   "time": "11:30",
+   "ccy": "EUR",
+   "event": "Germany flash PMIs (Nov)",
+   "impact": "high"
+  },
+  {
+   "time": "12:00",
+   "ccy": "EUR",
+   "event": "Euro-area flash PMIs (Nov)",
+   "impact": "high"
+  },
+  {
+   "time": "12:30",
+   "ccy": "GBP",
+   "event": "UK flash PMIs (Nov)",
+   "impact": "high"
+  },
+  {
+   "time": "17:45",
+   "ccy": "USD",
+   "event": "S&P Global flash PMIs (Nov) – composite prev 55.9",
+   "impact": "high"
+  }
+ ],
  "news": [
   {
-   "tag": "WEEK",
-   "text": "US stocks had their worst week in months: S&P 500 −8.6%, Nasdaq about −10%, as an SEC review of Nvidia's accounting deepened the AI sell-off."
-  },
-  {
    "tag": "FED",
-   "text": "Futures price a 25bp hike on 9 Dec at roughly 95% or more; the Fed's pre-meeting blackout starts Saturday 28 Nov."
+   "text": "US Treasury Secretary Bessent cautioned that further Fed tightening could endanger growth; markets still price a 25bp December hike as near-certain, though slightly less so."
   },
   {
-   "tag": "GOLD",
-   "text": "Kitco's weekly poll: 9 of 15 Wall Street analysts and 46% of retail voters expect further declines after gold's worst week since March."
+   "tag": "STOCKS",
+   "text": "S&P 500 is in correction after an 8.6% weekly drop; Friday's 3.7% slide was led by Nvidia (−13.8%) on reports of an SEC accounting probe."
   },
   {
    "tag": "RATES",
-   "text": "The US 10-year yield ended the week near 4.94% after haven buying on Friday; the dollar index eased from Thursday's 19-month high."
+   "text": "Treasuries rallied into the weekend: the 2-year yield fell about 11bp to 4.64% and the 10-year eased to roughly 4.91%, taking some heat off the dollar."
+  },
+  {
+   "tag": "GEOPOLITICS",
+   "text": "Iran tensions stay high: Trump signalled renewed military action after New Year without a deal, while Iran claimed strikes on US radars in Bahrain."
   },
   {
    "tag": "OIL",
-   "text": "Brent finished at $92.57, a third straight weekly decline of about 3.4%, despite Friday's small Iran-related bounce."
+   "text": "Brent sits near $92 after a third weekly decline; the UAE is moving crude through Hormuz under US military escort, and OPEC+ meets on Sunday."
   }
  ],
  "crypto": {
-  "snapshot_time": "~07:00 TRT Sun · 24h (CoinMarketCap)",
+  "snapshot_time": "02:00 TRT Mon · 24h (CoinGecko/Kraken)",
   "snapshot": [
    {
     "symbol": "BTC",
-    "price": "60,118",
-    "change_pct": 1.97
+    "price": "60,760",
+    "change_pct": 1.1
    },
    {
     "symbol": "ETH",
-    "price": "1,679.84",
-    "change_pct": 3.56
-   },
-   {
-    "symbol": "SOL",
-    "price": "70.29",
-    "change_pct": 2.15
-   },
-   {
-    "symbol": "XRP",
-    "price": "0.9321",
-    "change_pct": 2.45
+    "price": "1,712",
+    "change_pct": 1.7
    },
    {
     "symbol": "BNB",
-    "price": "548.49",
-    "change_pct": 1.69
+    "price": "556",
+    "change_pct": 1.4
+   },
+   {
+    "symbol": "SOL",
+    "price": "70.3",
+    "change_pct": -0.2
+   },
+   {
+    "symbol": "XRP",
+    "price": "0.92",
+    "change_pct": -0.7
    }
   ],
   "news": [
    {
     "tag": "BTC",
-    "text": "Bitcoin slid to about $55,000–55,300 early Saturday, its lowest since September 2024, then recovered to around $60,100 by the evening."
-   },
-   {
-    "tag": "LIQUIDATIONS",
-    "text": "More than $2B of leveraged positions were wiped out in 24 hours around Saturday's low, the vast majority of them longs (CoinGlass)."
+    "text": "Bitcoin logged a seventh consecutive weekly loss, closing the week near $60,100 after briefly sliding to roughly $55,100 on Saturday."
    },
    {
     "tag": "ETF",
-    "text": "US spot bitcoin ETFs logged about $124M of net outflows on 20 Nov per SoSoValue, extending a week of redemptions above $1.2B."
+    "text": "US spot bitcoin ETFs have bled about $3.5bn so far in November, including a record single-day $541m outflow from BlackRock's IBIT."
    },
    {
-    "tag": "SENTIMENT",
-    "text": "The Crypto Fear & Greed index sits between 8 and 12, deep in extreme fear; it has stayed at 13 or below since 14 Nov."
+    "tag": "HACK",
+    "text": "Chainflip lost around $12m in an attack on its vaults and offered the attacker a $1.2m bounty; FLIP fell as much as 37%."
    },
    {
-    "tag": "ETH",
-    "text": "Ether bounced about 3.5% to near $1,680 but its 14-day RSI sits near 19, among its most oversold readings of the year."
+    "tag": "SOL",
+    "text": "Solana hovered near $70 as SOL ETFs snapped a six-week outflow streak and the network marked its mainnet 1.0 upgrade."
    },
    {
-    "tag": "TREASURY",
-    "text": "Ether-treasury firm BTCS told the SEC its $54M Aave loan could face liquidation if prices keep falling (CoinDesk)."
+    "tag": "REGULATION",
+    "text": "Hong Kong published draft licensing rules for virtual-asset dealers and custodians; the UK plans to bar exchanges from market-making on their own venues."
+   },
+   {
+    "tag": "UNLOCK",
+    "text": "Monad (MON) unlocks about 32% of circulating supply, worth roughly $219m, on Tuesday — the week's largest scheduled token release."
    }
   ]
  },
  "upcoming": [
   {
-   "when": "Mon 23 Nov 11:30–12:30",
-   "tag": "EUR/GBP",
-   "event": "Flash November PMIs (Germany, euro area, UK)",
-   "note": "Euro-area composite prev 51.7; UK composite prev 52.9.",
-   "impact": "high"
+   "when": "Tue 24 Nov",
+   "tag": "CRYPTO",
+   "event": "Monad (MON) token unlock",
+   "note": "~32% of circulating supply, ~$219m.",
+   "impact": "medium"
   },
   {
-   "when": "Mon 23 Nov 17:45",
-   "tag": "USD",
-   "event": "S&P Global flash PMIs",
-   "note": "Composite prev 55.9; manufacturing prev 54.9.",
-   "impact": "high"
+   "when": "Tue 24 Nov 12:00",
+   "tag": "EUR",
+   "event": "German Ifo business climate",
+   "note": "Gauge of German sentiment ahead of the ECB's December meeting.",
+   "impact": "medium"
   },
   {
    "when": "Tue 24 Nov 18:00",
@@ -222,14 +259,14 @@
    "when": "Wed 25 Nov 03:30",
    "tag": "AUD",
    "event": "Australia October CPI",
-   "note": "Prev 4.3% y/y; last print before RBA's December meeting.",
+   "note": "Prev 4.3% y/y; last print before the 8 Dec RBA meeting.",
    "impact": "medium"
   },
   {
    "when": "Wed 25 Nov 16:30",
    "tag": "USD",
-   "event": "Oct PCE, Q3 GDP (2nd est.), durable goods, jobless claims",
-   "note": "Core PCE seen 0.3% m/m, 3.2% y/y (prev 3.1%); GDP advance 3.4%.",
+   "event": "October PCE, Q3 GDP (2nd est.), durable goods, jobless claims",
+   "note": "Core PCE seen ~0.3% m/m, 3.2% y/y (prev 3.1%); GDP advance 3.4%.",
    "impact": "high"
   },
   {
@@ -242,157 +279,217 @@
   {
    "when": "Thu 26 Nov",
    "tag": "USD/EUR",
-   "event": "US Thanksgiving; ECB October minutes; Bank of Korea decision",
-   "note": "US markets shut; BoK seen hiking 25bp to 3.25%.",
+   "event": "US Thanksgiving; ECB minutes; Bank of Korea decision",
+   "note": "US markets shut; BoK expected to hike 25bp to 3.25%.",
    "impact": "medium"
   },
   {
    "when": "Fri 27 Nov 02:30",
    "tag": "JPY",
    "event": "Tokyo November CPI",
-   "note": "Prev 2.8% y/y headline.",
+   "note": "Prev 2.8% y/y.",
    "impact": "medium"
   },
   {
-   "when": "Fri 27 Nov",
-   "tag": "EUR",
-   "event": "French & Spanish flash CPI; euro-area sentiment",
-   "note": "Inputs ahead of the ECB's December meeting.",
-   "impact": "medium"
-  },
-  {
-   "when": "Fri 27 Nov 21:00",
-   "tag": "USD/CRYPTO",
-   "event": "US early close; monthly BTC/ETH options expiry",
-   "note": "Thin holiday liquidity; Deribit expiry at 11:00.",
+   "when": "Fri 27 Nov 11:00",
+   "tag": "CRYPTO",
+   "event": "Monthly BTC/ETH options expiry (Deribit); US early close 21:00",
+   "note": "Thin holiday liquidity; Fed blackout starts Sat 28 Nov.",
    "impact": "low"
+  },
+  {
+   "when": "Sun 29 Nov",
+   "tag": "OIL",
+   "event": "OPEC+ meeting",
+   "note": "Output policy after three straight weekly Brent declines.",
+   "impact": "medium"
   }
  ],
- "weekly_summary": {
-  "period": "16–20 Nov",
-  "summary": "Markets endured a broad liquidation week as hot inflation data and hawkish Fed speakers pushed December hike odds above 90%, while a reported SEC accounting review of Nvidia turned the AI unwind into a rout. The S&P 500 and Dow closed Friday in correction territory and the Nasdaq lost about 10%. Gold suffered its worst week since March, falling about 9% to near $3,538, and the dollar touched a 19-month high before easing. Crypto followed equities lower, with bitcoin breaking $60,000 on Friday and briefly reaching about $55,000 on Saturday.",
-  "performance": [
-   {
-    "symbol": "XAUUSD",
-    "close": "3,537.9",
-    "change_pct": -8.9,
-    "note": "Hike bets, deleveraging; nine straight losses"
-   },
-   {
-    "symbol": "EURUSD",
-    "close": "1.0968",
-    "change_pct": -0.5,
-    "note": "Third weekly loss; Fed-ECB gap"
-   },
-   {
-    "symbol": "US500",
-    "close": "6,910.39",
-    "change_pct": -8.61,
-    "note": "AI sell-off, Nvidia probe; correction"
-   },
-   {
-    "symbol": "BRENT",
-    "close": "92.57",
-    "change_pct": -3.41,
-    "note": "Third weekly drop; surplus worries"
-   },
-   {
-    "symbol": "BTC",
-    "close": "60,118",
-    "change_pct": -5.55,
-    "note": "Sun-to-Sun ~07:00 TRT; ETF outflows, liquidations"
-   },
-   {
-    "symbol": "ETH",
-    "close": "1,679.84",
-    "change_pct": -3.95,
-    "note": "Sun-to-Sun; lowest since July mid-week"
-   }
-  ],
-  "top_stories": [
-   {
-    "tag": "STOCKS",
-    "text": "An AI-led rout hit Wall Street; Nvidia fell about 14% on Friday on a reported SEC accounting review and chipmakers lost 9–14%."
-   },
+ "week_ahead": {
+  "period": "23–27 Nov",
+  "intro": "A holiday-shortened US week revolves around Wednesday's October PCE inflation, the last major price gauge before the Fed's 9 December meeting, where a 25bp hike is almost fully priced. Markets arrive bruised after the S&P 500's worst week in 19 months, gold's ~9% slide and bitcoin's seventh weekly loss.",
+  "themes": [
    {
     "tag": "FED",
-    "text": "Governors Cook and others warned against waiting, and markets now price a December hike as near-certain."
+    "text": "PCE and the Beige Book decide whether December hike pricing firms or fades; Fed speakers go quiet from Saturday."
    },
    {
-    "tag": "GOLD",
-    "text": "Gold slid for nine sessions straight, hitting $3,503 on Friday, its lowest level in over a year."
+    "tag": "RISK",
+    "text": "After an AI-led stock correction and VIX spike, the question is whether Monday's bounce in gold and yields-driven relief can hold."
    },
    {
-    "tag": "CRYPTO",
-    "text": "Bitcoin lost its 60k floor and spot ETFs bled more than $1.2B over the week; the Saturday low near $55,000 was the weakest since September 2024."
+    "tag": "PMIs",
+    "text": "Monday's flash PMIs for the euro area, UK and US give the first read on November activity."
    },
    {
-    "tag": "TURKEY",
-    "text": "BIST 100 dropped 6% on the week to 11,131 and the 10-year Turkish bond yield hit a record near 37%."
+    "tag": "LIQUIDITY",
+    "text": "Thanksgiving (Thu) and a US half-day (Fri) thin out trading, which can exaggerate moves in FX, gold and crypto."
+   },
+   {
+    "tag": "GEOPOLITICS",
+    "text": "Iran–US friction and attacks on shipping keep a risk premium in oil ahead of Sunday's OPEC+ meeting."
+   }
+  ],
+  "events": [
+   {
+    "day": "Mon",
+    "time": "11:30–12:30",
+    "ccy": "EUR/GBP",
+    "event": "German, euro-area & UK flash PMIs",
+    "note": "Euro-area composite prev 51.7; UK composite prev 52.9.",
+    "impact": "high"
+   },
+   {
+    "day": "Mon",
+    "time": "17:45",
+    "ccy": "USD",
+    "event": "S&P Global flash PMIs",
+    "note": "Composite prev 55.9; manufacturing prev 54.9.",
+    "impact": "high"
+   },
+   {
+    "day": "Tue",
+    "time": "12:00",
+    "ccy": "EUR",
+    "event": "German Ifo business climate",
+    "note": "November reading.",
+    "impact": "medium"
+   },
+   {
+    "day": "Tue",
+    "time": "18:00",
+    "ccy": "USD",
+    "event": "Conference Board consumer confidence",
+    "note": "Prev 91.7.",
+    "impact": "medium"
+   },
+   {
+    "day": "Tue",
+    "time": "",
+    "ccy": "CRYPTO",
+    "event": "Monad (MON) token unlock",
+    "note": "~$219m, ~32% of circulating supply.",
+    "impact": "medium"
+   },
+   {
+    "day": "Wed",
+    "time": "03:30",
+    "ccy": "AUD",
+    "event": "Australia October CPI",
+    "note": "Prev 4.3% y/y.",
+    "impact": "medium"
+   },
+   {
+    "day": "Wed",
+    "time": "16:30",
+    "ccy": "USD",
+    "event": "October PCE; Q3 GDP 2nd est.; durable goods; jobless claims",
+    "note": "Core PCE exp ~0.3% m/m, 3.2% y/y; prev 3.1%.",
+    "impact": "high"
+   },
+   {
+    "day": "Wed",
+    "time": "22:00",
+    "ccy": "USD",
+    "event": "Fed Beige Book",
+    "note": "Before the 9 Dec FOMC.",
+    "impact": "medium"
+   },
+   {
+    "day": "Thu",
+    "time": "",
+    "ccy": "USD/EUR/KRW",
+    "event": "US Thanksgiving (markets shut); ECB minutes; Bank of Korea decision",
+    "note": "BoK seen +25bp to 3.25%.",
+    "impact": "medium"
+   },
+   {
+    "day": "Fri",
+    "time": "02:30",
+    "ccy": "JPY",
+    "event": "Tokyo CPI (Nov)",
+    "note": "Prev 2.8% y/y.",
+    "impact": "medium"
+   },
+   {
+    "day": "Fri",
+    "time": "11:00",
+    "ccy": "CRYPTO",
+    "event": "Monthly BTC/ETH options expiry (Deribit)",
+    "note": "Thin liquidity; US stocks close early at 21:00.",
+    "impact": "low"
+   },
+   {
+    "day": "Fri",
+    "time": "",
+    "ccy": "EUR",
+    "event": "French & Spanish flash CPI; euro-area sentiment",
+    "note": "Inputs ahead of the ECB's December meeting.",
+    "impact": "medium"
    }
   ]
  },
  "sources": [
   {
-   "title": "Kitco – Wall Street stays bearish after gold's slide to $3,500 (weekly survey, 20 Nov)",
-   "url": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism"
+   "title": "Mitrade – Gold rebounds above $3,600 after stock correction (23 Nov)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-rebounds-above-3600-stock-correction"
   },
   {
-   "title": "FinanceFeeds – Gold $3,538 after 9% weekly drop: week ahead",
-   "url": "https://financefeeds.com/gold-price-today-3538-saturday-week-ahead-after-9-percent-weekly-drop-bull-3700-bear-3420"
+   "title": "GoodReturns – Gold & silver live updates, 23 Nov 2026",
+   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-23-11-2026-live-updates-mcx-gold-silver-price-24k-22k-18k-gold-prices-1548905.html"
   },
   {
-   "title": "MetalCharts – XAU/USD daily OHLC 2026",
-   "url": "https://metalcharts.org/xauusd-historical-data/2026"
+   "title": "Newsquawk – Daily Asia-Pac Opening News, 23 Nov 2026",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---23rd-november-2026"
   },
   {
-   "title": "ECB – Euro reference rates, 20 Nov 2026",
-   "url": "https://www.ecb.europa.eu/stats/shared/pdf/eurofxref.pdf"
+   "title": "MUFG Research – Asia FX Talk, 23 Nov 2026",
+   "url": "https://www.mufgresearch.com/fx/asia-fx-talk-23-november-2026"
   },
   {
-   "title": "FXStreet – Euro edges higher, still set for third weekly loss",
-   "url": "https://www.fxstreet.com/news/euro-edges-higher-as-us-dollar-eases-still-set-for-third-weekly-loss-202611201546"
-  },
-  {
-   "title": "NordFX – Forex & crypto forecast, 23–27 Nov 2026",
+   "title": "NordFX – Forex & crypto forecast 23–27 Nov 2026",
    "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-23-27-2026"
   },
   {
-   "title": "Newsquawk – Week in focus, 23–27 Nov",
-   "url": "https://www.newsquawk.com/headlines/week-in-focus--november-23rd-27th-highlights-include-us-pce-flash-pmis-aussie-cpi-and-ecb-minutes"
+   "title": "FXIFY – Trading Desk Brief, week of 23 Nov",
+   "url": "https://fxify.com/blog/trading-desk-brief-23-november/"
   },
   {
-   "title": "LiteFinance – Economic calendar 23–29 Nov 2026",
-   "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
+   "title": "Pound Sterling Live – EUR/USD daily history 2026",
+   "url": "https://www.poundsterlinglive.com/history/EUR-USD-2026"
   },
   {
-   "title": "FinancialJuice – US indicators, week of 23 Nov",
-   "url": "https://features.financialjuice.com/2026/11/20/week-ahead-economic-indicators-23rd-27th-november-us/"
+   "title": "TradingNews – EUR/USD near 19-month low, technicals",
+   "url": "https://www.tradingnews.com/news/eur-usd-holds-10979-off-19-month-low-as-dxy-cools-from-10397-ecb-hike-bets-eye-11125-usd-target"
   },
   {
-   "title": "CoinMarketCap – Crypto prices",
-   "url": "https://coinmarketcap.com/"
+   "title": "FXEmpire – EUR/USD, GBP/USD, USD/JPY analysis (20 Nov session)",
+   "url": "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-lower-amid-profit-taking-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1646137"
   },
   {
-   "title": "CEO Economy – Bitcoin hits ~$55,300 Saturday, rebounds to $60,000",
-   "url": "https://ceoeconomy.com/article/bitcoin-weekend-55000-low-rebound-60000"
+   "title": "KuCoin – Crypto Daily Market Report, 23 Nov 2026",
+   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-23-2026"
   },
   {
-   "title": "MarketAlleys – Ether after 24-hour gain (CoinGecko data)",
-   "url": "https://www.marketalleys.com/post/ether-trades-at-1-682-68-after-3-90-24-hour-gain-2026-11-22"
+   "title": "Crypto briefing 23 Nov (CoinGecko/Kraken prices)",
+   "url": "https://github.com/elixirevo/agentic-blog/releases/tag/post-2026-11-23-crypto-briefing"
   },
   {
-   "title": "CNBC-e – Borsa haftayı düşüşle kapattı (20 Kas)",
-   "url": "https://www.cnbce.com/borsa/borsa-haftayi-dususle-kapatti-20-kasim-2026-h42245"
+   "title": "Coinotag – Bitcoin closes 7th straight weekly loss",
+   "url": "https://en.coinotag.com/bitcoin-btc-7th-straight-weekly-loss-longest-since-terra"
   },
   {
-   "title": "Finans Gündem – Haftanın özeti: dolar yükseldi, altın ve borsa düştü",
-   "url": "https://finansgundem.com.tr/haftanin-ozeti-dolar-yukseldi-altin-ve-borsa-sert-dustu"
+   "title": "crypto.news – latest crypto headlines",
+   "url": "https://crypto.news/"
   },
   {
-   "title": "Borsatek – BIST 100'de sert kayıp sonrası izlenecek seviyeler ve haftanın takvimi",
-   "url": "https://www.borsatek.com/bist-100de-%601lik-kayip-izlenecek-seviyeler/"
+   "title": "hisse.net – 23–27 Kasım ekonomi takvimi",
+   "url": "https://www.hisse.net/haber/23-27-kasim-ekonomi-takvimi-belli-oldu-gozler-25-kasim-da-108277"
+  },
+  {
+   "title": "Endeks24 – Haftanın veri takvimi (TCMB, TÜİK)",
+   "url": "https://www.endeks24.com/enflasyon-beklentileri-pazartesi-ekonomik-guven-endeksi-cuma-aciklanacak"
   }
  ],
- "generated_at": "2026-11-22 07:30 TRT"
+ "generated_at": "2026-11-23 07:20 TRT"
 }
