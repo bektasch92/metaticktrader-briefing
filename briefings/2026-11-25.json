@@ -1,0 +1,399 @@
+{
+ "date": "2026-11-25",
+ "date_label": "Wed 25 Nov",
+ "headline1": "Market mood:",
+ "headline2": "AI jitters return.",
+ "lede": "Tuesday's tech relief rally unravelled as Nvidia fell almost 6% and chip stocks slid, pulling the S&P 500 lower and sending Korean and Japanese shares sharply down this morning. Gold lost over 2% to about $3,550 even as the dollar eased, with a December Fed hike almost fully priced ahead of today's PCE and GDP data.",
+ "snapshot_time": "Tue 24 Nov NY close",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "3,552.5",
+   "change_pct": -2.25
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1.0966",
+   "change_pct": 0.6
+  },
+  {
+   "symbol": "GBPUSD",
+   "price": "1.3112",
+   "change_pct": 0.64
+  },
+  {
+   "symbol": "US500",
+   "price": "7,201.09",
+   "change_pct": -0.5
+  },
+  {
+   "symbol": "BRENT",
+   "price": "91.40",
+   "change_pct": 2.27
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Gold dropped 2.2% to ~$3,552 on tech-led liquidation and Fed-hike bets, trading below its 3,592.5 pivot. Main risk: US core PCE and Q3 GDP at 16:30 TRT."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Euro bounced 0.6% to ~1.0966 from Monday's 2026 low of 1.0884 as the dollar eased and ECB-hike talk firmed. US PCE/GDP at 16:30 TRT is today's test."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Bearish",
+   "timeframe": "Daily",
+   "resistance": [
+    "3,630",
+    "3,650–3,674",
+    "3,697"
+   ],
+   "support": [
+    "3,500–3,520",
+    "3,440–3,460",
+    "3,380–3,400"
+   ],
+   "indicators": "RSI(14) ≈ 33 (before Tuesday's drop) · below 50-day (~3,989) and 200-day (~4,227) MA · MACD negative",
+   "note": "Monday's rebound failed near 3,680 and price fell back to the lower end of the recent range, keeping the sequence of lower highs intact."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "1.0984",
+    "1.1000",
+    "1.1100"
+   ],
+   "support": [
+    "1.0901",
+    "1.0884",
+    "1.0850"
+   ],
+   "indicators": "RSI(14) up from ~27 to ~35 · below 50-day EMA (~1.1200) and 200-day EMA (~1.1400) · 50/200 bearish cross since September",
+   "note": "An oversold bounce from the 2026 low is testing the 1.0980–1.1000 area within a broader downtrend."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Bearish",
+   "timeframe": "Daily",
+   "resistance": [
+    "60,400–60,600",
+    "63,100",
+    "64,600"
+   ],
+   "support": [
+    "59,200",
+    "58,000",
+    "55,100"
+   ],
+   "indicators": "RSI(14) ≈ 28 · below 20-day EMA (~66,500) and 50-day EMA (~72,400) · MACD below signal",
+   "note": "Monday's spike to ~64,500 was fully reversed and price is hovering around the 60,000 pivot area, just above the recent two-year low near 55,100."
+  },
+  {
+   "symbol": "US500",
+   "trend": "Bearish bias",
+   "timeframe": "Daily",
+   "resistance": [
+    "7,296",
+    "7,351–7,364",
+    "7,609"
+   ],
+   "support": [
+    "7,040–7,089",
+    "6,883"
+   ],
+   "indicators": "Below 50-day (~7,609) and 200-day (~7,351) MA · SPY daily RSI ≈ 43",
+   "note": "Monday's rebound stalled below the 200-day average and the index slipped back, keeping the short-term downtrend in place."
+  },
+  {
+   "symbol": "SOLUSDT",
+   "trend": "Bearish",
+   "timeframe": "Daily",
+   "resistance": [
+    "70.7–71.9",
+    "74.7",
+    "79.3"
+   ],
+   "support": [
+    "68.7",
+    "65.3"
+   ],
+   "indicators": "RSI(14) ≈ 30 · below 50-day (~94) and 200-day (~88) SMA · MACD flattening near signal",
+   "note": "Price is pinned just above last week's 90-day low with momentum oversold but no reversal structure yet."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "XAUUSD",
+   "s1": "3506.0",
+   "pivot": "3592.5",
+   "r1": "3639.0",
+   "bias": "below"
+  },
+  {
+   "symbol": "BTCUSDT",
+   "s1": "58,780",
+   "pivot": "60,181",
+   "r1": "61,149",
+   "bias": "below"
+  }
+ ],
+ "strength": [],
+ "tz": "TRT",
+ "calendar": [
+  {
+   "time": "03:30",
+   "ccy": "AUD",
+   "event": "Australia October CPI (out: 4.9% y/y, trimmed mean 3.8%)",
+   "impact": "medium"
+  },
+  {
+   "time": "10:00",
+   "ccy": "EUR",
+   "event": "German Q3 GDP (final), exp 0.2% q/q",
+   "impact": "low"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "October core PCE, exp +0.3% m/m",
+   "impact": "high"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Q3 GDP (2nd est.), exp ~3.4–3.5%",
+   "impact": "high"
+  },
+  {
+   "time": "16:30",
+   "ccy": "USD",
+   "event": "Jobless claims (exp 201k) & durable goods",
+   "impact": "medium"
+  },
+  {
+   "time": "22:00",
+   "ccy": "USD",
+   "event": "Fed Beige Book",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "TECH",
+   "text": "Nvidia gave back almost 6% and the chip index sank 7.9%; S&P 500 fell 0.5%, Nasdaq 1.5%, while the Dow rose 0.85%."
+  },
+  {
+   "tag": "ASIA",
+   "text": "AI doubts spilled into Asia: the Kospi slid nearly 6% with Samsung and SK Hynix down over 8%, and the Nikkei lost more than 3%."
+  },
+  {
+   "tag": "GOLD",
+   "text": "Gold fell 2.2% to about $3,552 despite a softer dollar, hit by liquidation and hike bets; BCA Research closed its four-year bullish gold call."
+  },
+  {
+   "tag": "FED",
+   "text": "Futures price roughly 95–97% odds of a 25bp Fed hike on 9 Dec; US consumer confidence jumped to 103.3 versus 92.5 expected."
+  },
+  {
+   "tag": "OIL",
+   "text": "Brent touched a three-month low of $88.10, then settled 2.3% higher at $91.40 after more ship attacks around the Strait of Hormuz."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "07:05 TRT · 24h (CoinMarketCap)",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "59,927",
+    "change_pct": -1.97
+   },
+   {
+    "symbol": "ETH",
+    "price": "1,684",
+    "change_pct": -1.48
+   },
+   {
+    "symbol": "SOL",
+    "price": "69.88",
+    "change_pct": -2.54
+   },
+   {
+    "symbol": "XRP",
+    "price": "0.9244",
+    "change_pct": -1.12
+   },
+   {
+    "symbol": "BNB",
+    "price": "549.32",
+    "change_pct": -1.01
+   }
+  ],
+  "news": [
+   {
+    "tag": "ETF",
+    "text": "US spot Bitcoin ETFs lost about $570m on Monday, a fifth straight outflow day, pushing November's total to a record ~$4.7bn."
+   },
+   {
+    "tag": "MARKET",
+    "text": "About $844m of positions were liquidated in 24 hours as Bitcoin slipped back under $60,000; fear & greed index sits at 9."
+   },
+   {
+    "tag": "ALTS",
+    "text": "Hyperliquid's HYPE fell about 7%, Monad hit a record low after a large token unlock, while Monero edged up around 4%."
+   },
+   {
+    "tag": "KOREA",
+    "text": "South Korea's FSC unveiled a crypto bill that would end the ICO ban and allow bank-led won stablecoins."
+   },
+   {
+    "tag": "CFTC",
+    "text": "CFTC staff will let regulated derivatives venues count BTC and ETH toward capital requirements with a 20% haircut."
+   },
+   {
+    "tag": "STRATEGY",
+    "text": "Strategy added 457 BTC for about $29.6m, lifting its holdings to 851,305 BTC."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Thu 26 Nov",
+   "tag": "USD/KRW",
+   "event": "US Thanksgiving; Bank of Korea rate decision",
+   "note": "US markets shut; BoK expected to hike to 3.25%.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 27 Nov 02:30",
+   "tag": "JPY",
+   "event": "Tokyo November CPI",
+   "note": "Markets see high odds of a BoJ hike on 18 Dec.",
+   "impact": "medium"
+  },
+  {
+   "when": "Fri 27 Nov 21:00",
+   "tag": "USD",
+   "event": "US stock market early close",
+   "note": "Thin post-holiday liquidity.",
+   "impact": "low"
+  },
+  {
+   "when": "Sun 29 Nov",
+   "tag": "OIL",
+   "event": "OPEC+ full ministerial meeting",
+   "note": "Set to decide 2027 quotas and baselines.",
+   "impact": "high"
+  },
+  {
+   "when": "Mon 30 Nov 04:30",
+   "tag": "CNY",
+   "event": "China NBS manufacturing PMI",
+   "note": "Previous 49.3.",
+   "impact": "medium"
+  },
+  {
+   "when": "Mon 30 Nov 16:00",
+   "tag": "EUR",
+   "event": "German flash CPI (Nov)",
+   "note": "Previous 2.8% y/y.",
+   "impact": "medium"
+  },
+  {
+   "when": "Tue 1 Dec",
+   "tag": "CRYPTO",
+   "event": "Token unlocks: ENA, TRUMP, WLD, MORPHO",
+   "note": "Roughly $90m combined, plus smaller unlocks.",
+   "impact": "low"
+  },
+  {
+   "when": "Tue 1 Dec 13:00",
+   "tag": "EUR",
+   "event": "Eurozone flash HICP (Nov)",
+   "note": "Previous 4.0% y/y, core 2.6%; key for ECB hike bets.",
+   "impact": "high"
+  },
+  {
+   "when": "Tue 1 Dec 18:00",
+   "tag": "USD",
+   "event": "ISM Manufacturing PMI",
+   "note": "Previous 55.5.",
+   "impact": "high"
+  },
+  {
+   "when": "Wed 2 Dec 16:15",
+   "tag": "USD",
+   "event": "ADP employment",
+   "note": "Previous 86k.",
+   "impact": "medium"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kitco – Gold, silver extend losses as tech stocks slide (24 Nov)",
+   "url": "https://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco"
+  },
+  {
+   "title": "Kitco – Gold struggles to extend rebound (AM report, 24 Nov)",
+   "url": "https://www.kitco.com/news/article/2026-11-24/gold-struggles-extend-rebound-fed-rate-hike-bets-pressure-silver-kitco-am"
+  },
+  {
+   "title": "Kitco – BCA Research ends four-year bullish gold trade",
+   "url": "https://www.kitco.com/news/article/2026-11-24/bca-research-ends-four-year-bullish-gold-trade-us-dollar-fed-take-their"
+  },
+  {
+   "title": "Reuters via Euronext – Dollar slips as Nvidia-fuelled AI rally fades",
+   "url": "https://live.euronext.com/en/financial-news/dollar-slips-nvidia-fueled-ai-rally-fades"
+  },
+  {
+   "title": "Reuters via Investing.com – Wall St dips as chip stocks cool",
+   "url": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-chip-stocks-cool-after-nvidiafueled-rally-5047567"
+  },
+  {
+   "title": "Nation Thailand (Reuters) – Oil settles higher on Hormuz ship attacks",
+   "url": "https://www.nationthailand.com/news/world/40073886"
+  },
+  {
+   "title": "FXEmpire – S&P 500 and Nasdaq: AI stocks slide",
+   "url": "https://www.fxempire.com/forecasts/article/sp500-and-nasdaq-index-ai-stocks-slide-as-nvidia-and-anthropic-retreat-1646943"
+  },
+  {
+   "title": "TradingNews – EUR/USD rebounds from 2026 low",
+   "url": "https://www.tradingnews.com/news/eur-usd-rebounds-to-10964-from-2026-low-clearing-11000-opens-11100-usd-target"
+  },
+  {
+   "title": "InvestingLive – Asian stocks slide as AI doubts return",
+   "url": "https://investinglive.com/stock-market-update/asian-stocks-slide-as-ai-doubts-return-kospi-down-nearly-6-and-nikkei-more-than-3/"
+  },
+  {
+   "title": "ActionForex – Australia CPI surges to 4.9%",
+   "url": "https://www.actionforex.com/live-comments/661997-australia-cpi-surges-to-4-9-as-underlying-inflation-accelerates-to-3-8/"
+  },
+  {
+   "title": "FXStreet – Forecasting the upcoming week",
+   "url": "https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-its-pmi-week-along-with-more-us-inflation-202611201835"
+  },
+  {
+   "title": "The Block – Bitcoin ETFs see another $570m of outflows",
+   "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548"
+  },
+  {
+   "title": "CoinDesk – November spot ETF outflows hit record",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
+  },
+  {
+   "title": "CoinGlass – BTC historical data",
+   "url": "https://www.coinglass.com/currencies/BTC/historical-data/2026"
+  },
+  {
+   "title": "CoinMarketCap – prices",
+   "url": "https://coinmarketcap.com/"
+  }
+ ],
+ "generated_at": "2026-11-25 07:08 TRT"
+}
