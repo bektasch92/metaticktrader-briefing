@@ -1,0 +1,463 @@
+{
+ "lang": "tr",
+ "date": "2026-11-27",
+ "date_label": "Cum 27 Kas",
+ "headline1": "Piyasa havası:",
+ "headline2": "Tatil durgunluğu, Fed artışı fiyatlandı.",
+ "lede": "Sıcak PCE ve büyüme verilerinin ardından Fed'in aralıkta faiz artıracağı neredeyse kesin görülürken piyasalar ABD'deki yarım günlük seansa sakin giriyor. Ons altın çarşamba gördüğü bir yılın dibinin üzerinde 3.575 dolar civarında tutunuyor, Körfez'deki saldırılar Brent'i 97 dolara yaklaştırdı, bitcoin ise 60 bin dolar çevresinde.",
+ "snapshot_time": "07:00 TSİ altın · Döviz ve Brent 26 Kas kapanış · S&P 25 Kas",
+ "snapshot": [
+  {
+   "symbol": "XAUUSD",
+   "price": "3.574,6",
+   "change_pct": 0.23
+  },
+  {
+   "symbol": "EURUSD",
+   "price": "1,0972",
+   "change_pct": 0.01
+  },
+  {
+   "symbol": "US500",
+   "price": "7.182,78",
+   "change_pct": -0.25
+  },
+  {
+   "symbol": "BRENT",
+   "price": "96,57",
+   "change_pct": 2.07
+  }
+ ],
+ "focus": [
+  {
+   "symbol": "XAUUSD",
+   "text": "Çarşamba 3.426'ya kadar gerileyen ons, Fed artış beklentisi tepkileri sınırlarken 3.575 civarında dengeleniyor. 3.573 pivotunun hemen üzerinde; bugünkü ana risk ABD yarım gününde sığ likidite."
+  },
+  {
+   "symbol": "EURUSD",
+   "text": "Şükran Günü işlem hacmini düşürürken 1,097 civarında yatay; 1,10'un altında 50 periyotluk ortalamaya yapışık. Bugün Fransa-İspanya öncü TÜFE ve S&P'nin Fransa notu izlenecek."
+  }
+ ],
+ "technicals": [
+  {
+   "symbol": "XAUUSD",
+   "trend": "Düşüş eğilimli",
+   "timeframe": "1S / 4S",
+   "resistance": [
+    "3.600–3.620",
+    "3.673–3.693",
+    "3.738–3.788"
+   ],
+   "support": [
+    "3.504–3.524",
+    "3.425–3.445",
+    "3.380–3.400"
+   ],
+   "indicators": "RSI(14, 1S) ≈ 54 · günlük pivot 3.573,1 · ay ortasından beri alçalan tepeler",
+   "note": "Ay ortasından bu yana süren alçalan tepeler 4 saatlik grafikte düşen kama oluşturuyor; alıcılar 3.500 bölgesinde ve 3.426'daki bir yıllık dipte etkin."
+  },
+  {
+   "symbol": "EURUSD",
+   "trend": "Yatay",
+   "timeframe": "Gün içi",
+   "resistance": [
+    "1,1010–1,1025",
+    "1,1115–1,1130"
+   ],
+   "support": [
+    "1,0935–1,0950",
+    "1,0900"
+   ],
+   "indicators": "Fiyat 50 periyotluk ortalamada (≈1,0970) · 1,10'un altında baskılı",
+   "note": "Parite tatil işlemlerinde 1,0935–1,1025 aralığında sıkışıyor; 50 periyotluk ortalama aralığın orta noktası işlevi görüyor."
+  },
+  {
+   "symbol": "BTCUSDT",
+   "trend": "Düşüş",
+   "timeframe": "Günlük",
+   "resistance": [
+    "61.700",
+    "64.600",
+    "65.490"
+   ],
+   "support": [
+    "59.400",
+    "57.400",
+    "55.250"
+   ],
+   "indicators": "RSI(14) ≈ 29 · 20 günlük (65.490) ve 50 günlük (71.580) ortalamaların altında · 50 günlük 200 günlüğün altına indi",
+   "note": "Düşen 50 günlük ortalamanın 200 günlüğün altına inmesiyle 'ölüm kesişimi' oluştu; analistler günlük kapanışta 58.525'teki haziran dibini izliyor."
+  },
+  {
+   "symbol": "ETHUSDT",
+   "trend": "Düşüş",
+   "timeframe": "Günlük",
+   "resistance": [
+    "1.850",
+    "1.915"
+   ],
+   "support": [
+    "1.585",
+    "1.530"
+   ],
+   "indicators": "RSI(14) ≈ 31 · düşen 20 günlük (1.851) ve 50 günlük (2.078) ortalamaların altında",
+   "note": "Ether geçen haftaki 1.544 civarındaki dipten toparlanarak 1.690 pivotu yakınında; eylül zirvesinin hâlâ yaklaşık %39 altında."
+  },
+  {
+   "symbol": "SOLUSDT",
+   "trend": "Düşüş",
+   "timeframe": "Günlük",
+   "resistance": [
+    "76,50",
+    "78,50",
+    "86,90"
+   ],
+   "support": [
+    "70,10",
+    "66,70",
+    "60,20"
+   ],
+   "indicators": "RSI(14) ≈ 33 · 20 günlük (76,48) ve 50 günlük (86,86) ortalamaların altında",
+   "note": "Solana üst bandı 78,50 civarında olan düşen kanal içinde kalıyor ve temmuz diplerine yakın desteği test ediyor."
+  }
+ ],
+ "levels": [
+  {
+   "symbol": "XAUUSD",
+   "s1": "3539.7",
+   "pivot": "3573.1",
+   "r1": "3599.9",
+   "bias": "above"
+  }
+ ],
+ "strength": [],
+ "tz": "TSİ",
+ "calendar": [
+  {
+   "time": "02:30",
+   "ccy": "JPY",
+   "event": "Tokyo TÜFE (Kas) — çekirdek %2,9, beklenti %3,0",
+   "impact": "medium"
+  },
+  {
+   "time": "10:45",
+   "ccy": "EUR",
+   "event": "Fransa öncü TÜFE (Kas)",
+   "impact": "medium"
+  },
+  {
+   "time": "11:00",
+   "ccy": "EUR",
+   "event": "İspanya öncü TÜFE (Kas)",
+   "impact": "medium"
+  },
+  {
+   "time": "11:00",
+   "ccy": "BTC",
+   "event": "Deribit aylık opsiyon vadesi (~7 milyar $ BTC)",
+   "impact": "medium"
+  },
+  {
+   "time": "21:00",
+   "ccy": "USD",
+   "event": "ABD borsaları erken kapanış",
+   "impact": "low"
+  },
+  {
+   "time": "Akşam",
+   "ccy": "EUR",
+   "event": "S&P'nin Fransa kredi notu incelemesi",
+   "impact": "medium"
+  }
+ ],
+ "news": [
+  {
+   "tag": "FED",
+   "text": "Ekim çekirdek PCE'nin %3,3'e çıkması ve 3. çeyrek büyümenin %4,3'e revize edilmesiyle aralık artışı yaklaşık %99 fiyatlanıyor; FOMC sessizlik dönemi cumartesi başlıyor."
+  },
+  {
+   "tag": "PETROL",
+   "text": "Husilerin Suudi rafinerilerine saldırısı ve Hürmüz yakınında tankerlerin mayına çarptığı haberleriyle Brent üst üste üçüncü günde yükselip 96,57 dolardan (%2,07) kapandı."
+  },
+  {
+   "tag": "OPEC+",
+   "text": "Bakanlar pazar günü toplanıyor; kaynaklar üretim hedeflerinin en az 2027'nin ilk çeyreğine kadar korunabileceğini söylüyor, Irak kapasite tahminine itiraz ediyor."
+  },
+  {
+   "tag": "JPY",
+   "text": "Tokyo çekirdek enflasyonu %2,9 ile beklentinin altında kaldı, USD/JPY 159,35 civarında; Tokyo tek yönlü hareketlere karşı uyardı, 160 müdahale eşiği olarak görülüyor."
+  },
+  {
+   "tag": "HİSSE",
+   "text": "Avrupa borsaları perşembe güçlü yükseldi (DAX %2,1, Stoxx 600 %1,75); Wall Street bugün kısaltılmış seansla açılıyor."
+  }
+ ],
+ "crypto": {
+  "snapshot_time": "26 Kas 16:00 TSİ · günlük değişim",
+  "snapshot": [
+   {
+    "symbol": "BTC",
+    "price": "60.945",
+    "change_pct": 0.81
+   },
+   {
+    "symbol": "ETH",
+    "price": "1.705,5",
+    "change_pct": 0.86
+   },
+   {
+    "symbol": "SOL",
+    "price": "71,05",
+    "change_pct": 0.94
+   },
+   {
+    "symbol": "HYPE",
+    "price": "61,15",
+    "change_pct": -0.89
+   }
+  ],
+  "news": [
+   {
+    "tag": "ETF",
+    "text": "ABD spot bitcoin ETF'lerinden çarşamba 453 milyon $ çıktı; yedinci günlük çıkışla kasımdaki toplam 5,39 milyar $ ile rekor kırdı, ether fonları 68,5 milyon $ kaybetti."
+   },
+   {
+    "tag": "OPSİYON",
+    "text": "Bugün 11:00 TSİ'de Deribit'te yaklaşık 7 milyar $'lık bitcoin opsiyonunun ve CME kasım vadeli kontratlarının vadesi doluyor; sığ piyasada oynaklık artabilir."
+   },
+   {
+    "tag": "STABLECOIN",
+    "text": "Dolar bazlı stablecoin arzı bu ay yaklaşık 14,75 milyar $ azaldı; 2022 ortasından beri en sert aylık düşüş, sektörden likidite çıkışına işaret ediyor."
+   },
+   {
+    "tag": "ALTCOIN",
+    "text": "Son 24 saatte XRP ve Solana sınırlı yükselişe öncülük etti; Franklin'in kripto endeks ETF'i 1 Aralık'ta HYPE ekleyecek, pazar günü FF kilidi açılıyor."
+   },
+   {
+    "tag": "REGÜLASYON",
+    "text": "İspanya mali istihbarat birimine mahkeme kararı olmadan kripto hesaplarını dondurma yetkisi veriyor; Japonya FSA DeFi'ye kısıtlamaları değerlendiriyor."
+   },
+   {
+    "tag": "DUYARLILIK",
+    "text": "Korku ve Açgözlülük endeksi 11–12 ile aşırı korku bölgesinde; Galaxy bitcoin için önceki dip tahminini geri çekti."
+   }
+  ]
+ },
+ "upcoming": [
+  {
+   "when": "Cum 27 Kas 11:00",
+   "tag": "KRİPTO",
+   "event": "BTC aylık opsiyon vadesi",
+   "note": "Deribit'te yaklaşık 7 milyar $.",
+   "impact": "medium"
+  },
+  {
+   "when": "Cum 27 Kas",
+   "tag": "EUR",
+   "event": "S&P Fransa not incelemesi",
+   "note": "Akşam saatlerinde; euro ve Fransız tahvilleri için risk.",
+   "impact": "medium"
+  },
+  {
+   "when": "Paz 29 Kas 16:00",
+   "tag": "PETROL",
+   "event": "OPEC+ bakanlar toplantısı",
+   "note": "Hedeflerin 2027 1. çeyreğe kadar korunması bekleniyor.",
+   "impact": "high"
+  },
+  {
+   "when": "Paz 29 Kas",
+   "tag": "KRİPTO",
+   "event": "FF token kilit açılımı",
+   "note": "Dolaşımdaki arzın yaklaşık %6,2'si (~21 milyon $).",
+   "impact": "low"
+  },
+  {
+   "when": "Sal 1 Ara 10:00",
+   "tag": "TÜİK",
+   "event": "3. çeyrek GSYH",
+   "note": "Beklenti yıllık %2,7; önceki %2,3.",
+   "impact": "high"
+  },
+  {
+   "when": "Sal 1 Ara 18:00",
+   "tag": "USD",
+   "event": "ISM imalat PMI (Kas)",
+   "note": "Sıcak PCE/GSYH sonrası ilk büyük ABD verisi.",
+   "impact": "high"
+  },
+  {
+   "when": "Per 3 Ara 10:00",
+   "tag": "TÜİK",
+   "event": "Kasım enflasyonu (TÜFE)",
+   "note": "Beklenti aylık %1,10, yıllık ~%30,1; Ekim %29,77.",
+   "impact": "high"
+  },
+  {
+   "when": "Per 3 Ara 12:00",
+   "tag": "EUR",
+   "event": "Euro Bölgesi PMI (Kas, nihai)",
+   "note": "ECB aralık toplantısı öncesi büyüme göstergesi.",
+   "impact": "medium"
+  },
+  {
+   "when": "Cum 4 Ara 16:30",
+   "tag": "USD",
+   "event": "Tarım dışı istihdam (Kas)",
+   "note": "8–9 Aralık FOMC öncesi son istihdam raporu.",
+   "impact": "high"
+  },
+  {
+   "when": "Cum 4 Ara",
+   "tag": "KRİPTO",
+   "event": "Pump.fun block0 ücreti başlıyor",
+   "note": "Tüm token lansmanlarına yeni ücret.",
+   "impact": "low"
+  }
+ ],
+ "turkey": {
+  "snapshot_time": "26 Kas 18:30 kapanış (Bloomberg HT)",
+  "summary": "BIST 100, çarşambaki %2,83'lük sert düşüşün ardından perşembe %0,82 yükselerek 10.743 puandan kapandı; gün içinde %2'yi aşan kazancın bir kısmı akşam saatlerinde geri verildi. Dolar/TL 50,68 ile yatay seyrederken TCMB rezervlerinin 1,5 yılın en düşüğüne indiğine dair haberler izlendi. Piyasanın gündeminde 1 Aralık'taki büyüme ve 3 Aralık'taki kasım enflasyonu verisi var.",
+  "snapshot": [
+   {
+    "symbol": "USD/TRY",
+    "price": "50,68",
+    "change_pct": -0.01
+   },
+   {
+    "symbol": "EUR/TRY",
+    "price": "55,76",
+    "change_pct": 0.25
+   },
+   {
+    "symbol": "BIST 100",
+    "price": "10.743,11",
+    "change_pct": 0.82
+   },
+   {
+    "symbol": "GRAM ALTIN",
+    "price": "5.826,37 ₺",
+    "change_pct": 0.04
+   }
+  ],
+  "news": [
+   {
+    "tag": "BORSA",
+    "text": "BIST 100 tepki alımıyla %0,82 yükseldi; turizm (%3,97) ve metal ana sanayi (%2,93) öne çıkarken sigorta endeksi %1,51 geriledi. Analistler 10.500 desteği ve 10.900 direncini izliyor."
+   },
+   {
+    "tag": "ENFLASYON",
+    "text": "Bloomberg HT anketinde kasım için aylık beklenti medyanı %1,10, yıllık %30,10 oldu; ekimde yıllık enflasyon %29,77 seviyesindeydi."
+   },
+   {
+    "tag": "TCMB",
+    "text": "Bloomberg HT'ye göre TCMB rezervleri son 1,5 yılın en düşük düzeyine indi; Merkez Bankası'nın altın alımlarına ara verdiği de haberlerde yer aldı."
+   },
+   {
+    "tag": "VERGİ",
+    "text": "2027 için yeniden değerleme oranı %27,83 olarak belirlendi; Bloomberg, TL'yi desteklemek için mevduat stopajında indirim gelebileceğini aktardı."
+   },
+   {
+    "tag": "THY",
+    "text": "THY yönetimi jet yakıtı maliyetinin bütçelenen yaklaşık 700 doların iki katını aştığını, %8–9'luk büyüme hedefinin oldukça gerisinde kalınacağını söyledi."
+   }
+  ],
+  "upcoming": [
+   {
+    "when": "Cum 27 Kas",
+    "tag": "TCMB",
+    "event": "Finansal İstikrar Raporu",
+    "note": "Rezervler ve bankacılık sektörüne dair değerlendirmeler izlenecek.",
+    "impact": "medium"
+   },
+   {
+    "when": "Sal 1 Ara 10:00",
+    "tag": "TÜİK",
+    "event": "3. çeyrek GSYH",
+    "note": "Beklenti yıllık %2,7, çeyreklik %0,5; 2. çeyrek %2,3.",
+    "impact": "high"
+   },
+   {
+    "when": "Per 3 Ara 10:00",
+    "tag": "TÜİK",
+    "event": "Kasım enflasyonu (TÜFE)",
+    "note": "Beklenti aylık %1,10, yıllık ~%30,1; kira artış tavanını belirleyecek.",
+    "impact": "high"
+   },
+   {
+    "when": "Per 10 Ara",
+    "tag": "TCMB",
+    "event": "PPK faiz kararı",
+    "note": "Yılın son toplantısı; özet 17 Aralık'ta.",
+    "impact": "high"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "Mitrade – Gold dips in holiday trading on recession fears",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-dips-holiday-trading-recession-fears"
+  },
+  {
+   "title": "MetalCharts – XAU/USD historical data 2026",
+   "url": "https://metalcharts.org/xauusd-historical-data/2026"
+  },
+  {
+   "title": "FXEmpire – Dollar gains in holiday-thinned trading",
+   "url": "https://www.fxempire.com/forecasts/article/u-s-dollar-gains-ground-in-holiday-thinned-trading-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1647563"
+  },
+  {
+   "title": "investingLive – European session wrap, 26 Nov",
+   "url": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/"
+  },
+  {
+   "title": "GSM Global News – Brent settles at $96.57",
+   "url": "https://gsmglobalnews.com/article/d20261126-brent96571.html"
+  },
+  {
+   "title": "The Nation – Brent gains as OPEC+ weighs 2027 quotas",
+   "url": "https://www.nationthailand.com/news/world/40073981"
+  },
+  {
+   "title": "Newsquawk – Weekly economic calendar 23–27 Nov",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  },
+  {
+   "title": "Investing.com – Tokyo CPI firms in November",
+   "url": "https://in.investing.com/news/economic-indicators/tokyo-cpi-firms-in-nov-core-inflation-slightly-misses-expectations-5727558"
+  },
+  {
+   "title": "FXBrokerTrust – Tokyo CPI miss and the 160 line",
+   "url": "https://www.fxbrokertrust.com/insights/tokyo-cpi-miss-weighs-on-yen-as-markets-watch-160-intervention-line"
+  },
+  {
+   "title": "The Block – Spot bitcoin ETFs on track for worst month",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
+  },
+  {
+   "title": "Capital Street FX – Daily crypto report, 26 Nov",
+   "url": "https://www.capitalstreetfx.com/market-analysis/daily-crypto-report-26-nov-2026/"
+  },
+  {
+   "title": "KuCoin – Crypto daily market report, 26 Nov",
+   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
+  },
+  {
+   "title": "DigitalToday – Bitcoin death cross",
+   "url": "https://www.digitaltoday.co.kr/en/view/131622/bitcoin-death-cross-spotted-can-it-hold-above-60000"
+  },
+  {
+   "title": "Bloomberg HT – Piyasalarda günün özeti, 26 Kasım 2026",
+   "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-26-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3795780"
+  },
+  {
+   "title": "CNBC-e – Borsa günü yükselişle kapadı (26 Kasım)",
+   "url": "https://www.cnbce.com/borsa/borsa-gunu-yukselisle-kapadi-26-kasim-2026-h42662"
+  },
+  {
+   "title": "CNBC-e – Büyüme anketi: 3. çeyrek tahmini",
+   "url": "https://www.cnbce.com/haberler/cnbc-e-buyume-anketi-ekonomistlerin-3-ceyrek-tahmini-ne-oldu-h42537"
+  }
+ ],
+ "generated_at": "2026-11-27 07:06 TSİ"
+}
