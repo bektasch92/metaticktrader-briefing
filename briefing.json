@@ -1,295 +1,244 @@
 {
- "date": "2026-11-27",
- "date_label": "Fri 27 Nov",
+ "date": "2026-11-28",
+ "date_label": "Sat 28 Nov",
  "headline1": "Market mood:",
- "headline2": "Holiday-thin, Fed hike priced.",
- "lede": "Markets drift into a US half-day session with a December Fed hike almost fully priced after hot PCE and GDP data. Gold holds near $3,575 above Wednesday's one-year low, Brent pushed toward $97 on Gulf supply attacks, and bitcoin hovers around $60K.",
- "snapshot_time": "07:00 TRT gold · FX & Brent 26 Nov close · S&P 25 Nov",
+ "headline2": "Gold rebounds, crypto slips.",
+ "lede": "Gold jumped about 2.4% on Friday and the S&P 500 logged its best week since April 2025 in a holiday-shortened session, while the dollar firmed after soft eurozone inflation. Bitcoin fell back below $60,000 after a large options expiry, capping a November on course for its steepest monthly drop in over four years.",
+ "snapshot_time": "Fri 27 Nov close · FX & gold closed for the weekend",
  "snapshot": [
   {
    "symbol": "XAUUSD",
-   "price": "3,574.6",
-   "change_pct": 0.23
+   "price": "3,654.4",
+   "change_pct": 2.44
   },
   {
    "symbol": "EURUSD",
-   "price": "1.0972",
-   "change_pct": 0.01
+   "price": "1.0936",
+   "change_pct": -0.35
   },
   {
    "symbol": "US500",
-   "price": "7,182.78",
-   "change_pct": -0.25
+   "price": "7,297.49",
+   "change_pct": 1.6
   },
   {
    "symbol": "BRENT",
-   "price": "96.57",
-   "change_pct": 2.07
+   "price": "95.44",
+   "change_pct": -1.17
   }
  ],
  "focus": [
   {
    "symbol": "XAUUSD",
-   "text": "Steadying near 3,575 after Wednesday's dip to 3,426 as near-certain Fed hike pricing caps rebounds. Sits just above its 3,573 pivot; thin US half-day liquidity is today's main risk."
+   "text": "Rebounded 2.4% Friday to about 3,654 (+3.3% on the week) after Wednesday's one-year low near 3,426. Opens Monday above its 3,631.8 pivot; Tuesday's ISM is the first big risk."
   },
   {
    "symbol": "EURUSD",
-   "text": "Flat around 1.097 as Thanksgiving drained volume, hugging its 50-period average below 1.10. France and Spain flash CPI and S&P's France rating review are today's risks."
+   "text": "Slipped 0.35% to 1.0936 as softer French and Spanish inflation and weak sentiment data weighed. No pivot confirmed; US ISM and eurozone data next week are the risks."
   }
  ],
  "technicals": [
   {
    "symbol": "XAUUSD",
    "trend": "Bearish bias",
-   "timeframe": "H1 / H4",
+   "timeframe": "Daily",
    "resistance": [
-    "3,600–3,620",
-    "3,673–3,693",
-    "3,738–3,788"
+    "3,685",
+    "3,707.5",
+    "3,750"
    ],
    "support": [
-    "3,504–3,524",
-    "3,425–3,445",
-    "3,380–3,400"
+    "3,600",
+    "3,578.7",
+    "3,500"
    ],
-   "indicators": "RSI(14, H1) ≈ 54 · daily pivot 3,573.1 · lower highs since mid-November",
-   "note": "A run of lower highs since mid-month is forming a falling wedge on the 4-hour chart, with buyers active around 3,500 and the 3,426 one-year low."
+   "indicators": "20- and 50-day MAs still sloping lower · Monday pivot 3,631.8 · Friday range 3,556–3,685",
+   "note": "Friday's sharp rebound from the one-year low left a V-shaped recovery inside a falling trend, with 3,750 the next resistance analysts cite and 3,500 the floor below."
   },
   {
    "symbol": "EURUSD",
-   "trend": "Range",
-   "timeframe": "Intraday",
+   "trend": "Bearish bias",
+   "timeframe": "Daily / H4",
    "resistance": [
-    "1.1010–1.1025",
-    "1.1115–1.1130"
+    "1.0950–1.0965",
+    "1.1010",
+    "1.1062"
    ],
    "support": [
-    "1.0935–1.0950",
-    "1.0900"
+    "1.0900",
+    "1.0874"
    ],
-   "indicators": "Price at the 50-period MA (≈1.0970) · capped below the 1.10 handle",
-   "note": "The pair is coiling between 1.0935 and 1.1025, with the 50-period average acting as the midpoint in holiday trade."
+   "indicators": "MACD near the zero line · Stochastic neutral (~50) · down about 1.7% in November",
+   "note": "The pair fell back toward the lower end of its recent range after failing below 1.10, with 1.0874 the last swing low on the chart."
   },
   {
    "symbol": "BTCUSDT",
    "trend": "Bearish",
    "timeframe": "Daily",
    "resistance": [
-    "61,700",
-    "64,600",
-    "65,490"
+    "61,270",
+    "62,250",
+    "64,000–64,600"
    ],
    "support": [
-    "59,400",
-    "57,400",
-    "55,250"
+    "58,760",
+    "57,000",
+    "55,000–55,150"
    ],
-   "indicators": "RSI(14) ≈ 29 · below 20-day (65,490) & 50-day (71,580) MAs · 50-day crossed below 200-day",
-   "note": "A 'death cross' has formed as the falling 50-day average slipped under the 200-day; the 58,525 June closing low is the level analysts watch on a daily close."
+   "indicators": "RSI(14) ≈ 26 (oversold) · below 200-week SMA (≈68,360) · lower Bollinger band ≈54,190",
+   "note": "Price rejected near 62,250 on Friday and slipped back under the 61,270 weekly open, keeping the daily structure of lower highs intact."
   },
   {
    "symbol": "ETHUSDT",
    "trend": "Bearish",
    "timeframe": "Daily",
    "resistance": [
-    "1,850",
-    "1,915"
+    "1,664–1,668",
+    "1,711–1,722",
+    "1,755"
    ],
    "support": [
-    "1,585",
-    "1,530"
+    "1,634",
+    "1,609",
+    "1,538"
    ],
-   "indicators": "RSI(14) ≈ 31 · below 20-day (1,851) & 50-day (2,078) MAs, both falling",
-   "note": "Ether trades near its 1,690 pivot after rebounding from last week's low near 1,544, still about 39% below its September high."
-  },
-  {
-   "symbol": "SOLUSDT",
-   "trend": "Bearish",
-   "timeframe": "Daily",
-   "resistance": [
-    "76.50",
-    "78.50",
-    "86.90"
-   ],
-   "support": [
-    "70.10",
-    "66.70",
-    "60.20"
-   ],
-   "indicators": "RSI(14) ≈ 33 · below 20-day (76.48) & 50-day (86.86) MAs",
-   "note": "Solana remains inside a falling channel whose upper line sits near 78.50, testing support close to its July lows."
+   "indicators": "RSI(14) ≈ 28 (oversold) · former support at 1,664 now acting as resistance",
+   "note": "Ether lost the 1,664 area overnight, turning it into resistance, with the 21 Nov low near 1,538 the last major support below."
   }
  ],
  "levels": [
   {
    "symbol": "XAUUSD",
-   "s1": "3539.7",
-   "pivot": "3573.1",
-   "r1": "3599.9",
+   "s1": "3578.7",
+   "pivot": "3631.8",
+   "r1": "3707.5",
    "bias": "above"
   }
  ],
  "strength": [],
  "tz": "TRT",
- "calendar": [
-  {
-   "time": "02:30",
-   "ccy": "JPY",
-   "event": "Tokyo CPI (Nov) — core 2.9% vs 3.0% exp.",
-   "impact": "medium"
-  },
-  {
-   "time": "10:45",
-   "ccy": "EUR",
-   "event": "France flash CPI (Nov)",
-   "impact": "medium"
-  },
-  {
-   "time": "11:00",
-   "ccy": "EUR",
-   "event": "Spain flash CPI (Nov)",
-   "impact": "medium"
-  },
-  {
-   "time": "11:00",
-   "ccy": "BTC",
-   "event": "Deribit monthly options expiry (~$7B BTC)",
-   "impact": "medium"
-  },
-  {
-   "time": "21:00",
-   "ccy": "USD",
-   "event": "US stock market early close",
-   "impact": "low"
-  },
-  {
-   "time": "Late",
-   "ccy": "EUR",
-   "event": "S&P rating review of France",
-   "impact": "medium"
-  }
- ],
+ "calendar": [],
  "news": [
   {
+   "tag": "STOCKS",
+   "text": "S&P 500 rose 1.6% to 7,297.49 in Friday's half-day, its best week since April 2025; the Nasdaq added 2.3% as chip and AI names rebounded."
+  },
+  {
    "tag": "FED",
-   "text": "Futures price a December Fed hike at roughly 99% after October core PCE hit 3.3% and Q3 GDP was revised to 4.3%; the FOMC blackout starts Saturday."
+   "text": "The Fed's pre-meeting blackout has begun with markets pricing a 25bp hike on 9 Dec at roughly 93–100%; the US 10-year yield ended near 4.9%."
   },
   {
    "tag": "OIL",
-   "text": "Brent settled at $96.57 (+2.07%), a third straight gain, after Houthi strikes on Saudi refineries and reports of tankers hitting mines near Hormuz."
+   "text": "Brent settled 1.2% lower at $95.44 but gained about 3% on the week, its first weekly rise in November, as Houthi strikes on Saudi facilities kept supply fears alive."
   },
   {
    "tag": "OPEC+",
-   "text": "Ministers meet Sunday; delegates told Reuters the group may keep output targets unchanged through at least Q1 2027, while Iraq disputes its capacity estimate."
+   "text": "Ministers meet Sunday; delegates indicate first-quarter 2027 output targets will stay unchanged, while Iraq seeks a higher production ceiling."
   },
   {
-   "tag": "JPY",
-   "text": "Tokyo core inflation rose to 2.9% but missed the 3.0% forecast, leaving USD/JPY near 159.35; Tokyo warned against one-sided moves, with 160 seen as the intervention zone."
-  },
-  {
-   "tag": "STOCKS",
-   "text": "European equities rallied on Thursday — DAX +2.1%, Stoxx 600 +1.75% — while Wall Street reopens today for a shortened session."
+   "tag": "EUR",
+   "text": "French CPI (3.2% vs 3.6% expected) and Spanish HICP (4.1% vs 4.9%) undershot, and the euro-area sentiment index fell to a five-month low."
   }
  ],
  "crypto": {
-  "snapshot_time": "26 Nov 16:00 TRT · day change",
+  "snapshot_time": "27 Nov late US session · 24h (Bitcoin.com)",
   "snapshot": [
    {
     "symbol": "BTC",
-    "price": "60,945",
-    "change_pct": 0.81
+    "price": "59,903",
+    "change_pct": -2.5
    },
    {
     "symbol": "ETH",
-    "price": "1,705.5",
-    "change_pct": 0.86
+    "price": "1,663.09",
+    "change_pct": -3.76
    },
    {
     "symbol": "SOL",
-    "price": "71.05",
-    "change_pct": 0.94
+    "price": "71.69",
+    "change_pct": -1.4
    },
    {
-    "symbol": "HYPE",
-    "price": "61.15",
-    "change_pct": -0.89
+    "symbol": "XRP",
+    "price": "0.95",
+    "change_pct": -1.34
    }
   ],
   "news": [
    {
-    "tag": "ETF",
-    "text": "US spot bitcoin ETFs shed $453M on Wednesday, a seventh outflow day, taking November redemptions to a record $5.39B; ether funds lost $68.5M."
-   },
-   {
     "tag": "OPTIONS",
-    "text": "Around $7B of bitcoin options expire on Deribit at 11:00 TRT today, alongside CME's November futures, which can add volatility in thin trade."
+    "text": "About $6.75B of bitcoin options expired on Deribit Friday with max pain at $70K; BTC swung from near $62,250 to about $58,760 after the US open."
    },
    {
-    "tag": "STABLECOINS",
-    "text": "Dollar stablecoin supply has fallen about $14.75B this month, the steepest monthly drop since mid-2022, signalling liquidity leaving the sector."
+    "tag": "MONTH",
+    "text": "Bitcoin is down roughly 21–23% in November from a $77.6K open, on track for its biggest monthly fall in more than four years."
    },
    {
-    "tag": "ALTCOINS",
-    "text": "XRP and Solana led modest gains over the past day; Franklin's crypto index ETF is set to add HYPE on 1 Dec, and an FF unlock lands Sunday."
-   },
-   {
-    "tag": "REGULATION",
-    "text": "Spain moved to let its financial-intelligence unit freeze crypto accounts without a court order, while Japan's FSA is studying DeFi curbs."
+    "tag": "ETF",
+    "text": "US spot bitcoin ETFs have shed a record $5.39B this month through 25 Nov, while ether funds lost about $1.30B; Thanksgiving-week data resumes Monday."
    },
    {
     "tag": "SENTIMENT",
-    "text": "The Fear & Greed index sits at 11–12, extreme fear; Galaxy withdrew its earlier bottom call for bitcoin."
+    "text": "The Fear & Greed index sits at 12, extreme fear; CryptoQuant flags a large pocket of short positions between $60K and $100K."
+   },
+   {
+    "tag": "EXCHANGES",
+    "text": "KuCoin said it will delist Monero spot pairs, Moscow Exchange plans to open crypto trading on 1 Dec, and Binance Blockchain Week runs in Bangkok this weekend."
+   },
+   {
+    "tag": "ALTCOINS",
+    "text": "GraniteShares launched two 3x leveraged XRP ETFs, and Ethereum developers scheduled a December test for the Glamsterdam upgrade."
    }
   ]
  },
  "upcoming": [
   {
-   "when": "Fri 27 Nov 11:00",
+   "when": "Sat 28 – Sun 29 Nov",
    "tag": "CRYPTO",
-   "event": "BTC monthly options expiry",
-   "note": "About $7B notional on Deribit.",
-   "impact": "medium"
-  },
-  {
-   "when": "Fri 27 Nov",
-   "tag": "EUR",
-   "event": "S&P rating review of France",
-   "note": "Late evening; tail risk for euro and French bonds.",
-   "impact": "medium"
+   "event": "Binance Blockchain Week, Bangkok",
+   "note": "Exchange announcements possible over the weekend.",
+   "impact": "low"
   },
   {
    "when": "Sun 29 Nov 16:00",
    "tag": "OIL",
    "event": "OPEC+ ministerial meeting",
-   "note": "Rollover of output targets through Q1 2027 expected.",
+   "note": "Q1 2027 output targets expected unchanged.",
    "impact": "high"
   },
   {
    "when": "Sun 29 Nov",
    "tag": "CRYPTO",
-   "event": "FF token unlock",
-   "note": "About 6.2% of circulating supply (~$21M).",
+   "event": "Falcon Finance (FF) token unlock",
+   "note": "About 6% of circulating supply.",
+   "impact": "low"
+  },
+  {
+   "when": "Mon 30 Nov",
+   "tag": "CRYPTO",
+   "event": "KuCoin Monero delisting; Nov ETF flows",
+   "note": "Month-end; delayed ETF flow data due.",
+   "impact": "low"
+  },
+  {
+   "when": "Tue 1 Dec",
+   "tag": "CRYPTO",
+   "event": "Moscow Exchange starts crypto trading",
+   "note": "BTC, ETH and USDT products.",
    "impact": "low"
   },
   {
    "when": "Tue 1 Dec 18:00",
    "tag": "USD",
-   "event": "ISM Manufacturing PMI (Nov)",
-   "note": "First big US print after the hot PCE/GDP data.",
+   "event": "ISM Manufacturing PMI & JOLTS",
+   "note": "First major US data after hot PCE/GDP.",
    "impact": "high"
-  },
-  {
-   "when": "Tue 1 Dec",
-   "tag": "CRYPTO",
-   "event": "Franklin Crypto Index ETF adds HYPE",
-   "note": "Index rebalance.",
-   "impact": "low"
   },
   {
    "when": "Thu 3 Dec 12:00",
    "tag": "EUR",
    "event": "Euro-area PMI (Nov, final)",
-   "note": "Gauge of growth before the ECB's December meeting.",
+   "note": "Growth check before the 17 Dec ECB meeting.",
    "impact": "medium"
   },
   {
@@ -298,76 +247,65 @@
    "event": "Nonfarm payrolls (Nov)",
    "note": "Last jobs report before the 8–9 Dec FOMC.",
    "impact": "high"
-  },
-  {
-   "when": "Fri 4 Dec",
-   "tag": "CRYPTO",
-   "event": "Pump.fun block0 fee starts",
-   "note": "New fee on all token launches.",
-   "impact": "low"
   }
  ],
  "sources": [
   {
-   "title": "Mitrade – Gold dips in holiday trading on recession fears",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-dips-holiday-trading-recession-fears"
+   "title": "Longbridge – Spot gold closes up 2.43% on Friday",
+   "url": "https://longbridge.com/en/news/307064405"
   },
   {
    "title": "MetalCharts – XAU/USD historical data 2026",
    "url": "https://metalcharts.org/xauusd-historical-data/2026"
   },
   {
-   "title": "FXEmpire – Dollar gains in holiday-thinned trading",
-   "url": "https://www.fxempire.com/forecasts/article/u-s-dollar-gains-ground-in-holiday-thinned-trading-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1647563"
+   "title": "ANC – Gold heads for weekly gain after one-year low",
+   "url": "https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/"
   },
   {
-   "title": "investingLive – European session wrap, 26 Nov",
-   "url": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/"
+   "title": "The Library – Forex day close report, 27 Nov",
+   "url": "https://thelibraryestate.com/forex-day-close-report-dollar-gains-as-yields-rise-brazils-real-leads-currency-moves-nov-27-2026/"
   },
   {
-   "title": "GSM Global News – Brent settles at $96.57",
-   "url": "https://gsmglobalnews.com/article/d20261126-brent96571.html"
+   "title": "FinScans – EUR/USD slips on weak eurozone data",
+   "url": "https://finscans.com/news/2026/11/27/eurusd-slips-to-10965-as-weak-eurozone-data-weighs-on"
   },
   {
-   "title": "The Nation – Brent gains as OPEC+ weighs 2027 quotas",
-   "url": "https://www.nationthailand.com/news/world/40073981"
+   "title": "RoboForex – EUR/USD analysis, 27 Nov",
+   "url": "https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-11-27/"
   },
   {
-   "title": "Newsquawk – Weekly economic calendar 23–27 Nov",
-   "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+   "title": "Motley Fool – Stock market today, 27 Nov",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
   },
   {
-   "title": "Investing.com – Tokyo CPI firms in November",
-   "url": "https://in.investing.com/news/economic-indicators/tokyo-cpi-firms-in-nov-core-inflation-slightly-misses-expectations-5727558"
+   "title": "The Circuitry – Brent settles at $95.44",
+   "url": "https://thecircuitry.to/article/brent-settles-friday-at-9544-and-wti-at-8308-mwzhz7en"
   },
   {
-   "title": "FXBrokerTrust – Tokyo CPI miss and the 160 line",
-   "url": "https://www.fxbrokertrust.com/insights/tokyo-cpi-miss-weighs-on-yen-as-markets-watch-160-intervention-line"
+   "title": "crypto.news – Bitcoin slips below $60K",
+   "url": "https://crypto.news/bitcoin-price-slips-below-60k-traders-watch-55k/"
   },
   {
-   "title": "The Block – Spot bitcoin ETFs on track for worst month",
-   "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
+   "title": "crypto.news – Bitcoin ETFs lose $5.39B in November",
+   "url": "https://crypto.news/bitcoin-etf-outflows-november-crypto-debt/"
   },
   {
-   "title": "Capital Street FX – Daily crypto report, 26 Nov",
-   "url": "https://www.capitalstreetfx.com/market-analysis/daily-crypto-report-26-nov-2026/"
+   "title": "Bitcoin.com – Options expiry and weekend risk",
+   "url": "https://news.bitcoin.com/crypto-news/bitcoin-price-arthur-hayes-weekend-dump-options-expiry/"
   },
   {
-   "title": "KuCoin – Crypto daily market report, 26 Nov",
-   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
+   "title": "Longbridge – Bitcoin back below $60,000",
+   "url": "https://longbridge.com/en/news/307066894"
   },
   {
-   "title": "DigitalToday – Bitcoin death cross",
-   "url": "https://www.digitaltoday.co.kr/en/view/131622/bitcoin-death-cross-spotted-can-it-hold-above-60000"
+   "title": "KuCoin – ETH technical analysis, 28 Nov",
+   "url": "https://www.kucoin.com/news/insight/ETH/6b0a1c15fe5fdf0007d5b3b4"
   },
   {
-   "title": "Macrobond – Week of 30 November 2026",
-   "url": "https://www.macrobond.com/resources/macro-charts/week-of-november-30-2026"
-  },
-  {
-   "title": "Bloomberg HT – Market summary, 26 Nov 2026",
-   "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-26-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3795780"
+   "title": "Kriptofoni – Crypto calendar 23–29 Nov",
+   "url": "https://www.kriptofoni.com/en/crypto-market-november-23-29-2026-calendar/"
   }
  ],
- "generated_at": "2026-11-27 07:06 TRT"
+ "generated_at": "2026-11-28 07:20 TRT"
 }
